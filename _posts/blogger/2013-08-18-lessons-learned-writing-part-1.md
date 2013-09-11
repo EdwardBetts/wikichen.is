@@ -4,6 +4,7 @@ title: "Lessons Learned Writing, Part I"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/writing.jpg
 image_alt: "Writing"
+category: blogger
 ---
 
 At the beginning of August I started a project to [write everyday for a year][write]. 2 weeks, 17 posts, 13k words, 50k views, and a lot of caffeine later, I'm happy to be writing this update to share what I've learned and to propose some appropriate changes to the scope of the project.

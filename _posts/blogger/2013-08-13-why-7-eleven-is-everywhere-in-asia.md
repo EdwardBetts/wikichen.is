@@ -5,6 +5,7 @@ comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/7-eleven.jpg
 image_alt: "A 7-Eleven in Taiwan"
 image_source: http://www.flickr.com/photos/randomwire/4539000419/
+category: blogger
 ---
 
 If you've ever found yourself in an urban part of Asia, chances are you'll come across 7-Eleven stores nearly everywhere you go. The ubiquity of these chain convenience stores on street corners has been a subject of much personal curiosity since I was a kid growing up in Taiwan, so I'm actually going to set aside some time today to lay down some groundwork on answering this seemingly trite inquiry: just why are there so many 7-Elevens in Asia compared to the rest of the world?

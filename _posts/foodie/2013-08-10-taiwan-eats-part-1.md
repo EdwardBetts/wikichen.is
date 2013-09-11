@@ -2,6 +2,7 @@
 layout: post
 title: "Taiwan Eats: On the Streets"
 comments: true
+category: foodie
 ---
 
 *This is a 3-part series on Taiwanese food culture: [Part 1][p1] explores food you find on the streets, [Part 2][p2] talks about family style eating, and [Part 3][p3] highlights some of my favorite dishes.*

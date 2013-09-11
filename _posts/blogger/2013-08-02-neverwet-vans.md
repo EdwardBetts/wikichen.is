@@ -4,6 +4,7 @@ title: "NeverWet Vans"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/neverwet_vans.jpg
 image_alt: "NeverWet and My Vans"
+category: blogger
 ---
 
 A few years ago Ross Nanotechnology [posted a video][video] of a special coating which seems to magically repel any liquid when applied to a surface: chocolate syrup is poured over a treated pair of sneakers, but they emerge dry and unscathed. The demonstration quickly went viral, but it wasn't until recently that you were able to purchase this unbelievable superhydrophobic repellant [at your local Home Depot][depot] for $20.

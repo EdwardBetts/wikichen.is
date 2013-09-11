@@ -5,6 +5,7 @@ comments: true
 image_cover: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/startuphouse.jpg
 image_alt: "StartupHouse Wall of Fame"
+category: blogger
 ---
 
 *As luck would have it, I came down with one of the worst stomach flus I've ever experienced. I promise to resume writing tomorrow, as I'm currently having trouble moving, much less form coherent sentences in this feverish state. For now, enjoy a post I wrote on September 20, 2012, while living in San Francisco.*

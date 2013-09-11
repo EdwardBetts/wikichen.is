@@ -5,6 +5,7 @@ title: "The Tao of Pooh"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/tao_of_pooh.jpg
 image_alt: "The Tao of Pooh"
+categories: blogger
 ---
 
 > "Rabbit's clever," said Pooh thoughtfully. <br>

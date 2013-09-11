@@ -1,8 +1,11 @@
 name: wikichen
+description: Welcome to wikichen's playground on the web.
+url: http://wikichen.as
+
 markdown: kramdown
 pygments: true
 
-url: http://wikichen.as
+
 permalink: /:categories/:title/
 
 enable_disqus: true

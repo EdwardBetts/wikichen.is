@@ -5,6 +5,7 @@ title: "Live Slowly"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/breakfast.jpg
 image_alt: "Breakfast in Tainan"
+category: blogger
 ---
 
 An old friend taught me a valuable lesson about life one Friday afternoon at a brunch spot in Tainan, Taiwan.
