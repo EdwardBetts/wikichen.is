@@ -5,6 +5,7 @@ comments: true
 image_cover: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
+category: designer
 ---
 
 *This post was originally published on Medium, which never saw many views. I hope it finds a new audience here, as it explores two of my favorite things: video games and user-centered design.*
