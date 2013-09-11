@@ -2,4 +2,7 @@ name: wikichen.as
 markdown: kramdown
 pygments: true
 
-permalink: /blogger/:title/
+url: http://wikichen.as
+permalink: /:categories/:title/
+
+enable_disqus: true
