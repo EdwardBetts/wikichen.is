@@ -1,29 +1,16 @@
 ---
 featured: true
-layout: longform
+layout: post
 title: "Forever Alone: Why Loneliness Matters in the Social Age"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/snow.jpg
 ---
 
-<br>
-
-<div class="wrapper" markdown="1">
-<div class="da2-da5">
-
 > I got up and went over and looked out the window. I felt so lonesome, all of a sudden. I almost wished I was dead. Boy, did I feel rotten. I felt so damn lonesome. I just didn't want to hang around any more. It made me too sad and lonesome.
 >
-> — J.D. Salinger in *[Catcher in the Rye][catcher]*
+> --- J.D. Salinger in *[Catcher in the Rye][catcher]*
 
 [catcher]: http://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-
-<br>
-
-</div>
-</div>
-
-<div class="wrapper" markdown="1">
-<div class="da2-da5">
 
 Loneliness was a problem I experienced most poignantly in college. In the three years I spent at Carnegie Mellon, the crippling effects of loneliness slowly pecked away at my enthusiasm for learning and for life, until I was drowning in an endless depressive haze that never completely cleared until I left Pittsburgh.
 
@@ -33,21 +20,15 @@ None of it worked.
 
 To the extent that I sought out CAPS (our student psych and counseling service) for help, the platitudes they offered as advice (“Just put yourself out there!”) only served to confirm my suspicion that loneliness isn't a very visible problem. (After all, the cure for loneliness isn't exactly something that could be prescribed. “Have you considered transferring?” they finally suggested, after exhausting their list of thought-terminating clichés. I graduated early instead.)
 
-As prolonged loneliness took its toll, I became very unhappy—to put it lightly—and even in retrospect I have difficulty pinpointing a specific cause. It wasn't that I didn't know anyone or failed to make any friends, and it wasn't that I was *alone* more than I liked.
+As prolonged loneliness took its toll, I became very unhappy—to put it lightly—and even in retrospect I have difficulty pinpointing a specific cause. It wasn't that I didn't know anyone or failed to make any friends, and it wasn't that I was *alone* more than I liked.[^def]
 
-(It should be noted that there is a clear distinction between feeling lonely, which is a subjective experience, and being solitary, which is simply a lack of contact with people. For the purpose of this discussion, I'm referring to the former and the former only.)
+[^def]: It should be noted that there is a clear distinction between feeling lonely, which is a subjective experience, and being solitary, which is simply a lack of contact with people. For the purpose of this discussion, I'm referring to the former and the former only.
 
 Sure, I could point my finger at the abysmally fickle weather patterns of Pittsburgh, or the pseudo-suburban bubble that envelops the campus. There might even be a correlation between my academic dissonance with computer science and my feelings of loneliness. I might also just be an extremely unlikable person.
 
 For whatever the reason (or a confluence thereof) the reality remained that I struggled with loneliness throughout my time in college.
-</div>
-</div>
 
 - - -
-
-
-<div class="wrapper" markdown="1">
-<div class="da2-da5">
 
 I recall a conversation with my friend Dev one particular evening on the patio of our dormitory. It was the beginning of my junior and last year at CMU, and I had just finished throwing an ice cream party for the residents I oversaw as an RA.
 
@@ -64,14 +45,6 @@ The sun was setting, and any good feelings about the upcoming semester with it. 
 “I don't know. A lot of things, I guess. But mostly because I feel lonely. Like I don't belong, like I can't relate to or connect with anyone on an emotional level. I haven't made any quality relationships here that I would look back on with any fond memories. Fuck... I don't know what to do.”
 
 College, at least for me, was a harrowing exercise in how helplessly debilitating, hopelessly soul-crushing, and at times life-threatening loneliness could be. It's a problem nobody talks about, and it's been a subject of much personal relevance and interest.
-
-</div>
-</div>
-
-<br>
-
-<div class="wrapper" markdown="1">
-<div class="da3-da6">
 
 ## Loneliness as a Health Problem
 
@@ -93,14 +66,6 @@ Why hasn't loneliness gotten much attention as a medical problem? Olien shares t
 > As a culture we obsess over strategies to prevent obesity. We provide resources to help people quit smoking. But I have never had a doctor ask me how much meaningful social interaction I am getting. Even if a doctor did ask, it is not as though there is a prescription for meaningful social interaction.
 
 As a society we look down upon those who admit to being lonely, we cast and ostracize them with labels like “loners” insofar as they prefer to hide behind shame and doubt rather than speak up. This dynamic only makes it harder to devise solutions to what is clearly a larger societal issue, and it certainly brings to question the effects of culture on our perception of loneliness as a problem.
-
-</div>
-</div>
-
-<br>
-
-<div class="wrapper" markdown="1">
-<div class="da2-da5">
 
 ## Loneliness as a Culture Problem
 
@@ -143,14 +108,7 @@ To truly combat loneliness from a cultural angle, we need to start by examining 
 > Loneliness is not much written about (my spell-check wanted me to say that loveliness is not much written about—how wrong *that* is) but humankind is a social species and maybe it’s something we should think about more than we do.
 
 [needs]: http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
-</div>
-</div>
 
-
-<br>
-
-<div class="wrapper" >
-<div class="da3-da6" markdown="1">
 ## Loneliness as a Technology Problem
 
 Technology, and by extension media consumption in the Internet age, adds the most perplexing (and perhaps the most interesting) dimension to the loneliness problem. As it turns out, technology isn't necessarily helping us feel more connected; in some cases, it makes loneliness worse.
@@ -192,14 +150,9 @@ While technology has been a source of social isolation for many, it has the capa
 
 The same model could potentially be applied to friendships, and it's frustrating to see that there aren't more startups leveraging this opportunity when the problem  is so immediate and in need of solutions. It's a matter of exposure and education on the truths of loneliness, and unfortunately we're just not there yet.
 
-</div>
-</div>
-
 - - -
 
-<div class="wrapper" markdown="1">
-<div class="da2-da5">
-The perils of loneliness shouldn't be overlooked in an increasingly hyperconnected world that often tells another story through rose-tinted lenses. This post was written to address and bring to light the gravity of loneliness as a multifaceted problem, one often muted and stigmatized in our society. I learned firsthand how painfully real of a problem loneliness could be, and more should be done to spread its awareness and to help those affected.
+The perils of loneliness shouldn't be overlooked in an increasingly hyperconnected world that often tells another story through rose-tinted lenses. Rather, the gravity of loneliness should be addressed and brought to light as a multifaceted problem, one often muted and stigmatized in our society. I learned firsthand how painfully real of a problem loneliness could be, and more should be done to spread its awareness and to help those affected.
 
 “What do you think I should do?” I looked at Dev as the last traces of sunlight teetered over the top of Morewood Gardens. It was a rhetorical question—things weren't about to get better.
 
@@ -208,5 +161,3 @@ The perils of loneliness shouldn't be overlooked in an increasingly hyperconnect
 I offered him a weak smile in return, but little did I know then how prescient those words were.
 
 In the year that followed, I started a fraternity with some of the best kids I'd come to know (Dev included), graduated college and moved to San Francisco, made some of the best friends I've ever had, and never looked back, if only to remember, and remember well, that it's never easy being lonely.
-</div>
-</div>
