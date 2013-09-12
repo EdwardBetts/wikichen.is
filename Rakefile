@@ -8,7 +8,7 @@ task :preview do
 end
 
 desc 'Deploy the site to GitHub Pages'
-task :deploy_deprecated do
+task :deploy do
   #system 'compass compile'
   system 'jekyll build'
 
@@ -41,6 +41,7 @@ task :gh_deploy_setup do
     system "git commit -m 'Deploy init'"
     system "git branch -m gh-pages"
     system "git remote add origin #{repo_url}"
+    system "git push -u origin gh-pages"
   end
   puts "\n---\n## Now you can deploy to #{repo_url} with `rake deploy` ##"
 end
@@ -65,7 +66,7 @@ task :commit => [:build] do
 end
 
 desc "Deploy _site/ to gh-pages branch"
-task :deploy => [:build] do
+task :deploy_beta => [:build] do
   puts "\n## Deleting gh-pages branch"
   status = system("git branch -D gh-pages")
   puts status ? "Success" : "Failed"
