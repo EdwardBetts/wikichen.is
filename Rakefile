@@ -1,4 +1,4 @@
-repo_url      = "git@github.com:wikichen/wikichen.as.git"
+repo_url      = "git@github.com:wikichen/as.git"
 deploy_dir    = "_site"
 deploy_branch = "gh-pages"
 
