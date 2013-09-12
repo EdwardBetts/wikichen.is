@@ -32,7 +32,6 @@ end
 
 desc "Setup directory for deploying to GitHub Pages"
 task :gh_deploy_setup do
-  branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
   rm_rf deploy_dir
   mkdir deploy_dir
   cd "#{deploy_dir}" do
@@ -40,7 +39,7 @@ task :gh_deploy_setup do
     system "echo 'Setting up GitHub Pages deployment &hellip;' > index.html"
     system "git add ."
     system "git commit -m 'Deploy init'"
-    system "git branch -m gh-pages" unless branch == 'master'
+    system "git branch -m gh-pages"
     system "git remote add origin #{repo_url}"
   end
   puts "\n---\n## Now you can deploy to #{repo_url} with `rake deploy` ##"
