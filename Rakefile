@@ -8,7 +8,7 @@ task :preview do
 end
 
 desc 'Deploy the site to GitHub Pages'
-task :deploy do
+task :deploy_deprecated do
   #system 'compass compile'
   system 'jekyll build'
 
