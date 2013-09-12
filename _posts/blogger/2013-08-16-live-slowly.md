@@ -1,6 +1,6 @@
 ---
 featured: true
-layout: blog-post
+layout: blog
 title: "Live Slowly"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/breakfast.jpg
