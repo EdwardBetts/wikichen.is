@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: blog
 title: "Don't Chase the Rabbit"
+lede: "Hidden in a movie about mechas and monsters is a lesson about letting go."
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/pacrim-s.jpg
 image_alt: "Raleigh Becket and Mako Miri in Pacific Rim"

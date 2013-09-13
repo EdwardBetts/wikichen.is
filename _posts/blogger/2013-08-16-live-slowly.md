@@ -6,13 +6,8 @@ comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/breakfast.jpg
 image_alt: "Breakfast in Tainan"
 category: blogger
+lede: "An old friend teaches me a valuable lesson about life one Friday afternoon at a brunch spot in Tainan, Taiwan."
 ---
-
-An old friend taught me a valuable lesson about life one Friday afternoon at a brunch spot in Tainan, Taiwan.
-
-*Live slowly*.
-
-- - -
 
 I waited, with equal parts anticipation and nervousness, under the collective shade of some trees outside the gated entrance of an all female high school in Tainan. We had agreed to meet here, but with sweat steadily running down my back under an unforgiving midday sun I wondered why I didn't think to suggest somewhere indoors, and preferably air conditioned.
 

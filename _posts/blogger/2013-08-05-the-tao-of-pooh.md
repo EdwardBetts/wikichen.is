@@ -1,6 +1,6 @@
 ---
 featured: true
-layout: post
+layout: blog
 title: "The Tao of Pooh"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/tao_of_pooh.jpg

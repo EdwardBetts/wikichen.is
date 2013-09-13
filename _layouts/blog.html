@@ -15,14 +15,23 @@
     <article class="blog-post">
 
       <header>
-        <h1>{{ page.title }}</h1>
+        <div class="block">
+          <img src="{{ page.image_url }}" alt="{{ page.image_alt }}">
+        </div>
         <div class="image-credit"></div>
       </header>
 
       <section id="content">
         <div class="block">
-          <section class="col3 post-metadata">
-            <p>{{ page.date | date: "%B %d, %Y" }}</p>
+          <section class="col3 start">
+            <h1>{{ page.title }}</h1>
+            <h2 class="lede">{{ page.lede }}</h2>
+            <p class="metadata"><span>Publish Date:</span>
+              {{ page.date | date: "%B %d, %Y" }}
+            </p>
+            <p class="metadata"><span>Reading Time:</span>
+              {{ content | reading_time | pluralize: "minute" }}</span>
+            </p>
           </section>
           <div class="col6">
 
