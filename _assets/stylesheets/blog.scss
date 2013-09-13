@@ -4,6 +4,9 @@ $font-serif: "minion-pro", Georgia, serif;
 $font-sans: "adelle", Arial, Helvetica, sans-serif;
 $font-sans-secondary: "proxima-nova-alt-ext-cond", sans-serif;
 
+$ggb:     #c0362c;
+$saffron: #6f1402;
+
 /*
    $TYPOGRAPHY
 */
@@ -32,6 +35,22 @@ article {
       text-align: left;
     }
 
+    a {
+      border-bottom: 1px dotted #ccc;
+      color: $ggb;
+      text-decoration: none;
+
+      &:hover {
+        color: $saffron;
+      }
+    }
+
+    blockquote {
+      border-left: 5px solid $ggb;
+      padding-left: 1em;
+      color: #444;
+    }
+
     section {
       h1 {
         font-size: 2em;
@@ -47,7 +66,7 @@ article {
         margin-bottom: 1.5em;
       }
       .metadata {
-        color: #444;
+        color: #666;
         font-size: 1em;
         margin-bottom: 0;
 
