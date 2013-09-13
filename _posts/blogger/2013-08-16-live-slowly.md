@@ -21,7 +21,9 @@ We made our way through a few alleyways, occasionally making the odd turn, until
 
 The entrance to the brunch shop was tucked behind a tall stone partition shielding it from the streets, with a meticulously adorned stone path leading to its doorstep. The wind chimes perched on top of the glass doors rattled as we entered the tiny store.
 
-Inside, an employee greeted and directed us to the seating area on the second floor. The stone steps leading upstairs were steeper than the ones I was accustomed to back home—*thanks, Obama!*—and I almost tripped on my way up. But I survived, and soon we were surrounded by low wooden desks and chairs; the atmosphere was reminiscent of a casual, folksy teahouse, if you've ever been to one.
+Inside, an employee greeted and directed us to the seating area on the second floor. The stone steps leading upstairs were steeper than the ones I was accustomed to back home—*thanks, Obama!*[^obama]—and I almost tripped on my way up. But I survived, and soon we were surrounded by low wooden desks and chairs; the atmosphere was reminiscent of a casual, folksy teahouse, if you've ever been to one.
+
+[^obama]: Some people seem to be confused by this reference. It's a tongue-in-cheek allusion to the popular [Internet meme](http://knowyourmeme.com/memes/thanks-obama). There's even a [tumblr](http://thanks-obama.tumblr.com/) dedicated it.
 
 “I love old buildings like this,” my friend said as she drew one of the wooden chairs next to the windows and sat down. “They don't really build them like this anymore.”
 

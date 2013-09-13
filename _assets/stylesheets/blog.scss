@@ -26,59 +26,82 @@ h1, h2, h3, h4, h5 {
   font-family: $font-sans;
 }
 
-article {
-  #content {
-    p {
-      line-height: 1.5em;
-      margin-bottom: 1.25em;
-      font-size: 1.125em;
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+}
+
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+article #content {
+  p {
+    line-height: 1.5em;
+    margin-bottom: 1.25em;
+    font-size: 1.125em;
+    text-align: left;
+  }
+
+  a {
+    border-bottom: 1px dotted #ccc;
+    color: $ggb;
+    text-decoration: none;
+
+    &:hover {
+      color: $saffron;
+    }
+  }
+
+  blockquote {
+    border-left: 5px solid $ggb;
+    padding-left: 1em;
+    color: #444;
+  }
+
+  section {
+    h1 {
+      font-size: 2em;
       text-align: left;
+      color: #222;
     }
-
-    a {
-      border-bottom: 1px dotted #ccc;
-      color: $ggb;
-      text-decoration: none;
-
-      &:hover {
-        color: $saffron;
-      }
+    .lede {
+      font-family: $font-serif;
+      font-size: 1em;
+      line-height: 1.5em;
+      font-style: italic;
+      margin-top: 0.5em;
+      margin-bottom: 1.5em;
     }
+    .metadata {
+      color: #666;
+      font-size: 1em;
+      margin-bottom: 0;
 
-    blockquote {
-      border-left: 5px solid $ggb;
-      padding-left: 1em;
-      color: #444;
-    }
-
-    section {
-      h1 {
-        font-size: 2em;
-        text-align: left;
-        color: #222;
-      }
-      .lede {
-        font-family: $font-serif;
-        font-size: 1em;
-        line-height: 1.5em;
-        font-style: italic;
-        margin-top: 0.5em;
-        margin-bottom: 1.5em;
-      }
-      .metadata {
-        color: #666;
-        font-size: 1em;
-        margin-bottom: 0;
-
-        span {
-          text-transform: lowercase;
-          font-variant: small-caps;
-        }
+      span {
+        text-transform: lowercase;
+        font-variant: small-caps;
       }
     }
   }
 }
 
+
+
+.footnotes {
+  padding-top: 1em;
+  border-top: 1px dotted #ccc;
+  font-size: 0.9em;
+  color: #444;
+
+  ol {
+    list-style: decimal;
+
+    li {
+      margin-left: 20px;
+    }
+  }
+}
 
 hr {
   color: #ddd;
