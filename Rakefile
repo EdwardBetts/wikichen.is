@@ -1,6 +1,6 @@
-repo_url      = "git@github.com:wikichen/is.git"
+repo_url      = "git@github.com:wikichen/wikichen.github.io.git"
 deploy_dir    = "_site"
-deploy_branch = "gh-pages"
+deploy_branch = "master"
 
 desc 'Preview site on localhost'
 task :preview do
@@ -38,9 +38,9 @@ task :gh_deploy_setup do
     system "echo 'Setting up GitHub Pages deployment &hellip;' > index.html"
     system "git add ."
     system "git commit -m 'Deploy init'"
-    system "git branch -m gh-pages"
+    system "git branch -m #{deploy_branch}"
     system "git remote add origin #{repo_url}"
-    system "git push -u origin gh-pages"
+    system "git push -u origin #{deploy_branch}"
   end
   puts "\n---\n## Now you can deploy to #{repo_url} with `rake deploy` ##"
 end
