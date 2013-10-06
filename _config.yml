@@ -7,5 +7,5 @@ markdown: kramdown
 pygments: true
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
-permalink: /writing/:title/
+permalink: /:categories/:title/
 enable_disqus: true

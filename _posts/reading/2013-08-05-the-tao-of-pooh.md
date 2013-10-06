@@ -1,7 +1,7 @@
 ---
-featured: true
 layout: blog
 title: "The Tao of Pooh"
+category: reading
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/tao_of_pooh.jpg
 image_alt: "The Tao of Pooh"
