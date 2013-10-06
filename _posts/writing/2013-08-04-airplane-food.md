@@ -3,7 +3,6 @@ layout: post
 title: "Airplane Food"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/airplane_food_m.jpg
-category: foodie
 ---
 
 On my 13-hour flight on China Airlines from Los Angeles to Taipei, it dawned upon me that while I've traveled extensively within the United States for the past year, my passport has remained dusty and unadorned since I returned to Taiwan seven years ago.

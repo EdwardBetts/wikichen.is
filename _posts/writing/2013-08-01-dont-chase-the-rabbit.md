@@ -5,7 +5,6 @@ lede: "Hidden in a movie about mechas and monsters is a lesson about letting go.
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/pacrim-s.jpg
 image_alt: "Raleigh Becket and Mako Miri in Pacific Rim"
-category: blogger
 ---
 
 > From the moment I fell down that rabbit hole I’ve been told what I must do and who I must be. I’ve been shrunk, stretched, scratched, and stuffed into a teapot. I’ve been accused of being Alice and of not being Alice, but this is MY dream. I’ll decide where it will go from here.

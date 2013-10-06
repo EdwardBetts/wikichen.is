@@ -4,7 +4,6 @@ title: "The Perfect Product Blog"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/priceonomics.jpg
 image_alt: "The Priceonomics Blog"
-category: blogger
 ---
 
 [Priceonomics](http://priceonomics.com/), an online price guide for just about any commercial product you can imagine, maintains what is arguably the best product blog I've ever read from a startup or otherwise.

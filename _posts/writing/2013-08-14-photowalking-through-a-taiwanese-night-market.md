@@ -5,7 +5,6 @@ comments: true
 image_cover: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/night_market_panorama.jpg
 image_alt: "Taiwanese Night Market"
-category: foodie
 ---
 
 > I've long believed that good food, good eating, is all about risk. Whether we're talking about unpasteurized Stilton, raw oysters or working for organized crime 'associates,' food, for me, has always been an adventure.

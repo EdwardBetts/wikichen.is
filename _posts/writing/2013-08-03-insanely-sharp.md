@@ -4,7 +4,6 @@ title: "Insanely Sharp"
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/nexus7-s.jpg
 image_alt: "Nexus 7 on an iPad mini"
-category: blogger
 ---
 
 The new Nexus 7 is a beautiful machine. I've been using it as my primary mobile device for the last week or so, and oh boy, has Google exceeded my expectations with the latest update of their 7" tablet.
