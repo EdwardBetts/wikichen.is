@@ -29,26 +29,6 @@ task :deploy do
   end
 end
 
-task :generate do
-  system 'jekyll build'
-end
-
-desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
-  Dir.mktmpdir do |tmp|
-    system "mv _site/* #{tmp}"
-    system "git checkout -b gh-pages"
-    system "rm -rf *"
-    system "mv #{tmp}/* ."
-    message = "Site updated at #{Time.now.utc}"
-    system "git add ."
-    system "git commit -am #{message.shellescape}"
-    system "git push origin gh-pages --force"
-    system "git checkout master"
-    system "echo yolo"
-  end
-end
-
 desc "Setup directory for deploying to GitHub Pages"
 task :gh_deploy_setup do
   rm_rf deploy_dir
