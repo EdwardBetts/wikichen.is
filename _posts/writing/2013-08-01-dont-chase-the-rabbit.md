@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Don't Chase the Rabbit"
+category: writing
 lede: "Hidden in a movie about mechas and monsters is a lesson about letting go."
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/pacrim-s.jpg
