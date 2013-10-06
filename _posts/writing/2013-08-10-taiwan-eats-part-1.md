@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Taiwan Eats: On the Streets"
+category: writing
 comments: true
 ---
 

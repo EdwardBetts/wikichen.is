@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lessons Learned Writing, Part I"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/writing.jpg
 image_alt: "Writing"

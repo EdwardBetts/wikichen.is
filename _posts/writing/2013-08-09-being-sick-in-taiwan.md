@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Being Sick in Taiwan"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/taiwan_hospital.jpg
 image_alt: "Hospital in Tainan"

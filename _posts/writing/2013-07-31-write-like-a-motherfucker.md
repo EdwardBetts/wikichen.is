@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Write Like a Motherfucker"
+category: writing
 comments: true
 ---
 

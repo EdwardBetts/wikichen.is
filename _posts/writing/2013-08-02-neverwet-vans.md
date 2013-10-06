@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NeverWet Vans"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/neverwet_vans.jpg
 image_alt: "NeverWet and My Vans"

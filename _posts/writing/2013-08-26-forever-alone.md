@@ -1,7 +1,7 @@
 ---
-featured: true
 layout: post
 title: "Forever Alone: Why Loneliness Matters in the Social Age"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/snow.jpg
 ---

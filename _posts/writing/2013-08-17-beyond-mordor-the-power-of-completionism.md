@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beyond Mordor: The Power of Completionism"
+category: writing
 comments: true
 image_cover: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/legolotr.jpg

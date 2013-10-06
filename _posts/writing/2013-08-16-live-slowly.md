@@ -1,7 +1,7 @@
 ---
-featured: true
 layout: blog
 title: "Live Slowly"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/breakfast.jpg
 image_alt: "Breakfast in Tainan"

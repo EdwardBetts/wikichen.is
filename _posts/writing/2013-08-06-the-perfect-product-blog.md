@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Perfect Product Blog"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/priceonomics.jpg
 image_alt: "The Priceonomics Blog"

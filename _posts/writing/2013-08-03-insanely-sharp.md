@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Insanely Sharp"
+category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/nexus7-s.jpg
 image_alt: "Nexus 7 on an iPad mini"
