@@ -26,11 +26,14 @@
           <section class="col3 start">
             <h1>{{ page.title }}</h1>
             <h2 class="lede">{{ page.lede }}</h2>
+            <p class="metadata"><span>Written By:</span>
+              {{ site.author }}
+            </p>
             <p class="metadata"><span>Publish Date:</span>
               {{ page.date | date: "%B %d, %Y" }}
             </p>
             <p class="metadata"><span>Reading Time:</span>
-              {{ content | reading_time | pluralize: "minute" }}</span>
+              {{ content | reading_time | pluralize: "minute" }}
             </p>
           </section>
           <div class="col6">
@@ -39,7 +42,9 @@
 
           </div>
           <aside class="col3 end">
-
+            <img class="avatar" src="{% asset_path jonathan-avatar.jpg %}" alt="Jonathan E. Chen">
+            <h3>About Jonathan</h3>
+            <p>Jonathan E. Chen is a product designer based in San Francisco. Things that pervade his daily consciousness include user-centered design, interactive storytelling, molecular gastronomy, and traveling the world. He has a computer science degree from Carnegie Mellon University and lives with an imaginary pet samoyed. Say hi to him on Twitter <a href="https://twitter.com/wikichen">@wikichen</a>.</p>
           </aside>
         </div>
       </section>

@@ -1,19 +1,19 @@
 @import "vendor/reset";
 
 $font-serif: "minion-pro", Georgia, serif;
-$font-sans: "adelle", Arial, Helvetica, sans-serif;
-$font-sans-secondary: "proxima-nova-alt-ext-cond", sans-serif;
+$font-sans: "jaf-facitweb", Arial, Helvetica, sans-serif;
 
 $ggb:     #c0362c;
 $saffron: #6f1402;
+$yellow:  #f9fccf;
 
 /*
-   $TYPOGRAPHY
+   $TYPOGRAPHY ----------------------------------------------------------------
 */
 
 body {
   color: #222;
-  font-size: 100%;
+  font-size: 16px;
   font-family: $font-serif;
   background: #fff;
   -webkit-text-size-adjust: 100%;
@@ -24,6 +24,7 @@ em { font-style: italic; }
 
 h1, h2, h3, h4, h5 {
   font-family: $font-sans;
+  font-weight: 600;
 }
 
 sub, sup {
@@ -84,9 +85,33 @@ article #content {
       }
     }
   }
+
+  aside {
+
+    h3 {
+      font-size: 1.25em;
+      text-transform: lowercase;
+      font-variant: small-caps;
+      margin-bottom: 0.4em;
+    }
+    p {
+      font-size: 0.875rem;
+    }
+    .avatar {
+      display: block;
+      float: right;
+      border-radius: 85px;
+      margin-bottom: 7px;
+      margin-left: 20px;
+      height: 85px;
+      width: 85px;
+    }
+  }
 }
 
-
+/*
+   $CONTENT -------------------------------------------------------------------
+*/
 
 .footnotes {
   padding-top: 1em;
@@ -113,7 +138,7 @@ hr {
 }
 
 /*
-   $LAYOUT
+   $LAYOUT --------------------------------------------------------------------
 */
 
 #container {
@@ -160,8 +185,12 @@ hr {
     padding-right: 0;
 }
 
+.mar1-left { margin-left: 8.6065574%; }
+.mar2-left { margin-left: 17.2131148%; }
+.mar3-left { margin-left: 25.81967245%; }
+
 /*
-   $HEADER
+   $HEADER --------------------------------------------------------------------
 */
 
 article header img {
@@ -169,7 +198,15 @@ article header img {
 }
 
 /*
-   $RESPONSIVE
+   $FOOTER --------------------------------------------------------------------
+*/
+
+footer {
+
+}
+
+/*
+   $RESPONSIVE ----------------------------------------------------------------
 */
 
 @media only screen and (max-width: 1023px) {

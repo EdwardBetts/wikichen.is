@@ -1,10 +1,10 @@
 name: wikichen
 description: "Welcome to wikichen's playground on the web."
-url: http://wikichen.as
+url: http://wikichen.is
+author: Jonathan E. Chen
 
 markdown: kramdown
 pygments: true
-
 
 permalink: /:categories/:title/
 
