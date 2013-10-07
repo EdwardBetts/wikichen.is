@@ -1,0 +1,75 @@
+$font-serif: "minion-pro", Georgia, serif;
+$font-sans: "jaf-facitweb", Arial, Helvetica, sans-serif;
+$text-color: #757575;
+
+#home-page {
+  font-size: 16px;
+  margin-top: 10em;
+
+  .container {
+    max-width: 630px;
+    margin: 0 auto;
+  }
+
+  p {
+    font-family: $font-serif;
+    font-size: 1.375rem;
+    color: $text-color;
+    line-height: 1.5em;
+  }
+
+  p.intro {
+    margin-bottom: 1em;
+
+    em {
+      color: #555;
+    }
+  }
+
+  ul.links {
+    display: inline;
+
+    li {
+      display: inline-block;
+      margin-right: 0.4em;
+
+      a {
+        font-family: $font-sans;
+        border-bottom: 2px solid;
+        text-decoration: none;
+        color: #aaa;
+        opacity: 0.6;
+      }
+
+      a.twitter {
+        border-color: #4099ff;
+        &:hover {
+          color: #4099ff;
+        }
+      }
+
+      a.github {
+        border-color: #222;
+        &:hover {
+          color: #222;
+        }
+      }
+
+      a.dribbble {
+        border-color: #ea4c89;
+        &:hover {
+          color: #ea4c89;
+        }
+      }
+
+      a.facebook {
+        border-color: #3b5999;
+        &:hover {
+          color: #3b5999;
+        }
+      }
+      // a
+    } // li
+  } //ul
+
+}
