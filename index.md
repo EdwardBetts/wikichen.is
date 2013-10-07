@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wikichen is [?]
+title: what is wikichen?
 ---
 
 <body id="home-page">

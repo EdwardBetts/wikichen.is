@@ -31,13 +31,13 @@ $text-color: #757575;
 
     li {
       display: inline-block;
-      margin-right: 0.4em;
+      margin-right: 0.5em;
 
       a {
         font-family: $font-sans;
         border-bottom: 2px solid;
         text-decoration: none;
-        color: #aaa;
+        color: $text-color;
         opacity: 0.6;
       }
 
