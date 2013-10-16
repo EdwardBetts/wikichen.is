@@ -161,3 +161,7 @@ The perils of loneliness shouldn't be overlooked in an increasingly hyperconnect
 I offered him a weak smile in return, but little did I know then how prescient those words were.
 
 In the year that followed, I started a fraternity with some of the best kids I'd come to know (Dev included), graduated college and moved to San Francisco, made some of the best friends I've ever had, and never looked back, if only to remember, and remember well, that it's never easy being lonely.
+
+## Additional Reading
+* [How do you cope with being lonely?](http://www.reddit.com/r/AskReddit/comments/1nwcod/how_do_you_cope_with_being_lonely/)
+* [The Science of Loneliness: How Isolation Can Kill You](http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you)
