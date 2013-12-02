@@ -1,0 +1,11 @@
+name: wikichen
+description: "Welcome to wikichen's playground on the web."
+url: http://wikichen.is
+author: Jonathan E. Chen
+
+markdown: kramdown
+pygments: true
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+permalink: /:categories/:title
+
+enable_disqus: true

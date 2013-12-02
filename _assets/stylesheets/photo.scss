@@ -1,0 +1,93 @@
+@import "vendor/reset";
+@import "foundation";
+//@import "vendor/bourbon/bourbon";
+//@import "vendor/neat/neat";
+
+$visual-grid: true;
+
+$ff-tisa-web-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
+$effra: "effra", Helvetica, Arial, sans-serif;
+
+$body-size: 18px;
+
+/* LAYOUT */
+
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1320px;
+  *zoom: 1;
+}
+
+.group-half {
+  width: 50%;
+  margin-right: 0;
+  display: inline-block;
+
+}
+
+.content {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.center {
+  /* old flexbox */
+  display: -moz-box;
+  display: -webkit-box;
+  display: box;
+
+  /* new flexbox */
+  display: -webkit-flex;
+  display: flex;
+}
+
+.full-group {
+
+}
+
+/* IMAGE POSTS */
+
+
+/* TYPOGRAPHY */
+h1 {
+  font-family: $effra;
+  font-weight: 600;
+  font-size: 3rem;
+  text-transform: uppercase;
+  color: #333;
+  text-align: center;
+}
+
+p {
+  font-family: $ff-tisa-web-pro;
+  line-height: 1.5em;
+  font-size: 18px;
+  color: #444;
+}
+
+p.intro {
+  max-width: 660px;
+  margin: 0 auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+img {
+  width: 100%;
+  margin: 0;
+  line-height: 0;
+}
+
+/* SECTIONS */
+.metadata {
+  margin: 0.5em;
+  text-align: center;
+  color: #999;
+  font-size: 1em;
+}
+
+.post-title {
+  margin-bottom: 1rem;
+}
