@@ -1,0 +1,235 @@
+@import "vendor/reset";
+@import "foundation";
+@import "vendor/bourbon/bourbon";
+@import "vendor/neat/neat";
+
+$visual-grid: true;
+$georgia: Georgia, "Times New Roman", serif;
+$jaf-facitweb: "jaf-facitweb", Arial, Helvetica, sans-serif;
+
+$body-size: 18px;
+
+$golden-gate-orange: #c0362c;
+$saffron: #6f1402;
+$text-color: #424242;
+$header-color: #242424;
+$blockquote-color: #c3c3c3;
+$footnotes-color: #777;
+
+
+
+/*
+   $LAYOUT --------------------------------------------------------------------
+*/
+
+.container {
+  @include outer-container;
+}
+
+.post-body {
+  //@include span-columns(6);
+  //@include shift(3);
+
+  max-width: 630px;
+  margin: 0 auto;
+}
+
+
+/*
+   $TYPOGRAPHY ----------------------------------------------------------------
+*/
+
+html {
+  font-size: 112.5%; // 168x
+}
+
+body {
+  font-size: 1rem;
+  font-family: $georgia;
+}
+
+h1 {
+  font-family: $georgia;
+  font-size: golden-ratio($body-size, 2);
+  color: $header-color;
+}
+
+h2 {
+  font-size: golden-ratio($body-size, 1);
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.post-subtitle {
+  font-size: 1.2rem;
+  font-style: italic;
+  line-height: 1.5em;
+  color: #777;
+}
+
+p {
+  font-size: round(golden-ratio($body-size, 0));
+  color: $text-color;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+a {
+  color: $golden-gate-orange;
+  text-decoration: none;
+  &:hover {
+    color: $saffron;
+  }
+}
+
+em {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 5px solid $blockquote-color;
+  padding-left: 1em;
+  p {
+    color: #898989;
+  }
+}
+
+ul {
+  list-style-type: disc;
+  margin-bottom: 1em;
+
+  li {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+  }
+}
+
+hr {
+  color: #ddd;
+  background-color: #eee;
+  height: 3px;
+  width: 20%;
+  border-style: none;
+  margin: 2em auto 2em;
+}
+
+/*
+   $CONTENT -------------------------------------------------------------------
+*/
+
+.post-header {
+  margin: 0 auto;
+  margin-bottom: 2em;
+  //@include span-columns(6);
+  //@include shift(3);
+  max-width: 630px;
+
+  .book-cover {
+    margin-bottom: 2em;
+
+    img {
+      width: 50%;
+    }
+  }
+
+  .post-title {
+    margin: 0 auto;
+    color: $header-color;
+  }
+
+  .post-lede {
+    font-size: 1.1em;
+    color: $text-color;
+    font-style: italic;
+  }
+}
+
+// footnotes
+
+.footnotes {
+  padding-top: 1em;
+  border-top: 1px dotted #ccc;
+  font-size: 0.9em;
+  color: $footnotes-color;
+
+  ol {
+    list-style: decimal;
+
+    li {
+      margin-left: 20px;
+
+      p {
+        color: $footnotes-color;
+        font-size: 1em;
+        line-height: 1.4em;
+      }
+    }
+  }
+}
+
+hr {
+  color: #ddd;
+  background-color: #eee;
+  height: 3px;
+  width: 5em;
+  border-style: none;
+  margin: 2em auto 2em;
+}
+
+.footnote {
+  font-size: 0.8em;
+  line-height: 0;
+  vertical-align: super;
+  background-color: #eee;
+  padding: 0 0.2em;
+  border-radius: 0.2em;
+}
+
+// footnote return link
+.reversefootnote {
+  position: relative;
+  top: -0.2em;
+  background-color: #eee;
+  border-radius: 5px;
+  font-size: 0.7em;
+  border-radius: 0.4em;
+  padding: 0.2em;
+  padding-bottom: 0;
+  margin-left: 0.4em;
+  line-height: 0;
+}
+
+footer {
+  height: 2em;
+}
+
+
+
+
+/*
+   $RESPONSIVE ----------------------------------------------------------------
+*/
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 980px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+
+}

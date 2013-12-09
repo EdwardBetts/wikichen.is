@@ -1,10 +1,12 @@
 ---
-layout: blog
+layout: book
 title: "The Tao of Pooh"
+subtitle:
 category: reading
 comments: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/tao_of_pooh.jpg
-image_alt: "The Tao of Pooh"
+
+cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/the-tao-of-pooh.jpg
+cover_alt: "The Tao of Pooh"
 ---
 
 > "Rabbit's clever," said Pooh thoughtfully. <br>
@@ -50,7 +52,8 @@ We always seem to have to be going *somewhere*. More money, better job, bigger h
 
 Likewise, the problem with our perverse obsession for saving time is that you can't *save* time. You can only spend it. Most people have no time at all, because they're too busy wasting it by trying to save it. And by trying to save every bit of it, they end up wasting the whole thing.
 
-Henry David Thoreau writes in *Walden*:
+As Henry David Thoreau writes in *Walden*:
+
 > Why should we live with such hurry and waste of life? We are determined to be starved before we are hungry. Men say that a stitch in time saves nine, and so they take a thousand stitches to-day to save nine tomorrow.
 
 - - -

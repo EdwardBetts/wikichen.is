@@ -1,5 +1,7 @@
 ---
+published: false
 title: "Kitchen Confidential"
+subtitle: "Adventures in the Culinary Underbelly"
 lede: "Anthony Bourdain offers a deeply anecdotal and profanely authentic glimpse into the world of culinary craftsmanship, the people who inhabit it, and what it means to live a life of vice and folly and passion for food."
 
 category: reading

@@ -1,10 +1,17 @@
-$font-serif: "minion-pro", Georgia, serif;
+$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
 $font-sans: "jaf-facitweb", Arial, Helvetica, sans-serif;
 $text-color: #757575;
 
+$base-size: 1.125rem;
+
 #home-page {
-  font-size: 16px;
-  margin-top: 10em;
+  margin-top: 5em;
+  margin-bottom: 2em;
+
+  font-family: $ff-meta-serif;
+  font-size: $base-size;
+  color: $text-color;
+  line-height: 1.5em;
 
   .container {
     max-width: 630px;
@@ -12,28 +19,64 @@ $text-color: #757575;
   }
 
   p {
-    font-family: $font-serif;
-    font-size: 1.375rem;
-    color: $text-color;
-    line-height: 1.5em;
     margin-bottom: 1em;
   }
 
   p.intro {
-
     em {
       color: #555;
     }
   }
 
+  p.signoff {
+    margin-top: 2em;
+    margin-bottom: 0;
+  }
+
+  a {
+    border-bottom: 1px dotted;
+    line-height: $base-size * 1.125;
+    text-decoration: none;
+    display: inline-block;
+    color: #333;
+  }
+
+  a.writing {
+    border-color: #FF6600;
+    &:hover {
+      color: #FF6600;
+    }
+  }
+
+  a.capturing {
+    border-color: #D70068;
+    &:hover {
+      color: #D70068;
+    }
+  }
+
+  a.reading:hover {
+    border-color: #553B07;
+
+    &:hover {
+      color: #553B07;
+    }
+  }
+
+  ul.actions {
+    list-style: circle;
+  }
+
   ul.links {
-    display: inline;
+    margin-top: 2em;
+    display: block;
 
     li {
       display: inline-block;
       margin-right: 0.5em;
 
       a {
+        font-size: 0.875rem;
         font-family: $font-sans;
         border-bottom: 2px solid;
         text-decoration: none;
@@ -71,5 +114,4 @@ $text-color: #757575;
       // a
     } // li
   } //ul
-
 }

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ page.title }}</title>
+      <meta name="viewport" content="width=device-width">
+
+      {% stylesheet book %}
+      <style type="text/css">{{ page.style }}</style>
+
+      {% include typekit.html %}
+  </head>
+  <body>
+
+    <div class="container">
+
+      <header class="post-header">
+        <div class="book-cover">
+          <img src="{{ page.cover_img }}" alt="{{ page.cover_alt }}">
+        </div>
+        <h1 class="post-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+          <p class="post-subtitle">{{ page.subtitle }}</h2>
+        {% endif %}
+      </header>
+
+      <div class="post-body">
+
+        <div class="post-text">
+          {{ content }}
+        </div>
+
+        {% include comments.html %}
+      </div>
+
+      <footer></footer>
+    </div>
+
+    {% include tracking.html %}
+  </body>
+</html>
