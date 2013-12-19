@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: index
+type: post
 ---
 
 <body>

@@ -4,8 +4,9 @@
 @import "vendor/neat/neat";
 
 $visual-grid: true;
-$georgia: Georgia, "Times New Roman", serif;
+$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
 $jaf-facitweb: "jaf-facitweb", Arial, Helvetica, sans-serif;
+$georgia: Georgia, "Times New Roman", serif;
 
 $body-size: 18px;
 
@@ -15,8 +16,6 @@ $text-color: #424242;
 $header-color: #242424;
 $blockquote-color: #c3c3c3;
 $footnotes-color: #777;
-
-
 
 /*
    $LAYOUT --------------------------------------------------------------------
@@ -44,20 +43,30 @@ html {
 }
 
 body {
+  color: $text-color;
   font-size: 1rem;
-  font-family: $georgia;
+  font-family: $ff-meta-serif;
 }
 
-h1 {
-  font-family: $georgia;
-  font-size: golden-ratio($body-size, 2);
+h1, h2 {
   color: $header-color;
 }
 
+h1 {
+  font-family: $jaf-facitweb;
+  font-size: 36px;
+}
+
 h2 {
-  font-size: golden-ratio($body-size, 1);
+  //font-size: golden-ratio($body-size, 1);
+  font-size: 24px;
   margin-top: 1em;
   margin-bottom: 0.5em;
+}
+
+.byline {
+  font-family: $jaf-facitweb;
+  font-size: 18px;
 }
 
 .post-subtitle {
@@ -87,9 +96,12 @@ em {
 }
 
 blockquote {
+  font-family: $jaf-facitweb;
   border-left: 5px solid $blockquote-color;
   padding-left: 1em;
+  margin-bottom: 2em;
   p {
+    font-size: 16px;
     color: #898989;
   }
 }
@@ -113,6 +125,10 @@ hr {
   margin: 2em auto 2em;
 }
 
+img {
+  max-width: 100%;
+}
+
 /*
    $CONTENT -------------------------------------------------------------------
 */
@@ -128,6 +144,9 @@ hr {
     margin-bottom: 2em;
 
     img {
+      border-left: 1px solid #c5c5c5;
+      border-right: 1px solid #c5c5c5;
+      border-bottom: 1px solid #c5c5c5;
       width: 50%;
     }
   }
@@ -204,7 +223,65 @@ footer {
 }
 
 
+.button {
+  color: $header-color;
+  font-size: 1.2em;
+  width: 10em;
+  border: 2px solid $header-color;
+  font-family: $jaf-facitweb;
+  text-transform: uppercase;
+  display: block;
+  text-align: center;
+  padding: 0.5em;
 
+  &:hover {
+    color: white;
+    background-color: $header-color;
+  }
+}
+
+.buy {
+  margin-top: 2em;
+}
+
+/*
+   $INDEX ----------------------------------------------------------------
+*/
+.books {
+.book-container {
+  display: block;
+  margin: 0 auto;
+  height: 210px;
+}
+
+.book-cover {
+  display: inline-block;
+
+  img {
+    max-width: 120px;
+    border: 1px solid #c5c5c5;
+  }
+}
+
+.book-metadata {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1em;
+  font-family: jaf-facitweb;
+
+  a {
+    color: $header-color;
+    &:hover {
+      color: $golden-gate-orange;
+    }
+  }
+
+  p {
+    font-size: 0.8em;
+    color: #898989;
+  }
+}
+}
 
 /*
    $RESPONSIVE ----------------------------------------------------------------
@@ -231,5 +308,13 @@ footer {
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
-
+  p, li {
+    font-size: 16px;
+    line-height: 1.4em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
 }
+
+
+

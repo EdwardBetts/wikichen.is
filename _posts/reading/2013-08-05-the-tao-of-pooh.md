@@ -1,12 +1,16 @@
 ---
-layout: book
 title: "The Tao of Pooh"
 subtitle:
+book_author: "Benjamin Hoff"
+
 category: reading
-comments: true
+layout: book
+comments: false
 
 cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/the-tao-of-pooh.jpg
-cover_alt: "The Tao of Pooh"
+cover_alt: "The Tao of Pooh by Benjamin Hoff"
+
+affiliate_link: http://www.amazon.com/gp/product/0140067477/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140067477&linkCode=as2&tag=wikichenis-20
 ---
 
 > "Rabbit's clever," said Pooh thoughtfully. <br>

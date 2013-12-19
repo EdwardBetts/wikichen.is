@@ -20,9 +20,7 @@
           <img src="{{ page.cover_img }}" alt="{{ page.cover_alt }}">
         </div>
         <h1 class="post-title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-          <p class="post-subtitle">{{ page.subtitle }}</h2>
-        {% endif %}
+        <p class="byline"><em>by</em> {{ page.book_author }}</p>
       </header>
 
       <div class="post-body">
@@ -30,6 +28,10 @@
         <div class="post-text">
           {{ content }}
         </div>
+
+        <a class="button buy" href="{{ page.affiliate_link }}">
+          Get the book
+        </a>
 
         {% include comments.html %}
       </div>
