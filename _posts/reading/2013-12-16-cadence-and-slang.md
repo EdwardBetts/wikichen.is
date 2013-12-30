@@ -5,7 +5,7 @@ book_author: "Nick Disabato"
 
 category: reading
 layout: book
-comments: false
+comments: true
 
 cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/cadence-and-slang.jpg
 cover_alt: "Cadence & Slang by Nick Disabato"

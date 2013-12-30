@@ -5,7 +5,7 @@ book_author: "Benjamin Hoff"
 
 category: reading
 layout: book
-comments: false
+comments: true
 
 cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/the-tao-of-pooh.jpg
 cover_alt: "The Tao of Pooh by Benjamin Hoff"

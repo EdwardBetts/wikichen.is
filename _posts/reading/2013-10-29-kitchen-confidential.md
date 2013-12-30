@@ -5,7 +5,7 @@ book_author: "Anthony Bourdain"
 
 category: reading
 layout: book
-comments: false
+comments: true
 
 cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/kitchen-confidential.jpg
 cover_alt: "Kitchen Confidential by Anthony Bourdain"

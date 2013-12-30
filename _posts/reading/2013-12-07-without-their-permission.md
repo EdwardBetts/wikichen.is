@@ -5,7 +5,7 @@ book_author: "Alexis Ohanian"
 
 category: reading
 layout: book
-comments: false
+comments: true
 
 cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/without-their-permission.jpg
 cover_alt: "Without Their Permission by Alexis Ohanian"
