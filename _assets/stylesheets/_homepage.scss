@@ -1,5 +1,3 @@
-$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
-$font-sans: "jaf-facitweb", Arial, Helvetica, sans-serif;
 
 $base-size: 1.125rem;
 
@@ -11,7 +9,7 @@ $golden-gate-blue: #32a3da;
   margin-top: 5em;
   margin-bottom: 2em;
 
-  font-family: $ff-meta-serif;
+  font-family: $tisa-pro;
   font-size: $base-size;
   color: $text-color;
   line-height: 1.5em;
@@ -45,9 +43,9 @@ $golden-gate-blue: #32a3da;
   }
 
   a.writing {
-    border-color: #FF6600;
+    border-color: $golden-gate-orange;
     &:hover {
-      color: #FF6600;
+      color: $golden-gate-orange;
     }
   }
 
@@ -80,7 +78,7 @@ $golden-gate-blue: #32a3da;
 
       a {
         font-size: 0.875rem;
-        font-family: $font-sans;
+        font-family: $freight-sans-pro;
         border-bottom: 2px solid;
         text-decoration: none;
         color: $text-color;

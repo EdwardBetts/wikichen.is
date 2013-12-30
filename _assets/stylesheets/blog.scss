@@ -3,25 +3,8 @@
 @import "vendor/bourbon/bourbon";
 @import "vendor/neat/neat";
 
-$visual-grid: true;
-
-$tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
-$freight-sans-pro: "freight-sans-pro", Arial, Helvetica, sans-serif;
-
-$body-size: 18px;
-
-$golden-gate-orange: #c0362c;
-$golden-gate-blue: #32a3Da;
-
-$saffron: #6f1402;
-$text-color: #454545;
-$blockquote-color: #c3c3c3;
-$footnotes-color: #777;
-
-
-
 /*---------------------------------------------------------------------------//
-//  $LAYOUT                                                                 //
+//  $LAYOUT                                                                  //
 //---------------------------------------------------------------------------*/
 
 .container {
@@ -40,12 +23,6 @@ $footnotes-color: #777;
 /*---------------------------------------------------------------------------//
 //  $TYPOGRAPHY                                                              //
 //---------------------------------------------------------------------------*/
-
-body {
-  font-size: $body-size;
-  font-weight: normal;
-  -webkit-font-smoothing: antialiased;
-}
 
 h1 {
   font-family: $tisa-pro;
@@ -74,7 +51,7 @@ a {
   color: $golden-gate-orange;
   text-decoration: none;
   &:hover {
-    color: $saffron;
+    color: $golden-gate-orange;
   }
 }
 

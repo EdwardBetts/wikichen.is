@@ -1,8 +1,36 @@
-/*
-   $GENERAL -------------------------------------------------------------------
-*/
+/*---------------------------------------------------------------------------//
+//  $GENERAL                                                                 //
+//---------------------------------------------------------------------------*/
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+/*---------------------------------------------------------------------------//
+//  $TYPOGRAPHY                                                              //
+//---------------------------------------------------------------------------*/
+
+$body-size: 18px;
+
+$tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
+$freight-sans-pro: "freight-sans-pro", Arial, Helvetica, sans-serif;
+
+body {
+  font-size: $body-size;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*---------------------------------------------------------------------------//
+//  $COLORS                                                                  //
+//---------------------------------------------------------------------------*/
+
+$golden-gate-orange: #c0362c;
+$golden-gate-blue: #32a3Da;
+
+$saffron: #6f1402;
+$text-color: #454545;
+$blockquote-color: #c3c3c3;
+$footnotes-color: #777;
