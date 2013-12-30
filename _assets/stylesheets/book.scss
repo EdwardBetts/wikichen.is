@@ -65,7 +65,8 @@ h2 {
 
 .byline {
   font-family: $tisa-pro;
-  font-size: 18px;
+  font-size: 1rem;
+  line-height: 2rem;
 }
 
 .post-subtitle {
@@ -153,13 +154,9 @@ img {
   .post-title {
     margin: 0 auto;
     color: $header-color;
+    line-height: 1.2em;
   }
 
-  .post-lede {
-    font-size: 1.1em;
-    color: $text-color;
-    font-style: italic;
-  }
 }
 
 // footnotes
@@ -306,7 +303,9 @@ footer {
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
-
+  .container {
+    width: 90%;
+  }
 }
 
 /* Landscape phones and down */
@@ -314,8 +313,6 @@ footer {
   p, li {
     font-size: 16px;
     line-height: 1.4em;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
   }
 }
 
