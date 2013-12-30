@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Forever Alone: Why Loneliness Matters in the Social Age"
+layout: blog
+title: "Forever Alone"
+subtitle: "Why Loneliness Matters in the Social Age"
 category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/snow.jpg
@@ -148,7 +149,7 @@ While technology has been a source of social isolation for many, it has the capa
 
 [satisfaction]: http://healthland.time.com/2013/06/03/more-satisfaction-less-divorce-for-people-who-meet-spouses-online/
 
-The same model could potentially be applied to friendships, and it's frustrating to see that there aren't more startups leveraging this opportunity when the problem  is so immediate and in need of solutions. It's a matter of exposure and education on the truths of loneliness, and unfortunately we're just not there yet.
+The same model could potentially be applied to friendships, and it's frustrating to see that there aren't more startups leveraging this opportunity when the problem is so immediate and in need of solutions. It's a matter of exposure and education on the truths of loneliness, and unfortunately we're just not there yet.
 
 - - -
 

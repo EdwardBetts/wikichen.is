@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photowalking Through a Taiwanese Night Market"
-category: writing
+category: drafting
 comments: true
 image_cover: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/night_market_panorama.jpg

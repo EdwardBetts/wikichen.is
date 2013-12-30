@@ -1,6 +1,7 @@
 ---
 title: "Book Title"
 subtitle: "Book Subtitle"
+book_author: "Book Author"
 
 category: reading
 layout: book

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why 7-Eleven is Everywhere in Asia"
-category: writing
+category: drafting
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/7-eleven.jpg
 image_alt: "A 7-Eleven in Taiwan"

@@ -4,23 +4,25 @@
 @import "vendor/neat/neat";
 
 $visual-grid: true;
-$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
-$jaf-facitweb: "jaf-facitweb", Arial, Helvetica, sans-serif;
+
+$tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
+$freight-sans-pro: "freight-sans-pro", Arial, Helvetica, sans-serif;
 
 $body-size: 18px;
 
 $golden-gate-orange: #c0362c;
+$golden-gate-blue: #32a3Da;
+
 $saffron: #6f1402;
-$text-color: #424242;
-$header-color: #242424;
+$text-color: #454545;
 $blockquote-color: #c3c3c3;
 $footnotes-color: #777;
 
 
 
-/*
-   $LAYOUT --------------------------------------------------------------------
-*/
+/*---------------------------------------------------------------------------//
+//  $LAYOUT                                                                 //
+//---------------------------------------------------------------------------*/
 
 .container {
   @include outer-container;
@@ -35,30 +37,36 @@ $footnotes-color: #777;
 }
 
 
-/*
-   $TYPOGRAPHY ----------------------------------------------------------------
-*/
+/*---------------------------------------------------------------------------//
+//  $TYPOGRAPHY                                                              //
+//---------------------------------------------------------------------------*/
 
 body {
   font-size: $body-size;
-  font-family: $ff-meta-serif;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
 }
 
 h1 {
-  font-family: $ff-meta-serif;
+  font-family: $tisa-pro;
+  font-weight: 600;
   font-size: golden-ratio($body-size, 2);
-  color: $header-color;
+  color: $text-color;
 }
 
 h2 {
   font-size: golden-ratio($body-size, 1);
   margin-bottom: 0.3em;
+  font-family: $freight-sans-pro;
+  font-weight: 600;
 }
 
 p {
+  font-family: $tisa-pro;
   font-size: golden-ratio($body-size, 0);
   color: $text-color;
   line-height: round(1.5 * $body-size);
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 
@@ -106,27 +114,32 @@ hr {
 */
 
 .post-header {
-  margin: 3em auto;
+  margin: 0 auto;
   //@include span-columns(6);
   //@include shift(3);
   max-width: 630px;
+  margin-top: 3em;
 
   .post-title {
     margin: 0 auto;
-    color: $header-color;
+    color: $text-color;
+    line-height: 1.2em;
   }
 
-  .post-lede {
-    font-size: 1.1em;
+  .post-subtitle {
+    font-family: $freight-sans-pro;
+    font-weight: 600;
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
     color: $text-color;
-    font-style: italic;
+    text-transform: uppercase;
+    font-variant: small-caps;
   }
 }
 
 // footnotes
 
 .footnotes {
-  padding-top: 1em;
   border-top: 1px dotted #ccc;
   font-size: 0.9em;
   color: $footnotes-color;
@@ -178,8 +191,40 @@ hr {
   line-height: 0;
 }
 
+/*---------------------------------------------------------------------------//
+//  $INDEX                                                                   //
+//---------------------------------------------------------------------------*/
 
+.posts {
+  list-style-type: none;
 
+  li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  .date {
+    font-family: $freight-sans-pro;
+    font-weight: 600;
+    color: #777;
+    text-transform: uppercase;
+    font-variant: small-caps;
+    font-size: 0.8em;
+  }
+  .title {
+    display: block;
+    line-height: 1.2em;
+    font-family: $tisa-pro;
+    font-weight: 600;
+    font-size: 1.2em;
+    color: $text-color;
+
+    &:hover {
+      color: $golden-gate-orange;
+    }
+
+  }
+}
 
 /*
    $RESPONSIVE ----------------------------------------------------------------

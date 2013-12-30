@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Lessons Learned Writing, Part I"
 category: writing
 comments: true

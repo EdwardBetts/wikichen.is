@@ -3,10 +3,8 @@
 @import "vendor/bourbon/bourbon";
 @import "vendor/neat/neat";
 
-$visual-grid: true;
-$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
-$jaf-facitweb: "jaf-facitweb", Arial, Helvetica, sans-serif;
-$georgia: Georgia, "Times New Roman", serif;
+$tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
+$freight-sans-pro: "freight-sans-pro", Arial, Helvetica, sans-serif;
 
 $body-size: 18px;
 
@@ -39,13 +37,13 @@ $footnotes-color: #777;
 */
 
 html {
-  font-size: 112.5%; // 168x
+  font-size: 112.5%; // 18x
 }
 
 body {
   color: $text-color;
   font-size: 1rem;
-  font-family: $ff-meta-serif;
+  font-family: $freight-sans-pro;
 }
 
 h1, h2 {
@@ -53,7 +51,8 @@ h1, h2 {
 }
 
 h1 {
-  font-family: $jaf-facitweb;
+  font-family: $tisa-pro;
+  font-weight: 600;
   font-size: 36px;
 }
 
@@ -65,7 +64,7 @@ h2 {
 }
 
 .byline {
-  font-family: $jaf-facitweb;
+  font-family: $tisa-pro;
   font-size: 18px;
 }
 
@@ -96,7 +95,7 @@ em {
 }
 
 blockquote {
-  font-family: $jaf-facitweb;
+  font-family: $tisa-pro;
   border-left: 5px solid $blockquote-color;
   padding-left: 1em;
   margin-bottom: 2em;
@@ -228,7 +227,7 @@ footer {
   font-size: 1.2em;
   width: 10em;
   border: 2px solid $header-color;
-  font-family: $jaf-facitweb;
+  font-family: $freight-sans-pro;
   text-transform: uppercase;
   display: block;
   text-align: center;
@@ -248,19 +247,23 @@ footer {
    $INDEX ----------------------------------------------------------------
 */
 .books {
-.book-container {
-  display: block;
   margin: 0 auto;
-  height: 210px;
-}
+  max-width: 500px;
+  margin-top: 3em;
 
-.book-cover {
-  display: inline-block;
-
-  img {
-    max-width: 120px;
-    border: 1px solid #c5c5c5;
+  .book-container {
+    display: block;
+    margin: 0 auto;
+    height: 210px;
   }
+
+  .book-cover {
+    display: inline-block;
+
+    img {
+      max-width: 120px;
+      border: 1px solid #c5c5c5;
+    }
 }
 
 .book-metadata {

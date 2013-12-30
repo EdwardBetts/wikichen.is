@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taiwan: A Sensory Experience"
-category: writing
+category: drafting
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/taiwan-moped.jpg
 image_alt: "A Moped on the Streets of Taiwan"

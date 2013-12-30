@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Beyond Mordor: The Power of Completionism"
+layout: blog
+title: "Beyond Bricks & Mordor"
+subtitle: "The Power of Completionism"
 category: writing
 comments: true
 image_cover: true

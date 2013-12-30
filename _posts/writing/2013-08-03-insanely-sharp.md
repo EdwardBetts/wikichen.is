@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: blog
 title: "Insanely Sharp"
+subtitle: "Playing the Hardware Game"
 category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/nexus7-s.jpg

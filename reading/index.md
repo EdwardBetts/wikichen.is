@@ -4,7 +4,6 @@ type: book
 ---
 
 <section id="reading" class="container">
-  <h1>Books</h1>
   <div class="books">
     {% for post in site.categories.reading %}
     <div class="book-container">

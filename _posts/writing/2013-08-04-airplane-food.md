@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Airplane Food"
 category: writing
 comments: true

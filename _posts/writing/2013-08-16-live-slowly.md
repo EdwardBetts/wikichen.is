@@ -1,12 +1,13 @@
 ---
 title: "Live Slowly"
-lede: "An old friend teaches me an alternative way to live life."
+subtitle: "Zen and the Lost Art of Living"
 
+featured: true
 category: writing
+tags: living
 layout: blog
 comments: true
 
-style: "body { color: #a2a2a2; background-color: #f3f3f3; }"
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/breakfast.jpg
 image_alt: "Breakfast in Tainan"
 ---

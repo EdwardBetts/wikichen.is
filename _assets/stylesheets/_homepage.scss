@@ -1,8 +1,11 @@
 $ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
 $font-sans: "jaf-facitweb", Arial, Helvetica, sans-serif;
-$text-color: #757575;
 
 $base-size: 1.125rem;
+
+$text-color: #757575;
+$golden-gate-orange: #c0362c;
+$golden-gate-blue: #32a3da;
 
 #home-page {
   margin-top: 5em;
@@ -56,10 +59,10 @@ $base-size: 1.125rem;
   }
 
   a.reading:hover {
-    border-color: #553B07;
+    border-color: $golden-gate-blue;
 
     &:hover {
-      color: #553B07;
+      color: $golden-gate-blue;
     }
   }
 
