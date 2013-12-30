@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Don't Chase the Rabbit"
+subtitle: "Oh dear! Oh dear! I shall be too late!"
 category: writing
 lede: "Hidden in a movie about mechas and monsters is a lesson about letting go."
 comments: true

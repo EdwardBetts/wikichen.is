@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: "Lessons Learned Writing, Part I"
+title: "Lessons Learned Writing"
+subtitle: "Part One of Hopefully Many More"
 category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/writing.jpg

@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Airplane Food"
+subtitle: "Mile High Gastronomic Club"
 category: writing
 comments: true
 image_url: http://oasis.wikichen.com/writing/uploads/2013/08/airplane_food_m.jpg

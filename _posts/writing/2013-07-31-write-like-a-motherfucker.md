@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Write Like a Motherfucker"
+subtitle: "The Impossible Commitment"
 category: writing
 comments: true
 ---
