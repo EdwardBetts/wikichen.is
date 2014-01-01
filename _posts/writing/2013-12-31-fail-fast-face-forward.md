@@ -31,7 +31,7 @@ Looking back on the past year, I have little to show but a great deal to teach, 
 
 1.  Relentlessly pursue my passions.
 
-    I consider myself really lucky to have found my passions this year: design, photography, and cooking. I treat writing more as a way of life than as a passion, and plus it'll serve to keep me accountable as I pursue my hobbies.
+    I consider myself really lucky to have found my passions this year: design, photography, and cooking. I treat writing more as a coping mechanism than a passion, and publishing can be a way to highlight some of things I learn along the way.
 
 1.  Read more as a matter of personal principle.
 
@@ -39,11 +39,11 @@ Looking back on the past year, I have little to show but a great deal to teach, 
 
 1.  Happiness comes from doing meaningful work in the right roles.
 
-    I thank yerdle for helping me discover what kind of work environment makes me tick---I'm excited for the new opportunity I'm taking on next year. More on that in a future post.
+    I thank yerdle for helping me discover what kind of work environment makes me tick---I'm excited for the new opportunity I'm taking on next year, but more on that in a future post.
 
-1.  The secret to saving money and living better is cooking more.
+1.  The secret to saving money and feeling better is cooking more.
 
-    It helps that cooking is a hobby I recently picked up, one from which I surprisingly derive a tremendous amount of enjoyment. Making food is a delightfully creative craft, and I can't wait to spend more time in the kitchen cooking up a storm.
+    Having a more direct, personal relationship to food has made me a more appreciative, healthier person in general. It helps that cooking is a hobby from which I derive tremendous enjoyment. Making food is such a delightfully creative craft that I can't wait to spend more time in the kitchen cooking up a storm. Plus, you save by eating in.
 
 1.  Lead a healthy lifestyle by being diligent about sleep, exercise, and diet.
 
@@ -59,7 +59,7 @@ Looking back on the past year, I have little to show but a great deal to teach, 
 
 1.  Cherish the company I've chosen to keep and let them know.
 
-    Too often in the past I've lamented not keeping touch with all the wonderful people who have touched my life in some meaningful way. I've met tons of talented peers and inspiring mentors this past year, and I'm committing to cultivating these relationships, because I know some of them will become so much more. I have a saying: good company trumps all.
+    Too often in the past I've lamented not keeping in contact with all the wonderful people who have touched my life in some meaningful way. I've met tons of talented peers and inspiring mentors this past year, and I'm committing to cultivating these relationships, because I know some of them will become so much more. I have a saying: good company trumps all.
 
 1.  Do a startup for the right reason with the right people.
 
@@ -67,11 +67,11 @@ Looking back on the past year, I have little to show but a great deal to teach, 
 
 1.  Spend more time documenting my life here.
 
-    Frank Chimero's resolve to [double down on his personal site](http://frankchimero.com/blog/2013/12/homesteading-2014/) captures perfectly my thoughts on the state of self-expression on the web.
+    Frank Chimero's resolve to [double down on his personal site](http://frankchimero.com/blog/2013/12/homesteading-2014/) captures perfectly my thoughts on the state of self-expression on the web, and my own endeavors to create a fuller, more personal portrait of myself online.
 
 1.  Become a more interesting person.
 
-    I would not want to hang out with the person I am now. Do everything above and maybe by next year's end I'll grab a beer or two with myself.
+    It pays to be an interesting person, because everyone enjoys meeting interesting people. That said, I would not want to hang out with the person I am now. Do everything above and maybe by next year's end I'll grab a beer or two with myself.
 
 - - -
 
