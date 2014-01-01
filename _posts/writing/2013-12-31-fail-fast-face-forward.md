@@ -49,7 +49,7 @@ Looking back on the past year, I have little to show but a great deal to teach, 
 
     Sleep, exercise, and diet are the three most important determinants to my basic level of happiness on a daily basis. When I respect my body and take care of its needs with diligence, the gains in productivity and state of mind are incredible.
 
-1.  Only buy things with which you can create value.
+1.  Only buy things with which I can create value.
 
     I own very little, and I intend to keep it that way for as long as I live. One of the cardinal rules I impose on my own purchasing behavior is that the item I'm buying has to be able to create value in some way; for example, a good pen fits the bill but a television set doesn't.
 
