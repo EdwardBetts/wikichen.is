@@ -1,5 +1,5 @@
 ---
-title: "Hello OpenCurriculum"
+title: "Hello, OpenCurriculum"
 subtitle: "Joining My Best Friend On A New Adventure"
 
 featured: true
