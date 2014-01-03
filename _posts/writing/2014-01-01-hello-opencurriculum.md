@@ -24,21 +24,17 @@ But you know what? It feels different this time; it's the same unpleasant proces
 
 Maybe that's why I know this could work out better than any venture I've ever been involved with, and it's going to work because this time I'll have my best friend.
 
-- - -
-
 ## The Right People
 
 > Good relationships amongst founders tend to drive a company’s success. The question of the founding team is thus the single most important question in assessing an early startup.
 
-I first met Varun Arora in my junior and last year at Carnegie Mellon, when I oversaw the first incarnation of Tartan House---a former frat house the administration converted into a makeshift dorm for the unwitting leftovers from the campus housing pool---as her resident advisor. It was a ragtag bunch of international misfits and fratty outcasts, and we had ourselves a great time. Varun's room was right next to mine, and we quickly bonded over discussions spanning startup culture, the social impact of technology, his mistifying cult of frugal vegetarianism, and the dark, shivering pit of despair that was Pittsburgh.
+I first met Varun Arora in my junior and last year at Carnegie Mellon, when I oversaw the first incarnation of Tartan House---a former frat house the administration converted into a makeshift dorm for the unwitting leftovers from the campus housing pool---as her resident advisor. It was a ragtag bunch of international misfits and Greek outcasts, and we had ourselves a great time. Varun's room was right next to mine, and we quickly bonded over discussions spanning startup culture, the social impact of technology, his mistifying cult of frugal vegetarianism, and the dark, shivering pit of despair that was Pittsburgh.
 
 Varun is one of the best people I've ever had the pleasure of knowing; he's the rare type of individual who exudes authenticity and humility when you speak to him at any moment. But most importantly, above all the heuristics one uses to judge others, he's the most *decent* person I know, a decency more or less defined by a combination of integrity, empathy, and genuineness. And in this day and age, decency---the most honest, humble, no bullshit kind---is awfully hard to find in people. Just by being around him I feel like a better person, and I'm proud and happy to call him my best friend.
 
 It's refreshing to be around someone who lives to brighten other people's day (or at least tries when he ad-libs hilariously unfunny puns) and who constantly strives to make a meaningful difference in the world, even if that entails a life of the most meager means. When I first read Paul Graham's essay [on the one trait good startup founders have](http://www.paulgraham.com/relres.html), Varun was the one who jumped to mind---he is *relentlessly resourceful* personified. I've watched him build his nonprofit from next to nothing over the years, and the passion and conviction with which he weilds over seemingly insurmountable odds never cease to amaze me.
 
 I've wanted to work with Varun for as long as I've known him, but as with most missed opportunities in life (or so we like to tell ourselves), the timing was never right.
-
-- - -
 
 ## The Right Reason
 
