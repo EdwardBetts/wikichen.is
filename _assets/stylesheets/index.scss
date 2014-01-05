@@ -1,8 +1,5 @@
 @import "vendor/reset";
-
-$ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
-
-
+@import "foundation";
 
 
 /* reading index - books */
@@ -11,4 +8,38 @@ $ff-meta-serif: "ff-meta-serif-web-pro", Georgia, "Times New Roman", serif;
 
 
 
+}
+
+
+#writing {
+  .posts {
+    list-style-type: none;
+
+    li {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+
+    .date {
+      font-family: $freight-sans-pro;
+      font-weight: 600;
+      color: #777;
+      text-transform: uppercase;
+      font-variant: small-caps;
+      font-size: 0.8em;
+    }
+    .title {
+      display: block;
+      line-height: 1.2em;
+      font-family: $tisa-pro;
+      font-weight: 600;
+      font-size: 1.2em;
+      color: $text-color;
+
+      &:hover {
+        color: $golden-gate-orange;
+      }
+
+    }
+  }
 }

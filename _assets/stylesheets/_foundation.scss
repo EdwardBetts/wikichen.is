@@ -42,3 +42,23 @@ $footnotes-color: #777;
 .disqus-container {
   margin-top: 3em;
 }
+
+/*---------------------------------------------------------------------------//
+//  $BUTTONS                                                                 //
+//---------------------------------------------------------------------------*/
+
+button.show-comments {
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: #dedede;
+  color: #aeaeae;
+  font-size: 1.2em;
+  width: 100%;
+  font-family: $freight-sans-pro;
+  text-transform: uppercase;
+  display: block;
+  text-align: center;
+  padding: 0.5em;
+}
