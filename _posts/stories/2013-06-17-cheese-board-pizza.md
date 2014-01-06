@@ -54,9 +54,9 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid">
         <div class="span6 offset1">
           <div class="post-body">
-            <p>Nestled in northern Berkeley in an affluent neighborhood rife with fine dining called the Gourmet Ghetto, between an Andronico's and a Safeway whose close vicinity seems to be making a subtle statement about the diverging local demographics, stands The Cheese Board Collective, a worker cooperative comprising a half-cheese shop, half-bakery store called "The Cheese Board" and the much beloved pizzeria known as "Cheese Board Pizza".</p>
+            <p>Nestled in northern Berkeley in an affluent neighborhood rife with fine dining called the Gourmet Ghetto, between an Andronico’s and a Safeway whose close vicinity seems to be making a subtle statement about the diverging local demographics, stands The Cheese Board Collective, a worker cooperative comprising a half-cheese shop, half-bakery store called “The Cheese Board” and the much beloved pizzeria known as “Cheese Board Pizza”.</p>
 
-            <p>Cheese Board Pizza is a unique venue, but a stranger pizzeria still (in an oddly endearing way): it's open from Tuesday to Saturday at strict lunch and dinner hours, it usually features live musical acts who play to patrons and passing pedestrians alike, and it only serves one kind of vegetarian pizza per day, no substitutions allowed. You can purchase a slice of the day's cheesy creation for $2.50, a half pizza at $10, or a whole for double that.</p>
+            <p>Cheese Board Pizza is a unique venue, but a stranger pizzeria still (in an oddly endearing way): it’s open from Tuesday to Saturday at strict lunch and dinner hours, it usually features live musical acts who play to patrons and passing pedestrians alike, and it only serves one kind of vegetarian pizza per day, no substitutions allowed. You can purchase a slice of the day’s cheesy creation for $2.50, a half pizza at $10, or a whole for double that.</p>
 
             <p>Lines stretching for a few blocks from the door are a common sight at the Cheese Board Pizza, especially during peak hours at lunch; though much to my surprise, the wait is never unbearably long, and taking in the sight of the crowds and smells wafting from the kitchen as live jazz plays in the background has come to define as much of the Cheese Board experience as the pizza itself.</p>
           </div>
@@ -68,7 +68,7 @@ custom_css: stories-cheese-board-pizza
           <div class="aside-container aside-tasting">
             <div class="aside-text">
               <h1>Tasting Notes</h1>
-              <p>There's nothing better with which to sample a slice of the day's special at the Collective than a bottle of Mexican coke. The pizzeria sells them at $2, but hop on over to Safeway a block down and you'll usually find them at less than $1 a pop. All the pizzas sampled here were paired with a refreshingly cold bottle of Mexican coke.</p>
+              There’s nothing better with which to sample a slice of the day’s special at the Collective than a bottle of Mexican coke. The pizzeria sells them at $2, but hop on over to Safeway a block down and you’ll usually find them at less than $1 a pop. All the pizzas sampled here were paired with a refreshingly cold bottle of Mexican coke.
             </div>
           </div>
         </div>
@@ -77,7 +77,7 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid break">
         <div class="span8 offset2">
           <div class="post-body">
-            <p>"I think I'm going to eat this everyday," I told my friend Kevin as I finished my first slice. "It's good, but I'm curious to see if some days taste better than others."</p>
+            <p>“I think I’m going to eat this everyday,” I told my friend Kevin as I finished my first slice. “It’s good, but I’m curious to see if some days taste better than others.”</p>
 
             <p>He shook his head and told me it was a bad idea. Never having been one to back down from a food-related challenge, I decided to eat lunch at the Collective for an entire week.</p>
 
@@ -105,7 +105,7 @@ custom_css: stories-cheese-board-pizza
             <div class="aside-container bottom-right">
               <div class="aside-text">
                 <h1>★ ★ ★</h1>
-                <p>A good thin-crust pizza, this variation showcases the tomatoes, which are favorably highlighted by the lemon and cilantro, but it lacks a definitive signature taste. The combination didn't make the cheese stand out, which is arguably the point of cheese pizza.</p>
+                <p>A good thin-crust pizza, this variation showcases the tomatoes, which are favorably highlighted by the lemon and cilantro, but it lacks a definitive signature taste. The combination didn’t make the cheese stand out, which is arguably the point of cheese pizza.</p>
               </div>
             </div>
           </div>
@@ -115,9 +115,9 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid break">
         <div class="span7 offset4">
           <div class="post-body">
-            <p>I had high hopes for the first day of my experiment, and the Collective didn't let me down. Tuesday's pizza was packed with flavorful Roma tomatoes and a limy punch, and while it was by any standard a great pizza, it didn't exactly exceed my expectations for a signature Cheese Board dish. Tomatoes, as I'd come to learn, are perhaps the Collective's weakest ingredient in their ever-changing array of fresh daily produce. A shame, considering tomatoes are one of my favorite vegetables.</p>
+            <p>I had high hopes for the first day of my experiment, and the Collective didn’t let me down. Tuesday’s pizza was packed with flavorful Roma tomatoes and a limy punch, and while it was by any standard a great pizza, it didn’t exactly exceed my expectations for a signature Cheese Board dish. Tomatoes, as I’d come to learn, are perhaps the Collective’s weakest ingredient in their ever-changing array of fresh daily produce. A shame, considering tomatoes are one of my favorite vegetables.</p>
 
-            <p>Still, I looked forward to the next day's creation, hoping it would bring some element of surprise to the otherwise conventional vegetarian pizza others have tried and failed to perfect.</p>
+            <p>Still, I looked forward to the next day’s creation, hoping it would bring some element of surprise to the otherwise conventional vegetarian pizza others have tried and failed to perfect.</p>
           </div>
         </div>
       </div>
@@ -153,7 +153,7 @@ custom_css: stories-cheese-board-pizza
           <div class="post-body">
             <p>My body was not ready for Wednesday. There was something particular about this day that roused my suspicions: the particularly groovy swing of the live jazz act, the growing crowds and their excited whispers, the aroma of sweet nectar mixed with baked crust.</p>
 
-            <p>I was not wrong—this was one of the most memorable pizzas I've ever eaten. Never in my wildest dreams did I imagine corn being used in such brilliance in a pizza dish, as if every other combination before it existed to pave way for this incarnation.</p>
+            <p>I was not wrong—this was one of the most memorable pizzas I’ve ever eaten. Never in my wildest dreams did I imagine corn being used in such brilliance in a pizza dish, as if every other combination before it existed to pave way for this incarnation.</p>
 
             <p>Bravo, Cheese Board, you have a winner.</p>
           </div>
@@ -179,7 +179,7 @@ custom_css: stories-cheese-board-pizza
             <div class="aside-container bottom-right">
               <div class="aside-text">
                 <h1>★ ★</h1>
-                <p>There's nothing terribly special here: the basil pesto overpowers the cheesy foundation and the zucchini felt out of place, resulting in a confused identity of flavors. The crust did stand out, but only because everything else tasted bland and a tad too greasy.</p>
+                <p>There’s nothing terribly special here: the basil pesto overpowers the cheesy foundation and the zucchini felt out of place, resulting in a confused identity of flavors. The crust did stand out, but only because everything else tasted bland and a tad too greasy.</p>
               </div>
             </div>
           </div>
@@ -189,9 +189,9 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid break">
         <div class="span8 offset2">
           <div class="post-body">
-            <p>My gastronomic experiment tapered off from that point onwards, and naturally Wednesday's chef-d'oeuvre reigned uncontested.</p>
+            <p>My gastronomic experiment tapered off from that point onwards, and naturally Wednesday’s chef-d’oeuvre reigned uncontested.</p>
 
-            <p>Thursday's pizza left much to be desired, though I applaud the Collective's efforts in experimenting with different ingredients and toppings, a culinary spirit lost to many of the mediocre pizzerias today who would greatly benefit from following in the Cheese Board's footsteps.</p>
+            <p>Thursday’s pizza left much to be desired, though I applaud the Collective’s efforts in experimenting with different ingredients and toppings, a culinary spirit lost to many of the mediocre pizzerias today who would greatly benefit from following in the Cheese Board’s footsteps.</p>
           </div>
         </div>
       </div>
@@ -215,7 +215,7 @@ custom_css: stories-cheese-board-pizza
             <div class="aside-container bottom-right">
               <div class="aside-text">
                 <h1>★</h1>
-                <p>It's hard to mess up a vegetarian cheese pizza, but whatever this was took the cake. Cardboard topped with grass would taste better: nothing, from the choice of toppings to the crust, worked here. Yikes.</p>
+                <p>It’s hard to mess up a vegetarian cheese pizza, but whatever this was took the cake. Cardboard topped with grass would taste better: nothing, from the choice of toppings to the crust, worked here. Yikes.</p>
               </div>
             </div>
           </div>
@@ -225,7 +225,7 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid break">
         <div class="span7 offset4">
           <div class="post-body">
-            <p>The last two days were a blur: I almost believed my taste buds were dysfunctional when I bit into Friday's abomination, and even Saturday's corn-starring follow-up was a tad disappointing, in part because my body had started rejecting my self-imposed pizza diet. Mom was right about having too much of anything.</p>
+            <p>The last two days were a blur: I almost believed my taste buds were dysfunctional when I bit into Friday’s abomination, and even Saturday’s corn-starring follow-up was a tad disappointing, in part because my body had started rejecting my self-imposed pizza diet. Mom was right about having too much of anything.</p>
 
             <p>So ended my experiment, in jaded distaste and a lesson in moderation many of us learned in childhood; yet in the process, I found myself a lifelong fan of the Collective and the envelope they push for simple, creative, and fresh cheese pizza.</p>
           </div>
@@ -251,7 +251,7 @@ custom_css: stories-cheese-board-pizza
             <div class="aside-container bottom-right">
               <div class="aside-text">
                 <h1>★ ★ ★ ★</h1>
-                <p>If the Collective is good at one thing, it's making plain cheese pizza shine with corn. The mushy sourness of the tomatoes slightly conflicted with the overall sweet palette, but this is still a great slice of thin-crust pizza accentuated by freshly prepared ingredients. </p>
+                <p>If the Collective is good at one thing, it’s making plain cheese pizza shine with corn. The mushy sourness of the tomatoes slightly conflicted with the overall sweet palette, but this is still a great slice of thin-crust pizza accentuated by freshly prepared ingredients. </p>
               </div>
             </div>
           </div>
@@ -263,7 +263,7 @@ custom_css: stories-cheese-board-pizza
           <div class="post-body">
             <p>My favorite Cheese Board story, and my most important revelation about the Collective, came several days later, when some friends and I decided to revisit Cheese Board, as one of them had just moved to California.</p>
 
-            <p>Everything about that particular trip reminded me why Cheese Board makes the perfect social lunch experience: chatting in line under the cool shade on a hot Californian summer's day, sharing a full pizza fresh out of the oven and drizzling some pesto sauce from the dine-in bottles, all the while listening to a live band sing and play to some bluegrass tunes. Maybe it was the immediate freshness of the pizza, or the glorious amount of cheese and corn, or the inclusion of good company and good atmosphere, or my casual obsession with live musical performances, but it was the best time I've ever had eating vegetables thrown in cheese and dough and baked to perfection.</p>
+            <p>Everything about that particular trip reminded me why Cheese Board makes the perfect social lunch experience: chatting in line under the cool shade on a hot Californian summer’s day, sharing a full pizza fresh out of the oven and drizzling some pesto sauce from the dine-in bottles, all the while listening to a live band sing and play to some bluegrass tunes. Maybe it was the immediate freshness of the pizza, or the glorious amount of cheese and corn, or the inclusion of good company and good atmosphere, or my casual obsession with live musical performances, but it was the best time I’ve ever had eating vegetables thrown in cheese and dough and baked to perfection.</p>
           </div>
         </div>
         <div class="span5">
@@ -275,7 +275,7 @@ custom_css: stories-cheese-board-pizza
       <div class="row-fluid break">
         <div class="span10 offset1">
           <div class="post-body post-closure">
-            <p>If you ever find yourself in Berkeley, do yourself a favor and pay Cheese Board Pizza a visit. Although it may not warrant its ridiculous hype, it's nonetheless a charming embodiment of its surrounding neighborhood, an authentic pizzeria true to its roots with great pizza, great music, and great vibes. Grab a few friends and come on a day when corn is featured on the menu, and I promise you a fantastic pizza experience you will unlikely forget.</p>
+            <p>If you ever find yourself in Berkeley, do yourself a favor and pay Cheese Board Pizza a visit. Although it may not warrant its ridiculous hype, it’s nonetheless a charming embodiment of its surrounding neighborhood, an authentic pizzeria true to its roots with great pizza, great music, and great vibes. Grab a few friends and come on a day when corn is featured on the menu, and I promise you a fantastic pizza experience you will unlikely forget.</p>
           </div>
         </div>
       </div>
