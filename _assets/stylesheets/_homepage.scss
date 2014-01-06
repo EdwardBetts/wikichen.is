@@ -38,8 +38,16 @@ $golden-gate-blue: #32a3da;
     border-bottom: 1px dotted;
     line-height: $base-size * 1.125;
     text-decoration: none;
-    display: inline-block;
+
     color: #333;
+  }
+
+  a.highlight:hover {
+    border-color: $golden-gate-blue;
+
+    &:hover {
+      color: $golden-gate-blue;
+    }
   }
 
   a.writing {
@@ -66,6 +74,10 @@ $golden-gate-blue: #32a3da;
 
   ul.actions {
     list-style: circle;
+
+    li {
+      margin-bottom: 0.3em;
+    }
   }
 
   ul.links {
