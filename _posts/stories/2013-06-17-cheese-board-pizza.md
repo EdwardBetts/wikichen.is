@@ -18,9 +18,10 @@ custom_css: stories-cheese-board-pizza
   {% stylesheet vendor/bootstrap %}
   {% stylesheet custom/stories-cheese-board-pizza %}
 
-  <!-- TypeKit -->
+  <!-- Typekit -->
   <script type="text/javascript" src="//use.typekit.net/sif1opx.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  {% include tracking.html %}
 </head>
 <body>
   <div class="fluid-container">
