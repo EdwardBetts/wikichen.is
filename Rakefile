@@ -96,3 +96,34 @@ task :deploy_beta => [:build] do
   status = system("git push --all origin")
   puts status ? "Success" : "Failed"
 end
+
+desc "Create a new post"
+task :new do
+  type = ENV["type"] || "snapshot"
+
+  if type == "snapshot"
+    TARGET_DIR = "_posts/snapshots/"
+    slug = Time.new.strftime("%Y%m%d")
+    title = slug
+    filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
+    path = File.join(TARGET_DIR, filename)
+  end
+  post = <<-HTML
+---
+date: DATE
+title: "TITLE"
+layout: snapshot
+category: lifecasting
+
+image_url: ""
+image_alt: ""
+---
+
+HTML
+  post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s)
+  File.open(path, 'w') do |file|
+    file.puts post
+  end
+  puts "New #{type} generated in #{path}"
+  system "subl #{path}"
+end
