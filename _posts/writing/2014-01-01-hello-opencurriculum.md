@@ -1,6 +1,7 @@
 ---
 title: "Hello, OpenCurriculum"
 subtitle: "Joining My Best Friend On A New Adventure"
+published: false
 
 featured: true
 category: writing

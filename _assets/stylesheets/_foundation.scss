@@ -12,6 +12,31 @@
 //  $TYPOGRAPHY                                                              //
 //---------------------------------------------------------------------------*/
 
+@font-face {
+  font-family: 'Tisa Pro';
+  src: url(asset_path("tisapro-regular-webfont.eot")); /* IE9 Compat Modes */
+  src: url(asset_path("tisapro-regular-webfont.eot?#iefix")) format('embedded-opentype'), /* IE6-IE8 */
+       url(asset_path("tisapro-regular-webfont.woff")) format('woff'), /* Modern Browsers */
+       url(asset_path("tisapro-regular-webfont.ttf")) format('truetype'), /* Safari, Android, iOS */
+       url(asset_path("tisapro-regular-webfont.svg#tisaproregular")) format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Freight Sans Pro';
+  src: url(asset_path('freigsanprobook-webfont.eot'));
+  src: url(asset_path('freigsanprobook-webfont.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('freigsanprobook-webfont.woff')) format('woff'),
+       url(asset_path('freigsanprobook-webfont.ttf')) format('truetype'),
+       url(asset_path('freigsanprobook-webfont.svg#freightsans_probook')) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+$serif: 'Tisa Pro', Georgia, "Times New Roman", serif;
+$sans-serif: 'Freight Sans Pro' Arial, Helvetica, sans-serif;
+
 $body-size: 18px;
 
 $tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
@@ -63,7 +88,7 @@ button.show-comments {
   color: #aeaeae;
   font-size: 1.2em;
   width: 100%;
-  font-family: $freight-sans-pro;
+  font-family: $sans-serif;
   text-transform: uppercase;
   display: block;
   text-align: center;

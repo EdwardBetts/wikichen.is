@@ -15,12 +15,8 @@ custom_css: stories-cheese-board-pizza
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- CSS -->
-  {% stylesheet vendor/bootstrap %}
   {% stylesheet custom/stories-cheese-board-pizza %}
 
-  <!-- Typekit -->
-  <script type="text/javascript" src="//use.typekit.net/sif1opx.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   {% include tracking.html %}
 </head>
 <body>
@@ -69,7 +65,7 @@ custom_css: stories-cheese-board-pizza
           <div class="aside-container aside-tasting">
             <div class="aside-text">
               <h1>Tasting Notes</h1>
-              There’s nothing better with which to sample a slice of the day’s special at the Collective than a bottle of Mexican coke. The pizzeria sells them at $2, but hop on over to Safeway a block down and you’ll usually find them at less than $1 a pop. All the pizzas sampled here were paired with a refreshingly cold bottle of Mexican coke.
+              <p>There’s nothing better with which to sample a slice of the day’s special at the Collective than a bottle of Mexican coke. The pizzeria sells them at $2, but hop on over to Safeway a block down and you’ll usually find them at less than $1 a pop. All the pizzas sampled here were paired with a refreshingly cold bottle of Mexican coke.</p>
             </div>
           </div>
         </div>

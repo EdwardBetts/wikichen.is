@@ -9,3 +9,10 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 permalink: /:categories/:title
 
 enable_disqus: true
+
+assets:
+  sources:
+    - _assets/fonts
+    - _assets/stylesheets
+    - _assets/javascripts
+    - _assets/images

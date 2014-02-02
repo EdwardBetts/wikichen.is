@@ -1,3 +1,40 @@
+@import "vendor/reset";
+@import "vendor/bootstrap";
+@import "foundation";
+
+@font-face {
+  font-family: 'Museo Sans Rounded';
+  src: url(asset_path('museosansrounded-100-webfont.eot'));
+  src: url(asset_path('museosansrounded-100-webfont.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('museosansrounded-100-webfont.woff')) format('woff'),
+       url(asset_path('museosansrounded-100-webfont.ttf')) format('truetype'),
+       url(asset_path('museosansrounded-100-webfont.svg#museo_sans_rounded100')) format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans Rounded';
+  src: url(asset_path('museosansrounded-700-webfont.eot'));
+  src: url(asset_path('museosansrounded-700-webfont.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('museosansrounded-700-webfont.woff')) format('woff'),
+       url(asset_path('museosansrounded-700-webfont.ttf')) format('truetype'),
+       url(asset_path('museosansrounded-700-webfont.svg#museo_sans_rounded700')) format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans Rounded';
+  src: url(asset_path('museosansrounded-900-webfont.eot'));
+  src: url(asset_path('museosansrounded-900-webfont.eot?#iefix')) format('embedded-opentype'),
+       url(asset_path('museosansrounded-900-webfont.woff')) format('woff'),
+       url(asset_path('museosansrounded-900-webfont.ttf')) format('truetype'),
+       url(asset_path('museosansrounded-900-webfont.svg#museo_sans_rounded900')) format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
 /* story specific css */
 
 $lighter-brown: #ebe5df;
@@ -5,6 +42,9 @@ $light-brown: #d8cbbf;
 $background-color: #ded4c9;
 $text-color: #333333;
 $dark-brown: #1f1913;
+
+$museo-sans-rounded: 'Museo Sans Rounded', sans-serif; // 100, 700, 900
+$minion-pro: "minion-pro", serif; // 400i
 
 /* apply a natural box layout model to all elements */
 * {
@@ -35,10 +75,10 @@ $dark-brown: #1f1913;
 .post-title {
   display: block;
   font-size: 54px;
-  font-family: "museo-sans-rounded", sans-serif;
+  font-family: $museo-sans-rounded;
   line-height: 58px;
   text-transform: uppercase;
-  text-shadow: 1px 1px 0px rgba(235, 229, 223, 0.431373);
+  text-shadow: 2px 2px 0px rgba(235, 229, 223, 0.431373);
   font-weight: 900;
   color: $lighter-brown;
   margin: 15px 0;
@@ -47,7 +87,7 @@ $dark-brown: #1f1913;
 .post-metadata {
   color: $light-brown;
   font-size: 16px;
-  font-family: "museo-sans-rounded", sans-serif;
+  font-family: $museo-sans-rounded;
   font-weight: 100;
 }
 
@@ -57,7 +97,7 @@ $dark-brown: #1f1913;
 }
 
 .byline-prefix {
-  font-family: "minion-pro", serif;
+  font-family: $serif, serif;
   text-transform: lowercase;
   font-style: italic;
   font-weight: normal;
@@ -88,7 +128,7 @@ $dark-brown: #1f1913;
 }
 
 body {
-  font-family: "minion-pro", serif;
+  font-family: $serif, serif;
   background-color: $background-color;
 }
 
@@ -121,7 +161,7 @@ p {
   .aside-text {
     padding: 20px;
     color: $light-brown;
-    font-family: "museo-sans-rounded", sans-serif;
+    font-family: $museo-sans-rounded;
 
     h1 {
       font-size: 24px;
@@ -132,6 +172,7 @@ p {
       margin-top: 0.7em;
       font-size: 16px;
       font-weight: 100;
+      line-height: 22px;
     }
   }
 }
@@ -151,7 +192,7 @@ p {
       padding: 10px;
       background: rgba(216, 203, 191, 0.690196);
       width: 400px;
-      font-family: "museo-sans-rounded", sans-serif;
+      font-family: $museo-sans-rounded;
       top: 1.5em;
       left: 1.5em;
 
@@ -226,6 +267,14 @@ p {
     margin: 0 auto;
   }
 
+  p {
+    font-size: 18px;
+  }
+
+  p.post-intro {
+    font-size: 22px;
+  }
+
   .bottom-right {
     margin-top: 0 !important;
     display: block;
@@ -261,6 +310,5 @@ p {
   img.vertical-image, .aside-tasting {
     max-width: 80%;
   }
-
 
 }

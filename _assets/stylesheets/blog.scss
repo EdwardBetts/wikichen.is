@@ -24,7 +24,7 @@
 //---------------------------------------------------------------------------*/
 
 h1 {
-  font-family: $tisa-pro;
+  font-family: $serif;
   font-weight: 600;
   font-size: golden-ratio($body-size, 2);
   //font-size: 2.2em;
@@ -34,13 +34,13 @@ h1 {
 h2 {
   font-size: golden-ratio($body-size, 1);
   margin-bottom: 0.3em;
-  font-family: $freight-sans-pro;
+  font-family: $sans-serif;
   font-weight: 500;
   color: $text-color;
 }
 
 p {
-  font-family: $tisa-pro;
+  font-family: $serif;
   font-size: golden-ratio($body-size, 0);
   color: $text-color;
   line-height: round(1.5 * $body-size);
@@ -86,13 +86,13 @@ ul {
 
 ol {
   counter-reset: li;
-  font-family: $freight-sans-pro;
+  font-family: $sans-serif;
 
   li {
     position: relative;
 
     p:first-child {
-      font-family: $freight-sans-pro;
+      font-family: $sans-serif;
       font-weight: 600;
       font-size: 1.1em;
     }
@@ -139,7 +139,7 @@ hr {
   }
 
   .post-subtitle {
-    font-family: $freight-sans-pro;
+    font-family: $sans-serif;
     font-weight: 600;
     font-size: 0.9em;
     margin-bottom: 0.5em;
@@ -178,7 +178,7 @@ img {
 
       p {
         color: $footnotes-color;
-        font-family: $tisa-pro;
+        font-family: $serif;
         font-weight: normal;
         font-size: 1em;
         line-height: 1.4em;
@@ -232,7 +232,7 @@ hr {
   }
 
   .date {
-    font-family: $freight-sans-pro;
+    font-family: $sans-serif;
     font-weight: 600;
     color: #777;
     text-transform: uppercase;
@@ -242,7 +242,7 @@ hr {
   .title {
     display: block;
     line-height: 1.2em;
-    font-family: $tisa-pro;
+    font-family: $serif;
     font-weight: 600;
     font-size: 1.2em;
     color: $text-color;
