@@ -1,6 +1,6 @@
-repo_url      = "git@github.com:wikichen/wikichen.github.io.git"
+repo_url      = "git@github.com:wikichen/wikichen.is.git"
 deploy_dir    = "_site"
-deploy_branch = "master"
+deploy_branch = "gh-pages"
 
 desc 'Preview site on localhost'
 task :preview do
