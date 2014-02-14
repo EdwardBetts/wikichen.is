@@ -28,6 +28,6 @@ Egos clashed and convictions shaken, we came to the consesnsus that it'd be best
 
 It's been a few days since my departure, and I'm as uncertain as ever what my next steps are, largely given that I'm still digesting what I've learned from this experience. What's certain is that I won't be touching startups for a very long time, and I might even stay away from Hacker News for a while. If anything, when the time comes and that startup itch manifests itself again, I've taken to heart that it will be of my own creation, with a team I can entrust equal ownership, and on my own terms, Y Combinator or not.
 
-Taking the new Moleskine from the shelf and removing its from its plastic wrap, I turned to the first blank page and picked up my pen.
+Taking the new Moleskine from the shelf and removing it from its plastic wrap, I turned to the first blank page and picked up my pen.
 
 *Here we go again.*
