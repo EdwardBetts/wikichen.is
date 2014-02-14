@@ -1,14 +1,15 @@
 @import "vendor/reset";
 @import "foundation";
 @import "vendor/bourbon/bourbon";
-@import "vendor/neat/neat";
+//@import "vendor/neat/neat";
 
 /*---------------------------------------------------------------------------//
 //  $LAYOUT                                                                  //
 //---------------------------------------------------------------------------*/
 
 .container {
-  @include outer-container;
+  max-width: 1088px;
+  margin: 0 auto;
 }
 
 .post-body {
@@ -25,8 +26,7 @@
 
 h1 {
   font-family: $serif;
-  font-weight: 600;
-  font-size: golden-ratio($body-size, 2);
+  font-size: 2.25rem;
   //font-size: 2.2em;
   color: $text-color;
 }
@@ -129,8 +129,8 @@ hr {
   //@include span-columns(6);
   //@include shift(3);
   max-width: 630px;
-  margin-top: 3em;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 
   .post-title {
     margin: 0 auto;
@@ -141,8 +141,8 @@ hr {
   .post-subtitle {
     font-family: $sans-serif;
     font-weight: 600;
-    font-size: 0.9em;
-    margin-bottom: 0.5em;
+    font-size: 1rem;
+    margin-bottom: 0.2em;
     color: $text-color;
     text-transform: uppercase;
     font-variant: small-caps;
@@ -151,7 +151,7 @@ hr {
 
 .block {
   width: 100%;
-  max-width: 1024px;
+  max-width: 720px;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -225,25 +225,27 @@ hr {
 
 .posts {
   list-style-type: none;
+  display: block;
+  max-width: 660px;
+  margin: 0 auto;
 
   li {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
   }
 
   .date {
     font-family: $sans-serif;
-    font-weight: 600;
     color: #777;
     text-transform: uppercase;
     font-variant: small-caps;
     font-size: 0.8em;
   }
+
   .title {
     display: block;
     line-height: 1.2em;
     font-family: $serif;
-    font-weight: 600;
     font-size: 1.2em;
     color: $text-color;
 
@@ -304,7 +306,12 @@ hr {
 /* Landscape phones and down */
 @media (max-width: 480px) {
   h1 {
-    font-size: 2em;
+    font-size: 1.5rem;
+  }
+  .post-header {
+    .post-subtitle {
+      font-size: 0.8rem;
+    }
   }
 
 }
