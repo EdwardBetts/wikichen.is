@@ -3,12 +3,11 @@
   {% include head.html %}
 
   <body>
+    <div class="block">
+      <img src="{{ page.image_url }}" alt="{{ page.image_alt }}">
+    </div>
     <div class="container">
-
       <header class="post-header">
-        <div class="block">
-          <img src="{{ page.image_url }}" alt="{{ page.image_alt }}">
-        </div>
         <div class="post-subtitle">{{ page.subtitle }}</div>
         <h1 class="post-title">{{ page.title }}</h1>
       </header>
