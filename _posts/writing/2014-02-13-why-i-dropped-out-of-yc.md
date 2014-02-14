@@ -3,6 +3,7 @@ title: "Why I Dropped Out Of YC"
 subtitle: "When Hot Pants Get Uncomfortable"
 layout: blog
 category: writing
+comments: true
 
 description: "A story about my first Moleskine and wearing hot pants."
 

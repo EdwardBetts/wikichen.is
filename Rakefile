@@ -117,6 +117,8 @@ title: "TITLE"
 layout: LAYOUT
 category: CATEGORY
 
+comments: true
+
 image_url: ""
 image_alt: ""
 ---
