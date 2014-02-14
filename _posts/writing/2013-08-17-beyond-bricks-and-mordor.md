@@ -5,7 +5,7 @@ subtitle: "The Power of Completionism"
 category: writing
 comments: true
 image_cover: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/legolotr.jpg
+image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
 ---
 
@@ -29,7 +29,7 @@ As far as gameplay is concerned, [*Lego The Lord of the Rings*][lotr] follows th
 
 [lotr]: http://www.metacritic.com/game/xbox-360/lego-the-lord-of-the-rings
 
-![Screenshot of Lego LotR](http://oasis.wikichen.com/writing/uploads/2013/08/legolotr_screenshot.jpg)
+![Screenshot of Lego LotR](http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/legolotr-screenshot.jpg)
 
 There is a seemingly endless amount of things to collect in Lego Middle Earth: Mithril bricks to find for crafting tools, characters to meet and do fetch quests for, treasures to unearth, and Lego studs for currency. That Middle Earth is rendered as an open world (instead of a much smaller hub in the previous games) is a testament to the time and effort it takes to obtain 100% completion of the game.
 
@@ -51,7 +51,7 @@ In the design world, a recent trend in web usability is the [completeness meter]
 
 [meter]: http://ui-patterns.com/patterns/CompletenessMeter
 
-![Examples of the Completeness Meter](http://oasis.wikichen.com/writing/uploads/2013/08/completeness_meter.jpg)
+![Examples of the Completeness Meter](http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/legolotr-completeness-meter.jpg)
 
 The emergence of these “gamified” techniques tapping into completionism warrants some scrutiny, because as my time with *Lego LotR* showed, this completionist-driven behavior may not be all roses and toy bricks.
 

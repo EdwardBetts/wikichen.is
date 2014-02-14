@@ -4,7 +4,7 @@ title: "Insanely Sharp"
 subtitle: "Playing the Hardware Game"
 category: writing
 comments: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/nexus7-s.jpg
+image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/nexus7.jpg
 image_alt: "Nexus 7 on an iPad mini"
 ---
 

@@ -4,7 +4,7 @@ title: "Lessons Learned Writing"
 subtitle: "Part One of Hopefully Many More"
 category: writing
 comments: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/writing.jpg
+image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/writing-calvin-and-hobbes.jpg
 image_alt: "Writing"
 ---
 
@@ -18,7 +18,7 @@ At the beginning of August I started a project to [write everyday for a year][wr
 
 A lot of people messaged me expressing interest in what I'm doing. *I want to write, and I wish I had time and the guts to put everything out there*, they said. That's a nice bullshit excuse you've got there.
 
-![Page Views](http://oasis.wikichen.com/writing/uploads/2013/08/pageviews.jpg)
+![Page Views](http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/writing-pageviews.jpg)
 
 I didn't start writing because I thought I was good enough. Hell, I still think most of what I write is complete and utter horseshit. But so what? Your writing will never get better if you don't write. I decided to write with complete transparency because it keeps me accountable to my peers and the world at large. I make sure people read what I write, so I can get better at writing and have no excuse when I don't produce—*shit, people actually read my stuff, better make sure to write more*.
 
@@ -34,7 +34,7 @@ Open your eyes, because I'll have you know that *the entire Internet* is for nob
 
 I'm a nobody. I have fewer followers and friends on social networks than what Justin Bieber's accounts eat for breakfast. Yet I still manage to help people find and read the stuff I write, because I care to make the effort to share—I want my writing out there for the world to read and judge and share. It's hard to make people care when you don't.
 
-![Reddit Submissions](http://oasis.wikichen.com/writing/uploads/2013/08/reddit_submissions.jpg)
+![Reddit Submissions](http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/writing-reddit-submissions.jpg)
 
 For starters, [Reddit](http://www.reddit.com/) is a fantastic place to share your writing. There are hundreds upon hundreds of subreddits catering to every niche subject you can think of. There's a subreddit for everything, so you really have no excuse. It's also a great place to get feedback: if your post gets upvoted, there must be something people liked that you could take away for your next post, and vice versa.
 

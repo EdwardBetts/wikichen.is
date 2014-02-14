@@ -5,7 +5,7 @@ subtitle: "A Circus of Dreamers, Fools, and Hackers"
 category: writing
 comments: true
 image_cover: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/startuphouse.jpg
+image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/startuphouse.jpg
 image_alt: "StartupHouse Wall of Fame"
 ---
 
