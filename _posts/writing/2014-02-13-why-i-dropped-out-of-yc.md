@@ -30,4 +30,4 @@ It's been a few days since my departure, and I'm as uncertain as ever what my ne
 
 Taking the new Moleskine from the shelf and removing its from its plastic wrap, I turned to the first blank page and picked up my pen.
 
-*Here we go again. :)*
+*Here we go again.*
