@@ -4,7 +4,7 @@ title: "Forever Alone"
 subtitle: "Why Loneliness Matters in the Social Age"
 category: writing
 comments: true
-image_url: http://oasis.wikichen.com/writing/uploads/2013/08/snow.jpg
+image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/snow.jpg
 ---
 
 > I got up and went over and looked out the window. I felt so lonesome, all of a sudden. I almost wished I was dead. Boy, did I feel rotten. I felt so damn lonesome. I just didn't want to hang around any more. It made me too sad and lonesome.
@@ -120,10 +120,8 @@ The amount of time you spend on Facebook, as a recent study found, is inversely 
 
 Take a moment to watch this video:
 
-<div class="fit-container">
-  <div class="video-container">
-    <iframe src="http://player.vimeo.com/video/70534716" width="500" height="281" frameborder="0"> </iframe>
-  </div>
+<div class="video-container">
+  <iframe src="http://player.vimeo.com/video/70534716" width="500" height="281" frameborder="0"> </iframe>
 </div>
 
 It's a powerful, sombering reminder that our growing dependence on technology to communicate has serious social repercussions, to which Cohen presents his central thesis:
