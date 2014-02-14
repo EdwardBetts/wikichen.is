@@ -4,6 +4,8 @@ subtitle: "When Hot Pants Get Uncomfortable"
 layout: blog
 category: writing
 
+description: "A story about my first Moleskine and wearing hot pants."
+
 image_url: "http://wikichen-cloud.s3.amazonaws.com/serving/posts/2014/02/moleskin.jpg"
 image_alt: "Moleskin Squared Notebook"
 ---
