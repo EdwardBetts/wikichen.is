@@ -99,31 +99,37 @@ end
 
 desc "Create a new post"
 task :new do
-  type = ENV["type"] || "snapshot"
+  type = ENV["type"] || "writing"
+  title = ENV["title"] || "New Post"
+  slug = title.gsub(' ','-').downcase
 
-  if type == "snapshot"
-    TARGET_DIR = "_posts/snapshots/"
-    slug = Time.new.strftime("%Y%m%d")
-    title = slug
-    filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
-    path = File.join(TARGET_DIR, filename)
+  if type == "writing"
+    layout = "blog"
   end
+
+  filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
+  TARGET_DIR = "_posts/#{type}/"
+  path = File.join(TARGET_DIR, filename)
   post = <<-HTML
 ---
 date: DATE
 title: "TITLE"
-layout: snapshot
-category: lifecasting
+layout: LAYOUT
+category: CATEGORY
 
 image_url: ""
 image_alt: ""
 ---
 
 HTML
-  post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s)
+  post.gsub!('TITLE', title)
+  post.gsub!('DATE', Time.new.to_s)
+  post.gsub!('LAYOUT', layout)
+  post.gsub!('CATEGORY', type)
+
   File.open(path, 'w') do |file|
     file.puts post
   end
-  puts "New #{type} generated in #{path}"
+  puts "New #{type} post generated in #{path}"
   system "subl #{path}"
 end
