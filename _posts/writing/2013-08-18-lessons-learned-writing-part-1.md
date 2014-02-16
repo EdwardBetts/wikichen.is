@@ -40,7 +40,7 @@ For starters, [Reddit](http://www.reddit.com/) is a fantastic place to share you
 
 When my post on [The Tao of Pooh][pooh] hit the front page of [r/books][books], it sent more than 40,000 hits to my site. Other posts didn't do so well. Like I said, you win some days, you lose some days. Keep writing and carry on.
 
-[pooh]: /the-tao-of-pooh/
+[pooh]: /reading/the-tao-of-pooh/
 [books]: http://www.reddit.com/r/books
 
 ## Writing has become one of my most rewarding creative feedback loops.
