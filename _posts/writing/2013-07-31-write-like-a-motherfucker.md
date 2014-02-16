@@ -53,3 +53,5 @@ Perhaps [Sugar from The Rumpus][sugar] explains it more eloquently just why I'm 
 > So write. Not like a girl. Not like a boy. Write like a motherfucker.
 
 [sugar]: http://therumpus.net/2010/08/dear-sugar-the-rumpus-advice-column-48-write-like-a-motherfucker/
+
+*Update 02/16/2014: Obviously this experiment failed spectacularly, but it's helped me realize that writing serves an important function in my life, one I intend to treat with more discipline in the future. No more promises, just words.*
