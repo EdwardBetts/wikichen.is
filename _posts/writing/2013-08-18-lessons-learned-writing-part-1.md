@@ -8,9 +8,9 @@ image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/writing-
 image_alt: "Writing"
 ---
 
-At the beginning of August I started a project to [write everyday for a year][write]. 2 weeks, 17 posts, 13k words, 50k views, and a lot of caffeine later, I'm happy to be writing this update to share what I've learned and to propose some appropriate changes to the scope of the project.
+At the beginning of August I started a project to [write everyday for a year][everyday]. 2 weeks, 17 posts, 13k words, 50k views, and a lot of caffeine later, I'm happy to be writing this update to share what I've learned.
 
-[write]: /write-like-a-motherfucker/
+[everyday]: /writing/write-like-a-motherfucker
 
 - - -
 
@@ -49,8 +49,7 @@ The most surprising benefit I found in writing with a schedule is how much it ch
 
 Writing has also led me to connect with people I wouldn't have otherwise had the opportunity to interact with, and I'm always pleasantly surprised when people reach out to me to express their own sentiments or spur their own discussions regarding my writing. It's one of the most rewarding feelings I've ever experienced doing anything.
 
-- - -
-
+<!---
 To that end, I want to make some changes to the project. <span class="highlight">Instead of writing everyday, I'm going to publish a longer post every Monday, Wednesday, and Friday.</span>
 
 The daily constraint really puts pressure on shipping content that may not be all that interesting or substantive. The off days will be much needed time to flesh out my ideas, and the decreased posting frequency will allow me to develop meatier pieces that are more engaging and informative. Part of this is because I discovered many of my posts are media heavy, and processing images really cut into my allocated writing time, even though they're just as relevant and important to the content of the posts.
@@ -58,5 +57,4 @@ The daily constraint really puts pressure on shipping content that may not be al
 I also underestimated how much development time this blog needs. On the weekends, rather than write, I want to instead use that time to make improvements to the design and functionality of the blog. Good design can make better reading experiences, and as a designer with a vested interest in web publishing, this is the perfect medium on which to experiment and play with elements like typography, responsive layouts, flexible grids, and creative storytelling.
 
 Lastly, it really makes my day when I know that people are taking the time to read my writing, so I want to say thanks to all the friends and strangers alike who have read, shared, or given me feedback on my posts. You're a large part of why I continue to write, and your support means everything to me.
-
-Stay tuned for much more.
+-->
