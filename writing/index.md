@@ -1,4 +1,5 @@
 ---
+title: writing
 layout: index
 type: blog
 ---

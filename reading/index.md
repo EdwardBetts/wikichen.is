@@ -1,4 +1,5 @@
 ---
+title: reading
 layout: index
 type: book
 ---
