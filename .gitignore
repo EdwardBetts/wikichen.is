@@ -20,3 +20,6 @@ Icon
 
 ### Jekyll ###
 _site/
+
+### s3_website config ###
+s3_website.yml
