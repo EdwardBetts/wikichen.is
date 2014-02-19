@@ -31,14 +31,30 @@ $effra: "effra", Helvetica, Arial, sans-serif;
 
 /* LAYOUT */
 
+.container {
+  margin: 0 auto;
+  max-width: 64rem;
+  width: 100%;
+}
+
+.photo-block {
+  margin: 0 auto;
+  width: 98%;
+}
+
+.column {
+  padding-top: 0.4
+}
+
+/* Medium screens (640px) */
 @media (min-width: 40rem) {
   .column {
     float: left;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
   }
 
-  .column.full {
+  .column.stretch {
     padding-left: 0;
     padding-right: 0;
   }
@@ -49,37 +65,25 @@ $effra: "effra", Helvetica, Arial, sans-serif;
   .column.third { width: 33.3%; }
   .column.fourth { width: 24.95%; }
   .column.flow-opposite { float: right; }
+
+  .photo-block {
+    width: 100%;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+  }
+}
+
+/* Large screens (1024px) */
+@media (min-width: 64rem) {
+  html {
+
+  }
 }
 
 
 
-.container {
-  margin: 0 auto;
-  max-width: 48rem;
-  width: 90%;
-}
 
-.group-half {
-  width: 50%;
-  margin-right: 0;
-  display: inline-block;
 
-}
-
-.center {
-  /* old flexbox */
-  display: -moz-box;
-  display: -webkit-box;
-  display: box;
-
-  /* new flexbox */
-  display: -webkit-flex;
-  display: flex;
-}
-
-.full-group {
-
-}
 
 /* IMAGE POSTS */
 
