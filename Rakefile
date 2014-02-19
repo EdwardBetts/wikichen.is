@@ -21,26 +21,10 @@ task :server do
   [jekyllPid, sassPid].each { |pid| Process.wait(pid) }
 end
 
-desc 'Deploy the site to GitHub Pages'
+desc 'Deploy the site to AWS S3 served with CloudFront'
 task :deploy do
-  #system 'compass compile'
   system 'jekyll build'
-
-  cd "#{deploy_dir}" do
-    system "git pull"
-  end
-
-  #(Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
-
-  cd "#{deploy_dir}" do
-    system "git add -A"
-    puts "\n## Commiting: Site updated at #{Time.now.utc}"
-    message = "Site updated at #{Time.now.utc}"
-    system "git commit -m \"#{message}\""
-    puts "\n## Pushing generated #{deploy_dir} website"
-    system "git push origin #{deploy_branch}"
-    puts "\n## Github Pages deploy complete"
-  end
+  system 's3_website push'
 end
 
 desc "Setup directory for deploying to GitHub Pages"
