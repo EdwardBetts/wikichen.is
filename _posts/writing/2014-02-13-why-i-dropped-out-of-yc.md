@@ -34,3 +34,7 @@ It's been a few days since my departure, and I'm as uncertain as ever regarding 
 Taking the new Moleskine from the shelf and removing it from its plastic wrap, I turned to the first blank page and picked up my pen.
 
 *Here we go again.*
+
+- - -
+
+*Update 02/21/2014: It's come to my attention that my post could be misinterpreted given how sufficiently vague it is. I kept it generic by design so as not to draw attention to the relevant parties, but perhaps more clarification is needed. In no way is my reflection intended to be an assessment of YC; that I've taken Aaron's advice to heart should show that I still hold YC in the highest regard. Rather the introspection centers on me and my own shortcomings as an entrepreneur and the decisions that led to the eventual breakup of the startup. Some things in life just aren't meant to work out---this was one of them.*
