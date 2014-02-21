@@ -1,21 +1,9 @@
-### Jekyll ###
 _site/
-
-### SCSS ###
 *.sass-cache
-
-### S3 Credentials ###
-s3_website.yml
-
-### OSX ###
 .DS_Store
 .AppleDouble
 .LSOverride
 Icon
-
-# Thumbnails
 ._*
-
-# Files that might appear on external disk
 .Spotlight-V100
 .Trashes
