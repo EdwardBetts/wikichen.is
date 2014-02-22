@@ -3,9 +3,11 @@
   {% include head.html %}
 
   <body>
+    {% if page.image_url %}
     <div class="block">
-      <img src="{{ page.image_url }}" alt="{{ page.image_alt }}">
+      <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
     </div>
+    {% endif %}
     <div class="container">
       <header class="post-header">
         <div class="post-subtitle">{{ page.subtitle }}</div>

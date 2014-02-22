@@ -8,7 +8,7 @@ tags: living
 layout: blog
 comments: true
 
-image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/breakfast.jpg
+image_url: posts/2013/08/breakfast.jpg
 image_alt: "Breakfast in Tainan"
 ---
 

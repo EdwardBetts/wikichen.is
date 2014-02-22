@@ -5,7 +5,7 @@ subtitle: "Oh dear! Oh dear! I shall be too late!"
 category: writing
 lede: "Hidden in a movie about mechas and monsters is a lesson about letting go."
 comments: true
-image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/pacificrim.jpg
+image_url: posts/2013/08/pacificrim.jpg
 image_alt: "Raleigh Becket and Mako Miri in Pacific Rim"
 ---
 

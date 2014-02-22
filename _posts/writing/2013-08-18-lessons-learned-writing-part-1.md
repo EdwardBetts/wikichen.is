@@ -4,7 +4,7 @@ title: "Lessons Learned Writing"
 subtitle: "Part One of Hopefully Many More"
 category: writing
 comments: true
-image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/writing-calvin-and-hobbes.jpg
+image_url: posts/2013/08/writing-calvin-and-hobbes.jpg
 image_alt: "Writing"
 ---
 

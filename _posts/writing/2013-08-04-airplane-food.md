@@ -4,7 +4,7 @@ title: "Airplane Food"
 subtitle: "Mile High Gastronomic Club"
 category: writing
 comments: true
-image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/airplane-food.jpg
+image_url: posts/2013/08/airplane-food.jpg
 ---
 
 On my 13-hour flight on China Airlines from Los Angeles to Taipei, it dawned upon me that while I've traveled extensively within the United States for the past year, my passport has remained dusty and unadorned since I returned to Taiwan seven years ago.

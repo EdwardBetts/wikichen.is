@@ -6,10 +6,10 @@ layout: photo
 category: capturing
 comments: false
 
-image0: http://cloud.wikichen.is/serving/photos/2014/02/15/santa-monica-pier-boardwalk.jpg
-image1: http://cloud.wikichen.is/serving/photos/2014/02/15/la-skyline-griffith-observatory.jpg
-image2: http://cloud.wikichen.is/serving/photos/2014/02/15/hollywood-sign.jpg
-image3: http://cloud.wikichen.is/serving/photos/2014/02/15/daikokuya-ramen-little-tokyo.jpg
+image0: photos/2014/02/15/santa-monica-pier-boardwalk.jpg
+image1: photos/2014/02/15/la-skyline-griffith-observatory.jpg
+image2: photos/2014/02/15/hollywood-sign.jpg
+image3: photos/2014/02/15/daikokuya-ramen-little-tokyo.jpg
 ---
 
 <div class="photo-block row clearfix">

@@ -5,7 +5,7 @@ subtitle: "The Power of Completionism"
 category: writing
 comments: true
 image_cover: true
-image_url: http://wikichen-cloud.s3.amazonaws.com/serving/posts/2013/08/legolotr.jpg
+image_url: posts/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
 ---
 
