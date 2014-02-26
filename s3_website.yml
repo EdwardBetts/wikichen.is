@@ -9,8 +9,13 @@ exclude_from_upload:
 s3_reduced_redundancy: true
 cloudfront_distribution_id: <%= ENV['WIKICHEN_IS_CLOUDFRONT_ID'] %>
 cloudfront_distribution_config:
-   default_cache_behavior:
-     min_TTL: <%= 60 * 60 * 24 %>
+  default_cache_behavior:
+    min_TTL: <%= 60 * 60 * 24 %>
+  aliases:
+    quantity: 2
+    items:
+      CNAME1: wikichen.is
+      CNAME2: www.wikichen.is
 max_age: 120
 cloudfront_invalidate_root: true
 concurrency_level: 5
