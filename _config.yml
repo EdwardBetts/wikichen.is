@@ -1,7 +1,9 @@
 name: wikichen
-description: "Welcome to wikichen's playground on the web."
+description: wikichen's happy place on the web
 url: http://wikichen.is
-author: Jonathan E. Chen
+author:
+  name: Jonathan E. Chen
+  email: hello@wikichen.is
 
 markdown: kramdown
 pygments: true
