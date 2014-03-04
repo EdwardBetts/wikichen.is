@@ -5,7 +5,6 @@ s3_bucket: wikichen.is
 s3_endpoint: us-west-2
 exclude_from_upload:
   - .DS_Store
-  - drafting/
 s3_reduced_redundancy: true
 cloudfront_distribution_id: <%= ENV['WIKICHEN_IS_CLOUDFRONT_ID'] %>
 cloudfront_distribution_config:
