@@ -7,6 +7,8 @@ comments: true
 image_cover: true
 image_url: posts/2013/08/startuphouse.jpg
 image_alt: "StartupHouse Wall of Fame"
+
+published: false
 ---
 
 Today marks the three-month mensiversary of my impetuous love affair with the shy temptress ever shrouded in fog, a courtship which began long before I caught a glimpse of her majestic, golden mane or stood awestruck at her steep, voluptuous curves. During what would be known in my journal as the Great Summer Fling of 2011, I fell dangerously in love with la demoiselle. It was love at first sight, and her tender loins left quite an unforgettable impression. Even after I left for what I equate to Mordor, she would speak of untold riches and opportunity, and so after an early graduation I decided to pursue her promise of romance and arrived, as impassioned as any young lad should find himself at a turning point in his life, in the city of San Francisco.

@@ -7,6 +7,8 @@ comments: true
 image_cover: true
 image_url: posts/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
+
+published: false
 ---
 
 *This post was originally published on Medium, which never saw many views. I hope it finds a new audience here, as it explores two of my favorite things: video games and user-centered design.*
