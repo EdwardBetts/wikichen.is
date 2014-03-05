@@ -2,39 +2,6 @@
 @import "vendor/bootstrap";
 @import "foundation";
 
-@font-face {
-  font-family: 'Museo Sans Rounded';
-  src: url(asset_path('museosansrounded-100-webfont.eot'));
-  src: url(asset_path('museosansrounded-100-webfont.eot?#iefix')) format('embedded-opentype'),
-       url(asset_path('museosansrounded-100-webfont.woff')) format('woff'),
-       url(asset_path('museosansrounded-100-webfont.ttf')) format('truetype'),
-       url(asset_path('museosansrounded-100-webfont.svg#museo_sans_rounded100')) format('svg');
-  font-weight: 100;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Museo Sans Rounded';
-  src: url(asset_path('museosansrounded-700-webfont.eot'));
-  src: url(asset_path('museosansrounded-700-webfont.eot?#iefix')) format('embedded-opentype'),
-       url(asset_path('museosansrounded-700-webfont.woff')) format('woff'),
-       url(asset_path('museosansrounded-700-webfont.ttf')) format('truetype'),
-       url(asset_path('museosansrounded-700-webfont.svg#museo_sans_rounded700')) format('svg');
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Museo Sans Rounded';
-  src: url(asset_path('museosansrounded-900-webfont.eot'));
-  src: url(asset_path('museosansrounded-900-webfont.eot?#iefix')) format('embedded-opentype'),
-       url(asset_path('museosansrounded-900-webfont.woff')) format('woff'),
-       url(asset_path('museosansrounded-900-webfont.ttf')) format('truetype'),
-       url(asset_path('museosansrounded-900-webfont.svg#museo_sans_rounded900')) format('svg');
-  font-weight: 900;
-  font-style: normal;
-}
-
 /* story specific css */
 
 $lighter-brown: #ebe5df;
