@@ -42,6 +42,7 @@ h2 {
 p {
   font-family: $serif;
   font-size: golden-ratio($body-size, 0);
+  font-weight: 500;
   color: $text-color;
   line-height: round(1.5 * $body-size);
   margin-top: 1em;
