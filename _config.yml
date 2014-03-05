@@ -18,7 +18,6 @@ assets:
   js_compressor: uglifier
   css_compressor: sass
   sources:
-    - _assets/fonts
     - _assets/stylesheets
     - _assets/javascripts
     - _assets/images
