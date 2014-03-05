@@ -57,11 +57,10 @@
 
 $serif: 'Tisa Pro', Georgia, "Times New Roman", serif;
 $sans-serif: 'Freight Sans Pro', Helvetica, Arial, sans-serif;
+$serif: "freight-text-pro", Georgia, "Times New Roman", serif;
+$sans-serif: "freight-sans-pro", Helvetica, Arial, sans-serif;
 
 $body-size: 18px;
-
-$tisa-pro: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
-$freight-sans-pro: "freight-sans-pro", Arial, Helvetica, sans-serif;
 
 body {
   font-size: $body-size;
