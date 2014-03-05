@@ -3,6 +3,8 @@
 @import "vendor/bourbon/bourbon";
 //@import "vendor/neat/neat";
 
+$body-size: 20px;
+
 /*---------------------------------------------------------------------------//
 //  $LAYOUT                                                                  //
 //---------------------------------------------------------------------------*/
@@ -26,8 +28,7 @@
 
 h1 {
   font-family: $serif;
-  font-size: 2.25rem;
-  //font-size: 2.2em;
+  font-size: 2.5rem;
   color: $text-color;
 }
 
@@ -42,7 +43,7 @@ h2 {
 p {
   font-family: $serif;
   font-size: golden-ratio($body-size, 0);
-  font-weight: 500;
+  font-weight: normal;
   color: $text-color;
   line-height: round(1.5 * $body-size);
   margin-top: 1em;
@@ -294,13 +295,23 @@ hr {
 @media (max-width: 767px) {
   .container {
     width: 90%;
+    max-width: 520px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .post-header {
+    .post-subtitle {
+      font-size: 0.9rem;
+    }
   }
 
   p, li {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.4em;
   }
-
 
   ol {
 
@@ -321,13 +332,7 @@ hr {
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
-  h1 {
-    font-size: 1.5rem;
-  }
-  .post-header {
-    .post-subtitle {
-      font-size: 0.8rem;
-    }
-  }
+
+
 
 }
