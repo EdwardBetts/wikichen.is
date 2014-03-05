@@ -3,7 +3,7 @@ title: "Without Their Permission"
 subtitle: "How the 21st Century Will Be Made, Not Managed"
 book_author: "Alexis Ohanian"
 
-category: reading
+category: writing
 layout: book
 comments: true
 

@@ -3,7 +3,7 @@ title: "The Tao of Pooh"
 subtitle:
 book_author: "Benjamin Hoff"
 
-category: reading
+category: writing
 layout: book
 comments: true
 

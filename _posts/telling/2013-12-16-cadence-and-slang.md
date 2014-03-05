@@ -3,7 +3,7 @@ title: "Cadence & Slang"
 subtitle: "A very small book about interaction design."
 book_author: "Nick Disabato"
 
-category: reading
+category: writing
 layout: book
 comments: true
 

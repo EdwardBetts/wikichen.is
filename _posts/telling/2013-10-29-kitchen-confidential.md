@@ -3,7 +3,7 @@ title: "Kitchen Confidential"
 subtitle: "Adventures in the Culinary Underbelly"
 book_author: "Anthony Bourdain"
 
-category: reading
+category: writing
 layout: book
 comments: true
 

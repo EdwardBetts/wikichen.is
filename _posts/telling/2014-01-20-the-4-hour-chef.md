@@ -3,7 +3,7 @@ title: "The 4-Hour Chef"
 subtitle: "The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life"
 book_author: "Timothy Ferriss"
 
-category: reading
+category: writing
 layout: book
 comments: true
 
