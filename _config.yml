@@ -21,7 +21,3 @@ assets:
     - _assets/stylesheets
     - _assets/javascripts
     - _assets/images
-
-redirects:
-  feed: http://feedpress.me/wikichen
-  feed.xml: http://feedpress.me/wikichen
