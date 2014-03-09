@@ -22,5 +22,3 @@ gzip:
   - .html
   - .css
   - .md
-redirects:
-  feed: http://feedpress.me/wikichen
