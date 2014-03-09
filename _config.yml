@@ -23,4 +23,5 @@ assets:
     - _assets/images
 
 redirects:
-  feed: http://feedpress.me/wikichen 
+  feed: http://feedpress.me/wikichen
+  feed.xml: http://feedpress.me/wikichen
