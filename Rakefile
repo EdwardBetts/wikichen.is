@@ -4,7 +4,7 @@ deploy_branch = "gh-pages"
 
 desc 'Preview site on localhost'
 task :preview do
-  system 'jekyll serve --watch --config=_config.yml,_local_config.yml'
+  system 'jekyll serve --watch'
 end
 
 desc 'TODO: Start Jekyll server and watch Sass/Bourbon files'
