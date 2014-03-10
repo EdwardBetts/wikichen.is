@@ -1,6 +1,6 @@
 @import "vendor/reset";
 @import "foundation";
-@import "vendor/bourbon/bourbon";
+//@import "vendor/bourbon/bourbon";
 //@import "vendor/neat/neat";
 
 $body-size: 20px;
@@ -15,9 +15,6 @@ $body-size: 20px;
 }
 
 .post-body {
-  //@include span-columns(6);
-  //@include shift(3);
-
   max-width: 630px;
   margin: 0 auto;
 }
@@ -33,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-size: golden-ratio($body-size, 1);
+  font-size: 32px;
   margin-bottom: 0.3em;
   font-family: $sans-serif;
   font-weight: 500;
@@ -42,7 +39,7 @@ h2 {
 
 p {
   font-family: $serif;
-  font-size: golden-ratio($body-size, 0);
+  font-size: $body-size;
   font-weight: normal;
   color: $text-color;
   line-height: round(1.5 * $body-size);
@@ -128,8 +125,6 @@ hr {
 
 .post-header {
   margin: 0 auto;
-  //@include span-columns(6);
-  //@include shift(3);
   max-width: 630px;
   margin-top: 2em;
   margin-bottom: 2em;
