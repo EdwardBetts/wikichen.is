@@ -22,3 +22,10 @@ gzip:
   - .html
   - .css
   - .md
+routing_rules:
+  - condition:
+      key_prefix_equals: feed
+    redirect:
+      host_name: feedpress.me
+      replace_key_prefix_with: wikichen
+      http_redirect_code: 302
