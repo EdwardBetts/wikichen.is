@@ -3,7 +3,7 @@
 //@import "vendor/bourbon/bourbon";
 //@import "vendor/neat/neat";
 
-$body-size: 20px;
+$body-size: 18px;
 
 /*---------------------------------------------------------------------------//
 //  $LAYOUT                                                                  //
@@ -42,7 +42,7 @@ p {
   font-size: $body-size;
   font-weight: normal;
   color: $text-color;
-  line-height: round(1.5 * $body-size);
+  line-height: round(1.6 * $body-size);
   margin-top: 1em;
   margin-bottom: 1em;
 }
@@ -304,7 +304,7 @@ hr {
   }
 
   p, li {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.4em;
   }
 
