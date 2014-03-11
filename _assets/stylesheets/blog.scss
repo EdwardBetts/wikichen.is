@@ -1,7 +1,5 @@
 @import "vendor/reset";
 @import "foundation";
-//@import "vendor/bourbon/bourbon";
-//@import "vendor/neat/neat";
 
 $body-size: 18px;
 
@@ -9,8 +7,18 @@ $body-size: 18px;
 //  $LAYOUT                                                                  //
 //---------------------------------------------------------------------------*/
 
+html {
+  font-size: $body-size;
+}
+
+body {
+  color: $text-color;
+  font-size: 1rem;
+  font-family: $serif;
+}
+
 .container {
-  max-width: 1088px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
@@ -31,10 +39,10 @@ h1 {
 }
 
 h2 {
-  font-size: 32px;
-  margin-bottom: 0.3em;
+  font-size: 1.5rem;
+  margin-top: 1em;
   font-family: $sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   color: $text-color;
 }
 
@@ -232,41 +240,111 @@ hr {
   }
 }
 
+.button {
+  color: $text-color;
+  font-size: 1.2em;
+  width: 10em;
+  border: 2px solid $text-color;
+  font-family: $sans-serif;
+  text-transform: uppercase;
+  display: block;
+  text-align: center;
+  padding: 0.5em;
+
+  &:hover {
+    color: white;
+    background-color: $text-color;
+  }
+}
+
+.buy { margin-top: 2em; }
+
+footer {
+  margin: 5em auto;
+}
+
 /*---------------------------------------------------------------------------//
 //  $INDEX                                                                   //
 //---------------------------------------------------------------------------*/
 
-.posts {
-  list-style-type: none;
-  display: block;
-  max-width: 660px;
-  margin: 0 auto;
+#home {
+  margin-top: 5em;
 
-  li {
-    margin-top: 2em;
-    margin-bottom: 2em;
-  }
+  .container { max-width: 600px; }
 
-  .date {
-    font-family: $sans-serif;
-    color: #777;
-    text-transform: uppercase;
-    font-variant: small-caps;
-    font-size: 0.8em;
-  }
-
-  .title {
+  ul.posts {
+    list-style-type: none;
     display: block;
-    line-height: 1.2em;
-    font-family: $serif;
-    font-size: 1.2em;
-    color: $text-color;
+    margin: 0 auto;
 
-    &:hover {
-      color: $golden-gate-orange;
+    li {
+      margin: 2em 0;
+      margin-top: 2em;
+      margin-bottom: 2em;
     }
 
+    .date {
+      font-family: $sans-serif;
+      color: #777;
+      text-transform: uppercase;
+      font-variant: small-caps;
+      font-size: 0.8em;
+    }
+
+    .title {
+      display: block;
+      line-height: 1.2em;
+      font-family: $sans-serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: $text-color;
+
+      &:hover {
+        color: $golden-gate-orange;
+      }
+
+    }
   }
+
+  ul.links {
+    margin-top: 2em;
+    display: block;
+
+    li {
+      display: inline-block;
+      margin-right: 0.5em;
+      margin-left: 0;
+
+      a {
+        font-size: 0.9rem;
+        font-family: $sans-serif;
+        border-bottom: 2px solid;
+        text-decoration: none;
+        color: #555;
+        opacity: 0.6;
+      }
+
+      a.twitter {
+        border-color: #4099ff;
+        &:hover { color: #4099ff; }
+      }
+
+      a.github {
+        border-color: #222;
+        &:hover { color: #222; }
+      }
+
+      a.dribbble {
+        border-color: #ea4c89;
+        &:hover { color: #ea4c89; }
+      }
+
+      a.facebook {
+        border-color: #3b5999;
+        &:hover { color: #3b5999; }
+      } // a
+    } // li
+  } //ul
 }
 
 /*---------------------------------------------------------------------------//

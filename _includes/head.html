@@ -7,7 +7,10 @@
   {% include twitter_card.html %}
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
   <!-- CSS -->
-  {{ page.layout | stylesheet }}
+  {{ 'blog' | stylesheet }}
+  {% if page.custom_css %}
+    {{ page.custom_css | stylesheet }}
+  {% endif %}
   <!-- Typekit -->
   {% include typekit.html %}
   <!-- Google Analytics -->
