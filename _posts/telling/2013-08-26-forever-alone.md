@@ -122,7 +122,7 @@ The amount of time you spend on Facebook, as a recent study found, is inversely 
 Take a moment to watch this video:
 
 <div class="video-container">
-  <iframe src="http://player.vimeo.com/video/70534716" width="500" height="281" frameborder="0"> </iframe>
+  <iframe src="https://player.vimeo.com/video/70534716" width="500" height="281" frameborder="0"></iframe>
 </div>
 
 It's a powerful, sombering reminder that our growing dependence on technology to communicate has serious social repercussions, to which Cohen presents his central thesis:
