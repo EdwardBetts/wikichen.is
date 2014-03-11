@@ -3,22 +3,10 @@ layout: default
 title: welcome to
 ---
 
-<body id="home-page">
+<body id="home">
   <div class="container">
 
-    <p class="intro">My (real) name is <em>Jonathan E. Chen</em>. I go by <em>wikichen</em> online.</p>
-
-    <p>This is my happy place on the web, happily under construction. Here are some stuff you can check out in the meantime:
-      <ul class="actions">
-        <!--<li><a class="capturing" href="/capturing">capturing moments worth remembering in my life</a></li>-->
-        <li><a class="highlight" href="/writing">Posts I write for the world at large.</a></li>
-      </ul>
-    </p>
-
-    <p>I'm a little lost in life at the moment. This is my attempt to find some clarity.</p>
-
-    <p class="signoff">Cheers,</p>
-    <p>wikichen</p>
+    <p class="intro">Welcome to (wikichen's web wonderland), currently happily under construction. Feel free to poke around.</p>
 
     <ul class="links">
       <li><a href="http://twitter.com/wikichen" class="twitter">twitter</a></li>
@@ -28,16 +16,21 @@ title: welcome to
       <li><a href="mailto:hello@wikichen.is" class="email">email</a></li>
     </ul>
 
+    <hr>
+
     <ul class="posts">
       {% for post in site.categories.writing %}
         <li>
           <time class="date">{{ post.date | date: "%B %-d" }}</time>
           <a href="{{ post.url }}">
-            <span class="title">{{ post.title }}</span>
+            <span class="title">{{ post.title }}: {{ post.subtitle }}</span>
           </a>
         </li>
       {% endfor %}
     </ul>
+
+
+
 
   </div>
 </body>
