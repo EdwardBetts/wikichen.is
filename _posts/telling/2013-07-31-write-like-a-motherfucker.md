@@ -4,8 +4,6 @@ title: "Write Like a Motherfucker"
 subtitle: "The Impossible Commitment"
 category: writing
 comments: true
-
-published: false
 ---
 
 I’m challenging myself to write everyday for a year, or 365 days. The experiment will start tomorrow on August 1, 2013, and end on August 1, 2014. That means tomorrow of next year, I should have at least 365 posts on this blog, and hopefully in a mad dash to finish the very last one.
