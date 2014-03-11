@@ -8,7 +8,7 @@ author:
 markdown: kramdown
 pygments: true
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
-permalink: /:categories/:title
+permalink: /:categories/:title/
 
 enable_disqus: true
 cdn_baseurl: http://cloud.wikichen.is/
