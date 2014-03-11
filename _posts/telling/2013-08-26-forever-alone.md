@@ -71,7 +71,7 @@ As a society we look down upon those who admit to being lonely, we cast and ostr
 
 ## Loneliness as a Culture Problem
 
-Stephen Fry, in a blog post titled *[Only the Lonely][blog]* which explains his suicide attempt last year, describes in detail his struggle with depression. His account offers a rare and candid glimpse into the reality of loneliness with which those afflicted often hide from the public:
+Stephen Fry, in [a blog post titled *Only the Lonely*][blog] which explains his suicide attempt last year, describes in detail his struggle with depression. His account offers a rare and candid glimpse into the reality of loneliness with which those afflicted often hide from the public:
 
 > Lonely? I get invitation cards through the post almost every day. I shall be in the Royal Box at Wimbledon and I have serious and generous offers from friends asking me to join them in the South of France, Italy, Sicily, South Africa, British Columbia and America this summer. I have two months to start a book before I go off to Broadway for a run of Twelfth Night there.
 >
@@ -89,7 +89,7 @@ Modernization has been cited as [a reason for the intensification][wiki] of lone
 
 [wiki]: http://en.wikipedia.org/wiki/Loneliness#Frequency
 
-In Japan, loneliness is an even more pervasive, layered problem mired in cultural parochialisms. Gideon Lewis-Kraus pens [a beautiful narrative on Harper's][harper] in which he describes his foray into the world of Japanese co-sleeping cafés:
+In Japan, loneliness is an even more pervasive, layered problem mired in cultural parochialisms. Gideon Lewis-Kraus [pens a beautiful narrative on Harper's][harper] in which he describes his foray into the world of Japanese co-sleeping cafés:
 
 > “Why do you think he came here, to the sleeping café?”
 >
@@ -99,23 +99,21 @@ In Japan, loneliness is an even more pervasive, layered problem mired in cultura
 
 [harper]: http://harpers.org/archive/2013/08/sleeping-together/
 
-It took an enormous effort for me to come to terms with my losing battle with loneliness and the ensuing depression at CMU, and an even greater leap of faith to reach out for help. (That it was to no avail is another story altogether.) But what is even more disconcerting to me is that the general stigma against loneliness and mental health issues, hinging on [an unhealthy stress culture][stress], makes it hard for afflicted students to seek assistance at all.
+It took an enormous effort for me to come to terms with my losing battle with loneliness and the ensuing depression at CMU, and an even greater leap of faith to reach out for help. (That it was to no avail is another story altogether.) But what is even more disconcerting to me is that the general stigma against loneliness and mental health issues, [hinging on an unhealthy stress culture][stress], makes it hard for afflicted students to seek assistance at all.
 
 [stress]: http://thetartan.org/2012/12/3/forum/mentalhealth
 
 As Olien puts it, “In a society that judges you based on how expansive your social networks appear, loneliness is difficult to fess up to. It feels shameful.”
 
-To truly combat loneliness from a cultural angle, we need to start by examining our own fears about being alone and to recognize that as humans, loneliness is often symptomatic of our [unfulfilled social needs][needs]. Most importantly, we need to accept that it's okay to feel lonely. Fry, signing off on his heartfelt post, offers this insight:
+To truly combat loneliness from a cultural angle, we need to start by examining our own fears about being alone and to recognize that as humans, loneliness is often symptomatic of our unfulfilled social needs. Most importantly, we need to accept that it's okay to feel lonely. Fry, signing off on his heartfelt post, offers this insight:
 
 > Loneliness is not much written about (my spell-check wanted me to say that loveliness is not much written about—how wrong *that* is) but humankind is a social species and maybe it’s something we should think about more than we do.
-
-[needs]: http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
 
 ## Loneliness as a Technology Problem
 
 Technology, and by extension media consumption in the Internet age, adds the most perplexing (and perhaps the most interesting) dimension to the loneliness problem. As it turns out, technology isn't necessarily helping us feel more connected; in some cases, it makes loneliness worse.
 
-The amount of time you spend on Facebook, as a recent study found, is inversely related to [how happy you][happy] feel throughout the day.
+The amount of time you spend on Facebook, as a recent study found, is [inversely related to how happy you feel][happy] throughout the day.
 
 [happy]: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0069841
 
@@ -136,7 +134,7 @@ It's a powerful, sombering reminder that our growing dependence on technology to
 >
 > *I share, therefore I am.*
 
-Public discourse on the cultural ramifications of technology is certainly not a recent development, and the general sentiment that our perverse obsession with sharing will be humanity's downfall continues to echo in various forms around the web: articles proclaiming that [Instagram is ruining people's lives][instagram], the existence of a section on Reddit called [cringepics][cringepics] where people congregate to ridicule things others post on the Internet, the increasing number of self-proclaimed “[social media gurus][guru]” on Twitter, to name a few.
+Public discourse on the cultural ramifications of technology is certainly not a recent development, and the general sentiment that our perverse obsession with sharing will be humanity's downfall continues to echo in various forms around the web: articles proclaiming that [Instagram is ruining people's lives][instagram], the existence of [a section on Reddit called cringepics][cringepics] where people congregate to ridicule things others post on the Internet, the [increasing number of self-proclaimed “social media gurus][guru]” on Twitter, to name a few.
 
 [instagram]: http://www.fastcompany.com/3013197/unplug/how-instagram-almost-ruined-my-life
 [cringepics]: http://www.reddit.com/r/cringepics
@@ -144,7 +142,7 @@ Public discourse on the cultural ramifications of technology is certainly not a 
 
 The signs seem to suggest we have reached a tipping point for “social” media that's not very social on a personal level, but whether it means a catastrophic implosion or a gradual return to more authentic forms of interpersonal communications remains to be seen.
 
-While technology has been a source of social isolation for many, it has the capacity to alleviate loneliness as well. A study funded by the online dating site eHarmony shows that couples who met online are less likely to divorce and [achieve more marital satisfaction][satisfaction] than those who met in real life.
+While technology has been a source of social isolation for many, it has the capacity to alleviate loneliness as well. A study funded by the online dating site eHarmony shows that [couples who met online are less likely to divorce and achieve more marital satisfaction][satisfaction] than those who met in real life.
 
 [satisfaction]: http://healthland.time.com/2013/06/03/more-satisfaction-less-divorce-for-people-who-meet-spouses-online/
 
@@ -166,3 +164,4 @@ In the year that followed, I started a fraternity with some of the best kids I'd
 
 * [How do you cope with being lonely?](http://www.reddit.com/r/AskReddit/comments/1nwcod/how_do_you_cope_with_being_lonely/)
 * [The Science of Loneliness: How Isolation Can Kill You](http://www.newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you)
+* [Hacker News discussion on this post](https://news.ycombinator.com/item?id=7244614)
