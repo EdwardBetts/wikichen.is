@@ -1,14 +1,15 @@
 ---
 title: "Without Their Permission"
 subtitle: "A Rallying Cry for the 21st Century"
+book_title: "Without Their Permission"
 book_author: "Alexis Ohanian"
 
 category: writing
-layout: book
+layout: blog
 comments: true
 
-cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/without-their-permission.jpg
-cover_alt: "Without Their Permission by Alexis Ohanian"
+image_url: books/without-their-permission.jpg
+image_alt: "Without Their Permission by Alexis Ohanian"
 
 affiliate_link: http://www.amazon.com/gp/product/1455520020/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455520020&linkCode=as2&tag=wikichenis-20
 ---
