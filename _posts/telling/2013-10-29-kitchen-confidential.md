@@ -1,14 +1,15 @@
 ---
 title: "Kitchen Confidential"
-subtitle: "Adventures in the Culinary Underbelly"
+subtitle: "You Only Go Around Once"
+book_title: "Kitchen Confidential"
 book_author: "Anthony Bourdain"
 
 category: writing
-layout: book
+layout: blog
 comments: true
 
-cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/kitchen-confidential.jpg
-cover_alt: "Kitchen Confidential by Anthony Bourdain"
+image_url: books/kitchen-confidential.jpg
+image_alt: "Kitchen Confidential by Anthony Bourdain"
 
 affiliate_link: http://www.amazon.com/gp/product/0060899220/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060899220&linkCode=as2&tag=wikichenis-20
 ---
@@ -40,3 +41,7 @@ Perhaps the most useful takeaways from the book are the handy eating and cooking
 * Essential ingredients in the kitchen include but are not limited to: shallots, butter, garlic, stock, and demi-glace.
 * You should garnish your food, because it takes little effort and zero talent to make your ordinary-looking food look good.
 * Good food is most often simple food.
+
+<a class="button buy" href="{{ page.affiliate_link }}">
+  Get the book
+</a>

@@ -1,14 +1,14 @@
 ---
 title: "The Tao of Pooh"
-subtitle:
+subtitle: "A Guidebook to Happiness"
 book_author: "Benjamin Hoff"
 
 category: writing
-layout: book
+layout: blog
 comments: true
 
-cover_img: http://wikichen-cloud.s3.amazonaws.com/serving/books/the-tao-of-pooh.jpg
-cover_alt: "The Tao of Pooh by Benjamin Hoff"
+image_url: books/the-tao-of-pooh.jpg
+image_alt: "The Tao of Pooh by Benjamin Hoff"
 
 affiliate_link: http://www.amazon.com/gp/product/0140067477/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140067477&linkCode=as2&tag=wikichenis-20
 ---
@@ -69,5 +69,9 @@ For the inquisitive or the philosophically inclined, Laozi's classic text [Tao T
 Like the colorful stories of the Bear from which it draws inspiration, *The Tao of Pooh* is a book about life. If anything, walk away with this:
 
 > Do you really want to be happy? You can begin by being appreciative of who you are and what you've got.
+
+<a class="button buy" href="{{ page.affiliate_link }}">
+  Get the book
+</a>
 
 <!--This post was written in 50 minutes in my bedroom in Tainan, Taiwan, while fending off tiny ants and blistering heat. It has 661 words.-->
