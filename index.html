@@ -28,6 +28,16 @@ title: welcome to
       <li><a href="mailto:hello@wikichen.is" class="email">email</a></li>
     </ul>
 
+    <ul class="posts">
+      {% for post in site.categories.writing %}
+        <li>
+          <time class="date">{{ post.date | date: "%B %-d" }}</time>
+          <a href="{{ post.url }}">
+            <span class="title">{{ post.title }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
   </div>
-  {% include tracking.html %}
 </body>
