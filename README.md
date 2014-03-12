@@ -1,3 +1,3 @@
-# wikichen.is
+# welcome to (wikichen's web wonderland)
 
 Documentation in progress...
