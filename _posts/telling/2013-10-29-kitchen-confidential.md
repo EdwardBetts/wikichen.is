@@ -14,7 +14,7 @@ image_alt: "Kitchen Confidential by Anthony Bourdain"
 affiliate_link: http://www.amazon.com/gp/product/0060899220/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060899220&linkCode=as2&tag=wikichenis-20
 ---
 
-> Cooking is a craft, I like to think, and a good cook is a craftsman &mdash; not an artist.
+> Cooking is a craft, I like to think, and a good cook is a craftsman---not an artist.
 
 Through *Kitchen Confidential* Anthony Bourdain recounts a deeply anecdotal and profanely authentic tale of culinary craftsmanship, the people who inhabit it, and what it means to live a life of vice and folly with a relentless passion for food.
 
