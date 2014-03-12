@@ -1,10 +1,11 @@
 ---
-layout: blog
-title: "Beyond Bricks & Mordor"
+title: "Beyond Bricks &amp; Mordor"
 subtitle: "The Power of Completionism"
+
 category: writing
+layout: blog
 comments: true
-image_cover: true
+
 image_url: posts/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
 ---
