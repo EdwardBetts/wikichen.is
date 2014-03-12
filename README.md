@@ -1,3 +1,3 @@
-# welcome to (wikichen's web wonderland)
+# Howdy, stranger. 
 
 Documentation in progress...
