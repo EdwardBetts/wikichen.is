@@ -7,7 +7,7 @@ layout: none
 
  <title>{{ site.name }}</title>
  <description>{{ site.description }}</description>
- <link href="{{ site.url }}/feed.xml" rel="self"/>
+ <link href="{{ site.url }}/feeding.xml" rel="self"/>
  <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
