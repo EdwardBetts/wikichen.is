@@ -19,6 +19,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+strong {
+  font-weight: bold;
+}
+
 /*---------------------------------------------------------------------------//
 //  $COLORS                                                                  //
 //---------------------------------------------------------------------------*/
@@ -36,40 +40,4 @@ $footnotes-color: #777;
 //---------------------------------------------------------------------------*/
 img {
   width: 100%;
-}
-
-/*---------------------------------------------------------------------------//
-//  $COMMENTS                                                                //
-//---------------------------------------------------------------------------*/
-
-.disqus-container {
-  margin-top: 3em;
-}
-
-/*---------------------------------------------------------------------------//
-//  $BUTTONS                                                                 //
-//---------------------------------------------------------------------------*/
-
-button.comments {
-  border: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  background-color: #d1d1d1;
-  outline: none;
-  color: white;
-  font-size: 1.2em;
-  width: 100%;
-  font-family: $sans-serif;
-  font-weight: 400;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  display: block;
-  text-align: center;
-  padding: 0.5em;
-  cursor: pointer;
-
-  &:hover {
-    color: white;
-    background-color: #cecece;
-  }
 }
