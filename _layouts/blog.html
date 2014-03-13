@@ -2,7 +2,11 @@
 <html>
   {% include head.html %}
 
+  {% if page.typeface == "sans-serif" %}
+  <body class="technical">
+  {% else %}
   <body>
+  {% endif %}
     {% if page.image_url %}
     <div class="block">
       <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
