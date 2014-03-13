@@ -10,7 +10,7 @@ comments: true
 typeface: sans-serif
 ---
 
-Serving websites over HTTPS has become a pervasive norm that not doing so can be a cause for concern for the average web user when they don't see that green lock in the address bar. While it's not *necessary* for a site consisting of only static files to encrypt its connection---because there's no authentication or transactions involved---I would argue that giving your users the peace of mind that there's a measure of privacy and protection against eavesdropping is a factor in providing a better user experience, even for a simple blog.
+Serving websites over HTTPS has become a pervasive norm that not doing so can be a cause for concern for the average web user when they don't see that green lock in the address bar. While it's not *necessarily necessary* for a site consisting of only static files to encrypt its connection---because there's no authentication or transactions involved---I would argue that giving your users the peace of mind that there's a measure of privacy and protection against eavesdropping is a factor in providing a better user experience, even for a simple blog.
 
 For a while people like me who hosted their sites on S3 couldn't get SSL support on CloudFront without having to shell out $600 per month. Luckily, Amazon recently introduced the feature to serve a CloudFront distribution through HTTPS with your own SSL certificates on a custom domain using what is called Server Name Indication (SNI). All modern browsers support SNI, but you can check the [list of non-supported clients on Wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication#No_support) if you're crazy hardcore about coverage.
 
