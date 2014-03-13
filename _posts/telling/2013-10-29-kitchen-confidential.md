@@ -4,9 +4,9 @@ subtitle: "You Only Go Around Once"
 book_title: "Kitchen Confidential"
 book_author: "Anthony Bourdain"
 
-category: writing
+category: reading
 layout: blog
-comments: true
+comments: false
 
 image_url: books/kitchen-confidential.jpg
 image_alt: "Kitchen Confidential by Anthony Bourdain"

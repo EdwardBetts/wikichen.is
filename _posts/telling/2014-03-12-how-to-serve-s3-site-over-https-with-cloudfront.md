@@ -4,7 +4,7 @@ subtitle: "Many Thanks to Alistair@AWS"
 description: "We'll go over how to set up a free SSL certificate with StartSSL, upload it to AWS IAM store, and configure our CloudFront distribution to serve our Amazon S3 hosted website."
 
 layout: blog
-category: writing
+category: coding
 comments: true
 
 typeface: sans-serif

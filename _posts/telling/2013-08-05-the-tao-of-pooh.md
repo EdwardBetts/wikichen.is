@@ -3,7 +3,7 @@ title: "The Tao of Pooh"
 subtitle: "A Guidebook to Happiness"
 book_author: "Benjamin Hoff"
 
-category: writing
+category: reading
 layout: blog
 comments: true
 
