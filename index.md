@@ -19,7 +19,7 @@ title: welcome to
     <hr>
 
     <ul class="posts">
-      {% for post in site.categories.writing %}
+      {% for post in site.posts %}
         <li>
           <time class="date">{{ post.date | date: "%b %-d, %Y" }}</time>
           <a class="title" href="{{ post.url }}">{{ post.title }}</a>
