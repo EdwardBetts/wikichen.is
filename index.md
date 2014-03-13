@@ -21,16 +21,12 @@ title: welcome to
     <ul class="posts">
       {% for post in site.categories.writing %}
         <li>
-          <time class="date">{{ post.date | date: "%B %-d" }}</time>
-          <a href="{{ post.url }}">
-            <span class="title">{{ post.title }}: {{ post.subtitle }}</span>
-          </a>
+          <time class="date">{{ post.date | date: "%b %-d, %Y" }}</time>
+          <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+          <p class="subtitle">{{ post.subtitle }}</p>
         </li>
       {% endfor %}
     </ul>
-
-
-
 
   </div>
 </body>
