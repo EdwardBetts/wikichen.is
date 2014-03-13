@@ -10,7 +10,7 @@ pygments: true
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 permalink: /:categories/:title/
 
-enable_disqus: false
+enable_disqus: true
 cdn_baseurl: http://cloud.wikichen.is/
 cdn_url: http://cloud.wikichen.is/serving/
 
