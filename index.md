@@ -8,6 +8,8 @@ title: welcome to
 
     <p class="intro">Welcome to (wikichen's web wonderland), currently happily under construction. Feel free to poke around.</p>
 
+    <p>You can <a href="{{ site.url }}/feeding">subscribe to the feed</a> for updates.</p>
+
     <ul class="links">
       <li><a href="http://twitter.com/wikichen" class="twitter">twitter</a></li>
       <li><a href="http://github.com/wikichen" class="github">github</a></li>
