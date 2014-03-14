@@ -8,9 +8,6 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
   <!-- CSS -->
   {{ 'blog' | stylesheet }}
-  {% if page.custom_css %}
-    {{ page.custom_css | stylesheet }}
-  {% endif %}
   <!-- Typekit -->
   {% include typekit.html %}
   <!-- Google Analytics -->

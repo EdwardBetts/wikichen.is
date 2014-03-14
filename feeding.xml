@@ -6,17 +6,16 @@ layout: none
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.name }}</title>
- <description>{{ site.description }}</description>
- <link href="{{ site.url }}/feeding.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
+ <link type="application/atom+xml" href="{{ site.url }}/feeding.xml" rel="self"/>
+ <link href="{{ site.url }}" rel="alternate"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>{{ site.url }}/</id>
  <author>
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:30 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>

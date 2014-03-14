@@ -24,8 +24,8 @@ gzip:
   - .md
 routing_rules:
   - condition:
-      key_prefix_equals: feed
+      key_prefix_equals: feeding
     redirect:
-      host_name: feedpress.me
-      replace_key_prefix_with: wikichen
+      host_name: feeds.feedburner.com
+      replace_key_prefix_with: wikichen-is
       http_redirect_code: 302
