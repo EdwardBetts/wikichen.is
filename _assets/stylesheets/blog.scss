@@ -478,7 +478,9 @@ button.comments {
 
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px) {
-
+  .image-inline-block {
+    margin-left: 0;
+  }
 }
 
 /* Landscape phone to portrait tablet */
@@ -521,12 +523,16 @@ button.comments {
   .image-inline-block {
     width: 30%;
     margin-left: 0;
+    margin-right: 2em;
+    margin-bottom: 0;
   }
 }
 
 /* Landscape phones and down */
 @media (max-width: 480px) {
-
+  .image-inline-block {
+    margin-right: 1em;
+  }
 
 
 }

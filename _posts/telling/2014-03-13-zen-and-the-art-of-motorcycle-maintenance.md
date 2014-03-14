@@ -3,6 +3,7 @@ title: "Zen and the Art of Motorcycle Maintenance"
 subtitle: "A Journey of Journeys"
 book_title: "Zen and the Art of Motorcycle Maintenance"
 book_author: "Robert Pirsig"
+description: "Takeaways from the book that's not about motorcycles."
 
 category: reading
 layout: blog
@@ -14,7 +15,7 @@ image_alt: "Zen and the Art of Motorcycle Maintenance by Robert Pirsig"
 affiliate_link: http://cadence.cc/
 ---
 
-As many others none the wiser have echoed before me, *Zen and the Art of Motorcycle Maintenance* is not a book about motorcycles. But to say that it's not would also be a faulty assessment. It's a premise based on the essence of motorcycle maintenance, using the motorcycle as a vehicle for both the journey of a dad and his son across America and the journey Pirsig himself takes you through, one of philosophy and life. It's a book so profoundly beautiful and frustrating and pedantic and didactic all at the same time that it accomplishes what good books are intended to do---to make you think.
+As others none the wiser have echoed before me, *Zen and the Art of Motorcycle Maintenance* is not a book about motorcycles. But to say that it's not would also be a faulty assessment. It's a premise based on the essence of motorcycle maintenance, using the motorcycle as a vehicle for both the journey of a dad and his son across America and the journey Pirsig himself takes you through, one of philosophy and life. It's a book so profoundly beautiful and frustrating and pedantic and didactic all at the same time that it accomplishes what good books are intended to do---to make you think.
 
 In short, *Zen and the Art of Motorcycle Maintenance* is unlike any book you've read before.
 
@@ -30,7 +31,7 @@ But while the philosophical underpinnings of the book are quick to fall under th
 
 I thought a lot about the central conflict Persig presents in his narrative: that there is a clear schism, one rife with animosity and intolerance, between the romantic, or what we call artistic, and the classic, more commonly known as the scientific. But when you look around, at least in the technology space, it seems that the paradigm has shifted in such a way that art, or rather in its more functional form design, has entered the same playing field as engineering. It's now harder to hire designers than developers and that is entirely because it is a generally accepted truism that great design complements great engineering, and that despite their inherent differences it's the union of both that will create lasting value. Perhaps it's a superficial observation, but it's one you don't hear much about in public discourse anymore.
 
-## Traveling by Motorcycle
+## Travel by Motorcycle
 
 > You see things vacationing on a motorcycle in a way that is completely different from any other. In a car you're always in a compartment, and because you're used to it you don't realize that through that car window everything you see is just more TV. You're a passive observer and it is all moving by you boringly in a frame.
 >
@@ -38,13 +39,13 @@ I thought a lot about the central conflict Persig presents in his narrative: tha
 
 Ever since I took a motorcycle class a few years ago I've fallen in love with the mode of transportation. In a way it encapsulates the way I want to live life: with a self-convicted sense of risk and thrill, out in the open, not as the observer but as the participant. Those who balk at the idea of owning a motorcycle, much less to travel or commute by one, has obviously never ridden one. Pirsig describes so perfectly what I love about motorcycles in a book that's not really about motorcycles at all.
 
-## Ways of Living
+## Three Ways to Live
 
 > Like those in the valley behind us, most people stand in sight of the spirtiual mountains all their lives and never enter them, being content to listen to others who have been there and thus avoid the hardships. Some travel into the mountains accompanied by experienced guides who know the best and least dangerous routes by which they arrive at their destination. Still others, inexperienced and untrusting, attempt to make their own routes. Few of these are successful, but occasionally some, by sheer will and luck and grace, do make it. Once there they become more aware than any of the others that there's no single or fixed number of routes. There are as many routes as there are individual souls.
 
 You can wait around, follow someone else's footsteps, or take the road less traveled. I'd like to be one who charts his own course and has enough initiative to do so.
 
-## Bettering the World
+## Change Starts with Yourself
 
 > The place to improve the world is first in one's own heart and head and hands, and then work outward from there. Other people can talk about how to expand the destiny of mankind. I just want to talk about how to fix a motorcycle. I think that what I have to say has more lasting value.
 
@@ -67,12 +68,12 @@ But perhaps the most meaningful perspective Persig draws is this:
 
 > Technology is blamed for a lot of this loneliness, since the loneliness is certainly associated with the newer technological devices - TV, jets, freeways and so on - but I hope it's been made plain that the real evil isn't the objects of technology but the tendency of technology to isolate people into lonely attitudes of objectivity. It's the objectivity, the dualistic way of looking at things underlying technology, that produces evil.
 
-In the years since the media and most of everyone I know have been lampooning our own relationships with technology I have never encountered a passage that captures the essence of what really is wrong at heart, and this was an observation made decades ago. Technology, for better or worse, has always had the capacity to affect us into different modes of being, and it's coming to light that loneliness seems to be in consequence the most prevalent form.
+In the years since the media and most of everyone I know have been lampooning our own relationships with technology I have never encountered a passage that captures so perfectly the essence of who's actually responsible for our predicament, and this was an observation made decades ago, before even cell phones or laptops or the Internet came into the picture. Technology, for better or worse, has always had the capacity to affect us into different modes of being, and it's coming to light that loneliness seems to be in consequence the most prevalent form.
 
 - - -
 
 Read this book. Forget how utterly polarizing the reviews are, and make sure to trudge through even the most pedantic parts of Pirsig's work, because this is a literary adventure I wish I embarked on years ago, one from which I believe that everyone at any stage of their life can derive tremendous personal insight. My takeaways here will most likely share little resemblance to yours, and that, I think, is ultimately the most brilliant aspect of this journey of journeys---it's a book that will make you think and appreciate and revel like no other.
 
-And hopefully when you finish the book you'll come to realize the impact of this quote like I did:
+And hopefully when you finish the book you'll walk away with some personal understanding of this quote: 
 
 > The real cycle you're working on is a cycle called yourself.
