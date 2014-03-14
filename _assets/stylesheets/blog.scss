@@ -50,7 +50,7 @@ h1, h2, h3, p, blockquote, ol, ul, pre {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 630px;
+  max-width: 600px;
 }
 
 p {
@@ -188,6 +188,9 @@ pre {
   }
 
   .post-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
     font-family: $sans-serif;
     font-weight: 600;
     font-size: 1rem;
@@ -311,6 +314,16 @@ footer {
 //---------------------------------------------------------------------------*/
 .breakout {
   max-width: 960px;
+}
+
+.image-inline-block {
+  float: left;
+  display: block;
+  margin-left: 10em;
+  margin-right: 2em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  width: 300px;
 }
 
 /*---------------------------------------------------------------------------//
@@ -503,6 +516,11 @@ button.comments {
         &:first-child { font-size: 1em; }
       }
     }
+  } //ol
+
+  .image-inline-block {
+    width: 30%;
+    margin-left: 0;
   }
 }
 

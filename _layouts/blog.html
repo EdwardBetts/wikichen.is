@@ -7,7 +7,7 @@
   {% else %}
   <body>
   {% endif %}
-    {% if page.image_url %}
+    {% if page.image_url and page.category == "writing" %}
     <div class="block">
       <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
     </div>
@@ -21,6 +21,13 @@
       <div class="post-body">
 
         <div class="post-text">
+
+          {% if page.image_url and page.category == "reading" %}
+          <div class="image-inline-block">
+            <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
+          </div>
+          {% endif %}
+
           {{ content }}
         </div>
 
