@@ -23,9 +23,9 @@ layout: none
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">
-     {% if post.image_url %}
-       <img src="{{ site.cdn_url }}{{ post.image_url }}" alt="{{ post.image_alt }}"/>
-     {% endif %}
+   {% if post.image_url %}
+     <![CDATA[<p><img src="{{ site.cdn_url }}{{ post.image_url }}" alt="{{ post.image_alt }}"/></p>]]>
+   {% endif %}
      {{ post.content | xml_escape }}
    </content>
  </entry>
