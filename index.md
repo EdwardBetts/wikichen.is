@@ -1,12 +1,12 @@
 ---
 layout: default
-title: welcome to
+title: Home
 ---
 
 <body id="home">
   <div class="container">
 
-    <p class="intro">Welcome to (wikichen's web wonderland), currently happily under construction. Feel free to poke around.</p>
+    <p class="intro">My name is Jonathan E. Chen. I go by wikichen on the web. This is where I share my writing and reading. Excuse the site while it undergoes some reconstruction.</p>
 
     <p>You can <a href="{{ site.url }}/feeding">subscribe to the feed</a> for updates.</p>
 
