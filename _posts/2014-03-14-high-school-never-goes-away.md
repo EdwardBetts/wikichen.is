@@ -5,7 +5,7 @@ description: "I catch up with my favorite high school teacher."
 date: 2014-03-14 10:47:56 -0700
 
 layout: blog
-category: posting
+category: writing
 
 image_url: "posts/2014/03/dbhs-wan-office.jpg"
 image_alt: "Mrs. Wan's old office at DBHS"
