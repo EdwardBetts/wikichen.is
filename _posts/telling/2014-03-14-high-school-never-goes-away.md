@@ -41,7 +41,7 @@ As for Mrs. Wan, she said she was finally complacent with how her life is. She's
 
 "You know, there were only a few moments back then where you displayed some kind of conviction and decisiveness," she said. "It was when you started that video game club and when you said your endgame is to work for yourself on something bigger than yourself, something impactful."
 
-She wasn't wrong. The fact that I have no sense of direction after all this self-exploration after college is proof of some inherently restless part of myself and ambiguity about what I really want from life. But as we talked I realized to my pleasant surprise that I do have a plan in the back of my head. There are two things that I'm going to do in the foreseeable future that shed light on where I take my life:
+She wasn't wrong. The fact that I have no sense of direction after all this self-exploration after college is proof of some inherently restless part of myself and ambiguity about what I really want from life. But as we talked I realized to my pleasant surprise that I do have a plan in the back of my head. There are two things that I'm going to do in the foreseeable future that hopefully help shed light on where I take my life:
 
 * I'm going to find an actual stable job, most likely in tech as that's where my skillset is most applicable. Great environment begets great opportunities, so I need to get my ass back to where my goals can be fleshed out. I'm also done with the whole early stage startup thing, learned the hard way many times over.
 
