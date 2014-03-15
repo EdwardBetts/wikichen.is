@@ -15,7 +15,7 @@ image_alt: "Zen and the Art of Motorcycle Maintenance by Robert Pirsig"
 affiliate_link: http://cadence.cc/
 ---
 
-As others none the wiser have echoed before me, *Zen and the Art of Motorcycle Maintenance* is not a book about motorcycles. But to say that it's not would also be a faulty assessment. It's a premise based on the essence of motorcycle maintenance, using the motorcycle as a vehicle for both the journey of a dad and his son across America and the journey Pirsig himself takes you through, one of philosophy and life. It's a book so profoundly beautiful and frustrating and pedantic and didactic all at the same time that it accomplishes what good books are intended to do---to make you think.
+As others none the wiser have echoed before me, *Zen and the Art of Motorcycle Maintenance* by Robert Pirsig is not a book about motorcycles. But to say that it's not would also be a faulty assessment. It's a premise based on the essence of motorcycle maintenance, using the motorcycle as a vehicle for both the journey of a dad and his son across America and the journey Pirsig himself takes you through, one of philosophy and life. It's a book so profoundly beautiful and frustrating and pedantic and didactic all at the same time that it accomplishes what good books are intended to do---to make you think.
 
 In short, *Zen and the Art of Motorcycle Maintenance* is unlike any book you've read before.
 
@@ -74,6 +74,6 @@ In the years since the media and most of everyone I know have been lampooning ou
 
 Read this book. Forget how utterly polarizing the reviews are, and make sure to trudge through even the most pedantic parts of Pirsig's work, because this is a literary adventure I wish I embarked on years ago, one from which I believe that everyone at any stage of their life can derive tremendous personal insight. My takeaways here will most likely share little resemblance to yours, and that, I think, is ultimately the most brilliant aspect of this journey of journeys---it's a book that will make you think and appreciate and revel like no other.
 
-And hopefully when you finish the book you'll walk away with some personal understanding of this quote: 
+And hopefully when you finish the book you'll walk away with some personal understanding of this quote:
 
 > The real cycle you're working on is a cycle called yourself.

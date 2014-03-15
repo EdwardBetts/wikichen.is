@@ -37,7 +37,7 @@ Perhaps the most useful takeaways from the book are the handy eating and cooking
 ## Tips for Cooking
 
 * One good chef's knife is all you need. For tips on how to handle a knife, check out Jacques Pepin's *La Technique*.
-* A non-stick saute pan is essential. Never wash it, simply wash it clean after each use, don't use metal in it, don't scratch it.
+* A non-stick saute pan is essential. Never wash it, simply wipe it clean after each use, don't use metal in it, don't scratch it.
 * Essential ingredients in the kitchen include but are not limited to: shallots, butter, garlic, stock, and demi-glace.
 * You should garnish your food, because it takes little effort and zero talent to make your ordinary-looking food look good.
 * Good food is most often simple food.
