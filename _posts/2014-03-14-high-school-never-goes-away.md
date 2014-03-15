@@ -49,6 +49,6 @@ She wasn't wrong. The fact that I have no sense of direction after all this self
 
 As for the far future, in five years' time, who knows. Maybe I'll figure it out, maybe I won't. Maybe I will start that company I've always wanted to. But for once I'm at least decisive about being decisive. At this stage of my life, I've accepted that I'll need to shelve my higher ambitions to gain some needed experience and perspective. I need to make peace with the restlessness and settle down, at least for a while.
 
-"You know, this isn't going to go away, your need for change and exploration and not being able to make up your made," she said to me as we parted ways, "but you'll be fine."
+"You know, this isn't going to go away, your need for change and exploration and not being able to make up your mind," she said to me as we parted ways, "but you'll be fine."
 
 I sure hope so, too.
