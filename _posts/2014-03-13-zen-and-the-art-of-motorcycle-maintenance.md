@@ -62,7 +62,7 @@ This shall be the only rule I abide by for as long as I live.
 
 > We see much more of this loneliness now. It's paradoxical that where people are the most closely crowded, in the big coastal cities in the East and West, the loneliness is the greatest... The explanation, I suppose, is that the physical distance between people has nothing to do with loneliness... There's this primary America of freeways and jet flights and TV and movie spectaculars. And people caught up in this primary America seem to go through huge portions of their lives without much consciousness of what's imeediately around them. The media have convinced them that what's right around them is unimportant. And that's why they're lonely.
 
-I've [written extensively on loneliness](/writing/forever-alone/) as a subject worth exploring, but here Pirsig captures in his words why loneliness has become so pervasive in the post-modern world of hyper urbanization and inundating media influences.
+I've [written extensively on loneliness]({{ site.url }}/writing/forever-alone/) as a subject worth exploring, but here Pirsig captures in his words why loneliness has become so pervasive in the post-modern world of hyper urbanization and inundating media influences.
 
 But perhaps the most meaningful perspective Persig draws is this:
 
