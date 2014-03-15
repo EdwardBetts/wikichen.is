@@ -7,15 +7,14 @@ layout: none
   <channel>
     <title>{{ site.name | xml_escape }}</title>
     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <atom:link type="application/atom+xml" href="{{ site.url }}/feeding" rel="self"/>
-    <link href="{{ site.url }}" rel="alternate"/>
+    <link>{{ site.url }}</link>
+    <atom:link type="application/atom+xml" href="{{ site.url }}/feed.xml" rel="self"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>{{ site.url }}/</id>
     <author>
-    <name>{{ site.author.name }}</name>
-    <email>{{ site.author.email }}</email>
+      <name>{{ site.author.name }}</name>
+      <email>{{ site.author.email }}</email>
     </author>
-
     {% for post in site.posts limit:15 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
