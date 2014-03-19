@@ -2,7 +2,7 @@
 title: "Your Writing Makes a Difference"
 subtitle: "A Kind Letter from a Reader"
 description: "Kind and candid words from a reader and fellow writer."
-date: 2014-03-17 12:58:01 -0700
+date: "2014-03-17 12:58:01 -0700"
 
 layout: blog
 category: writing

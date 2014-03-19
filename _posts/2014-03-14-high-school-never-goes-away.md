@@ -2,7 +2,7 @@
 title: "High School Never Goes Away"
 subtitle: "Catching up with an Old Teacher and Friend"
 description: "I catch up with my favorite high school teacher."
-date: 2014-03-14 10:47:56 -0700
+date: "2014-03-14 10:47:56 -0700"
 
 layout: blog
 category: writing
