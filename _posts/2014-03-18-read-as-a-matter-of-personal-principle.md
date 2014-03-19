@@ -6,7 +6,7 @@ description: "And read... read all the time... read as a matter of principle, as
 
 layout: blog
 category: writing
-date: 2014-03-18 22:15:41 -0700
+date: "2014-03-18 22:15:41 -0700"
 ---
 
 In times of distress and periods of uncertainty, when the night sky of my mind is cloudy, nary a star in sight and devoid of any clarity, I tend to turn to the wisdom of quotations imparted by those much wiser than me. We all stand upon the shoulders of giants, after all. But the most poignant quote I've stumbled upon of late came from a commencement speech an English high school teacher by the name of David McCullough Jr. gave to Wellesley High's graduating class in 2012.
