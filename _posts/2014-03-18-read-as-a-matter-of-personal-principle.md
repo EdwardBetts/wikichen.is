@@ -19,7 +19,7 @@ This is only a snippet of the entire speech, which [you can read in its entirety
 
 Reading has always been a strong tendency of mine since I was a kid, and it's offered me respite and solace in times when life has led me astray more times than I'd care to remember. As I grew older, as the demands and the obligations of life grew in proportion to my list of books to read, the time I set aside for reading gradually approached zero.
 
-You might read when you're on the Internet, but I'm talking about substantive reading, the act of picking up an actual book and sinking your teeth into her words and getting lots in between her pages. Not, as so many of us find ourselves these days, thumbing through our Twitter and Facebook streams and glazing over the occasional linkbait article and dumping more insubstantial and fleeting news onto the information landfill that has become our brain.
+You might read when you're on the Internet, but I'm talking about substantive reading, the act of picking up an actual book and sinking your teeth into her words and getting lost in between her pages. Not, as so many of us find ourselves these days, thumbing through our Twitter and Facebook streams and glazing over the occasional linkbait article and dumping more insubstantial and fleeting news onto the information landfill that has become our brain.
 
 It's been a long time coming, but I want to cultivate a better reading habit starting from now. I want it to be something I do everyday, something for which I make time even if I don't have time, something that helps me think and recompose and become a better person, something that's instilled in my identity as a defining personal principle.
 
