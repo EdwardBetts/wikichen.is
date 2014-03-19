@@ -7,7 +7,7 @@ comments: true
 
 description: "A story about my first Moleskine and wearing hot pants."
 
-image_url: "posts/2014/02/moleskin.jpg"
+image_url: "/posts/2014/02/moleskin.jpg"
 image_alt: "Moleskin Squared Notebook"
 ---
 

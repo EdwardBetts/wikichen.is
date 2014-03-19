@@ -11,8 +11,8 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 permalink: /:categories/:title/
 
 enable_disqus: false
-cdn_baseurl: http://cloud.wikichen.is/
-cdn_url: http://cloud.wikichen.is/serving/
+cdn_baseurl: http://cloud.wikichen.is
+cdn_url: http://cloud.wikichen.is/serving
 
 assets:
   js_compressor: uglifier

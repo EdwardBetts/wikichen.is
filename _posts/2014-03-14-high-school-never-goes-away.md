@@ -7,7 +7,7 @@ date: "2014-03-14 10:47:56 -0700"
 layout: blog
 category: writing
 
-image_url: "posts/2014/03/dbhs-wan-office.jpg"
+image_url: "/posts/2014/03/dbhs-wan-office.jpg"
 image_alt: "Mrs. Wan's old office at DBHS"
 ---
 

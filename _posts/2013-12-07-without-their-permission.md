@@ -8,7 +8,7 @@ category: reading
 layout: blog
 comments: false
 
-image_url: books/without-their-permission.jpg
+image_url: /books/without-their-permission.jpg
 image_alt: "Without Their Permission by Alexis Ohanian"
 
 affiliate_link: http://www.amazon.com/gp/product/1455520020/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1455520020&linkCode=as2&tag=wikichenis-20

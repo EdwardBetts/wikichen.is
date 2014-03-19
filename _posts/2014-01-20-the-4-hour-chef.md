@@ -8,7 +8,7 @@ category: reading
 layout: blog
 comments: false
 
-image_url: books/the-4-hour-chef.jpg
+image_url: /books/the-4-hour-chef.jpg
 image_alt: "The 4-Hour Chef by Tim Ferriss"
 
 affiliate_link: http://www.amazon.com/gp/product/B005NJU8PA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005NJU8PA&linkCode=as2&tag=wikichenis-20

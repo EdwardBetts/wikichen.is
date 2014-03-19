@@ -26,7 +26,7 @@ I'm going to assume that you have a static website hosted on S3 and distributed 
 
 We're going to start by getting a free(!) Class 1 SSL certificate from StartCom's StartSSL site. This process is made a little painful by a pretty unintuitive user interface, so bear with me here.
 
-![StartSSL Welcome Screen Features]({{ site.cdn_url }}posts/2014/03/startssl-welcome-features.png)
+![StartSSL Welcome Screen Features]({{ site.cdn_url }}/posts/2014/03/startssl-welcome-features.png)
 {:.breakout}
 
 Navigate to [StartSSL's home page](https://www.startssl.com) and go through the sign-up process. The registration form should be pretty self-explanatory; you should try to be as accurate here as the point of an SSL certificate is to verify a real identity. If you plan to upgrade to higher class certification down the road, you'll also have to go through additional identity checks. Registering for Class 1 certificates is relatively painless, as only the domain name and email need verification.
@@ -45,7 +45,7 @@ Follow the onscreen directions to backup your client certificate. For the sake o
 
 You'll be redirected back to the home page, at which point you should try logging in by clicking on the icon with the photo and keys on the upper right. (Like I said, the UI is a little unintuitive.)
 
-![StartSSL Navigation Bar]({{ site.cdn_url }}posts/2014/03/startssl-topnavbar.png)
+![StartSSL Navigation Bar]({{ site.cdn_url }}/posts/2014/03/startssl-topnavbar.png)
 
 Log in by selecting your installed certificate from the dropdown (at least in the case of Chrome and Safari); it should start with the email address you registered with StartSSL. Once logged in, find the "Validations Wizard" tab and validate your domain (i.e., the one you're hosting your website with) through a standard verification email procedure.
 
@@ -141,7 +141,7 @@ Rename `MyStartSSLCert` to whatever you want to call your certificate on IAM. Th
 
 On your [CloudFront Management Console](https://console.aws.amazon.com/cloudfront/home) go to "Distribution Settings". On the General tab, you'll want to edit the settings to mach the screenshot below.
 
-![CloudFront Edit Distribution Settings]({{ site.cdn_url }}posts/2014/03/cloudfront-edit-distribution-settings.png)
+![CloudFront Edit Distribution Settings]({{ site.cdn_url }}/posts/2014/03/cloudfront-edit-distribution-settings.png)
 {:.breakout}
 
 Your certificate should show up in the dropdown list next to "Custom SSL Certificate". Also make sure to select "Only Clients that Support Server Name Indication (SNI)" for Custom SSL Client Support, since this is the only option that enables your own custom SSL certificates. Submit and head over to the "Origins" tab and go to the settings of your S3 origin.

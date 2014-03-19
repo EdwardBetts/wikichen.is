@@ -8,7 +8,7 @@ category: reading
 layout: blog
 comments: false
 
-image_url: books/cadence-and-slang.jpg
+image_url: /books/cadence-and-slang.jpg
 image_alt: "Cadence & Slang by Nick Disabato"
 
 affiliate_link: http://cadence.cc/

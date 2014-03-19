@@ -7,7 +7,7 @@ category: reading
 layout: blog
 comments: true
 
-image_url: books/the-tao-of-pooh.jpg
+image_url: /books/the-tao-of-pooh.jpg
 image_alt: "The Tao of Pooh by Benjamin Hoff"
 
 affiliate_link: http://www.amazon.com/gp/product/0140067477/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140067477&linkCode=as2&tag=wikichenis-20

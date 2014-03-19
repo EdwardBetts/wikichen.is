@@ -9,7 +9,7 @@ category: reading
 layout: blog
 comments: false
 
-image_url: books/zen-and-the-art-of-motorcycle-maintenance.jpg
+image_url: /books/zen-and-the-art-of-motorcycle-maintenance.jpg
 image_alt: "Zen and the Art of Motorcycle Maintenance by Robert Pirsig"
 
 affiliate_link: http://cadence.cc/
