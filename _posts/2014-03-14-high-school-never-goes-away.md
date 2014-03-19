@@ -43,9 +43,8 @@ As for Mrs. Wan, she said she was finally complacent with how her life is. She's
 
 She wasn't wrong. The fact that I have no sense of direction after all this self-exploration after college is proof of some inherently restless part of myself and ambiguity about what I really want from life. But as we talked I realized to my pleasant surprise that I do have a plan in the back of my head. There are two things that I'm going to do in the foreseeable future that hopefully help shed light on where I take my life:
 
-* I'm going to find an actual stable job, most likely in tech as that's where my skillset is most applicable. Great environment begets great opportunities, so I need to get my ass back to where my goals can be fleshed out. I'm also done with the whole early stage startup thing, learned the hard way many times over.
-
-* I'm going back to school. I've always wished I pursued design more rigorously in college, but my major got in the way. It's generally better to start grad school earlier in life than later, so within the next year or so I'm aiming to attend Stanford's d.school. (I guess David Kelley was right all along. Thanks, Dave.)
+* Find a job.
+* Go back to school.
 
 As for the far future, in five years' time, who knows. Maybe I'll figure it out, maybe I won't. Maybe I will start that company I've always wanted to. But for once I'm at least decisive about being decisive. At this stage of my life, I've accepted that I'll need to shelve my higher ambitions to gain some needed experience and perspective. I need to make peace with the restlessness and settle down, at least for a while.
 
