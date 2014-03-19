@@ -1,0 +1,32 @@
+/*---------------------------------------------------------------------------//
+
+  Partials: Base
+
+  Base partial keeps variables and loads all modules.
+
+//---------------------------------------------------------------------------*/
+
+// load'em motherlovin' modules
+@import "modules/all";
+
+// get some universal stylings here, man
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+  text-rendering: optimizeLegibility;
+
+  @media (max-width: $breakpoint-small) {
+    font-size: 93.75%
+  }
+}
+
+img {
+  max-width: 100%;
+}

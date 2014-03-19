@@ -1,0 +1,33 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Variables
+
+  Store all the global variables here, por favor.
+
+//---------------------------------------------------------------------------*/
+
+
+// unit sizes
+$base: 20;
+$base-font-size: ($base/16)*100%;
+
+// fonts
+$font-serif: "Hoefler Text", Georgia, "Times New Roman", serif;
+$font-sans: "Ideal Sans", Verdana, Helvetica, sans-serif;
+$font-monospace: "Source Code Pro", Monaco, Courier, monospace;
+
+// colors
+$green: #5C6666;
+$light-green: #8A9999;
+$lighter-green: #B8CCCC;
+
+$gray: #463F40;
+$light-gray: #AAAAAA;
+$lighter-gray: #D4D4D4;
+
+$ggb-orange: #c0362c;
+
+// breakpoints
+$breakpoint-small: 30em;
+$breakpoint-medium: 48em;
+$breakpoint-large: 75em;
