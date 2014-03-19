@@ -83,7 +83,7 @@ end
 
 desc "Create a new post"
 task :new do
-  type = ENV["type"] || "writing"
+  type = "writing"
   title = ENV["title"] || "New Post"
   slug = title.gsub(' ','-').downcase
 
@@ -92,16 +92,18 @@ task :new do
   end
 
   filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
-  TARGET_DIR = "_posts/#{type}/"
+  TARGET_DIR = "_posts/"
   path = File.join(TARGET_DIR, filename)
   post = <<-HTML
 ---
-date: DATE
+
 title: "TITLE"
+subtitle: ""
+description: ""
+
 layout: LAYOUT
 category: CATEGORY
-
-comments: true
+date: DATE
 
 image_url: ""
 image_alt: ""
