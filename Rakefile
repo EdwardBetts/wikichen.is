@@ -96,14 +96,13 @@ task :new do
   path = File.join(TARGET_DIR, filename)
   post = <<-HTML
 ---
-
 title: "TITLE"
 subtitle: ""
 description: ""
 
 layout: LAYOUT
 category: CATEGORY
-date: DATE
+date: "DATE"
 
 image_url: ""
 image_alt: ""
