@@ -21,7 +21,7 @@ During the Q&A following the press conference when asked if they themselves used
 
 ![iPhone 5 in an OtterBox Case]({{ site.cdn_url }}/posts/2014/03/otterbox-case-iphone5.jpg)
 
-The proliferation of accessorized devices today is a perverse trend and a personal affront to all that is beautiful and functional. There is delight in using products as they are designed, in suppressing undesirable economical motives to protect and mummify our devices, in suffocating the ability of the product to breathe in its natural form and articulate what works and what doesn't to the users who choose to bring it into their lives.
+The proliferation of accessorized devices today is a perverse trend and a personal affront to all that is beautiful and functional. There is delight in using products as they are designed, in suppressing undesirable economical motives to protect and mummify our devices, in allowing the product to breathe in its natural form and articulate what works and what doesn't to the users who choose to bring it into their lives.
 
 For this reason I never buy protective accessories for my electronics, and it's  helped me learn about what constitutes truly great products and appreciate the better designed things that I use on a daily basis.
 
