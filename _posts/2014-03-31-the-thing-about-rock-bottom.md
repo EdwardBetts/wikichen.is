@@ -13,7 +13,7 @@ category: posting
 
 The thing about rock bottom is that it’s easy to get there.
 
-It creeps on you, like a silent disease without symptoms; it’s hard to diagnose and the prognosis often comes too late. Hitting rock bottom isn’t a definitive event marked by a timestamp. Oftentimes when it rears its ugly head it’s already too late, because—fucking surprise!—you’re right smack in the thick of it. You find it harder and harder to get up in the morning, time seems to fly by without your participation, and the number of days in which you wear pants fast approaches zero. It renders you, as I summarized for those who ask how I was at the time, a tremendously useless piece of shit.
+It creeps on you, like a silent disease without symptoms; it’s hard to diagnose and the prognosis often comes too late. Hitting rock bottom isn’t a definitive event marked by a timestamp. Oftentimes when it rears its ugly head it’s already too late, because—fucking surprise!—you’re right smack in the thick of it. You find it harder and harder to get up in the morning, time seems to fly by without your participation, and the number of days in which you wear pants fast approaches zero. It renders you, as I summarized for those who asked how I was at the time, a tremendously useless piece of shit.
 
 The thing about rock bottom is that there are innumerable ways to get there.
 
