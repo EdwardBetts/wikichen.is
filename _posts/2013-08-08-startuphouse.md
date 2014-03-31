@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "StartupHouse"
 subtitle: "A Circus of Dreamers, Fools, and Hackers"
 category: writing

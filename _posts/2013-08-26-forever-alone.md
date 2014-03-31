@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Forever Alone"
 subtitle: "Why Loneliness Matters in the Social Age"
 description: "On the perils and prevalence of loneliness as a problem in our society."
@@ -7,6 +7,11 @@ category: writing
 comments: true
 image_url: /posts/2013/08/snow.jpg
 ---
+
+<figure>
+  <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="Snowpocalypse in Pittsburgh">
+  <figcaption>Snowpocalypse at Carnegie Mellon University, Pittsburgh. &copy; 2010 Jonathan E. Chen</figcaption>
+</figure>
 
 > I got up and went over and looked out the window. I felt so lonesome, all of a sudden. I almost wished I was dead. Boy, did I feel rotten. I felt so damn lonesome. I just didn't want to hang around any more. It made me too sad and lonesome.
 >

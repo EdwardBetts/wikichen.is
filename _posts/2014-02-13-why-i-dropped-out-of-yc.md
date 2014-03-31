@@ -1,7 +1,7 @@
 ---
 title: "Why I Dropped Out Of YC"
 subtitle: "When Hot Pants Get Uncomfortable"
-layout: blog
+layout: post
 category: writing
 comments: true
 

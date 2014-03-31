@@ -6,7 +6,7 @@ book_author: "Robert Pirsig"
 description: "Takeaways from the book that's not about motorcycles."
 
 category: reading
-layout: blog
+layout: post
 comments: false
 
 image_url: /books/zen-and-the-art-of-motorcycle-maintenance.jpg

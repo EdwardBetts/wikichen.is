@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<body>
+  <article class="post">
+    <div class="container">
+      <header class="post-header">
+        <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+        <a href="{{ post.url }}" title="Post Permalink">&infin;</a> &middot;
+        <time class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
+      </header>
+      {% if page.image_url %}
+      <div class="block">
+        <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
+      </div>
+      {% endif %}
+      {{ content }}
+      <div class="fleuron"></div>
+    </div>
+    {% include comments.html %}
+  </article>
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>

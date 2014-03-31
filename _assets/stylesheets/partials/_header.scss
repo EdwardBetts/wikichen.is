@@ -1,0 +1,34 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Header
+
+  Site-wide header and navigation foodstuffs.
+
+//---------------------------------------------------------------------------*/
+
+.site-header {
+  color: $lighter-gray;
+  background-color: $black;
+  text-align: center;
+  line-height: 1.5;
+  height: 48px;
+}
+
+.site-name {
+  @extend .caps;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.site-logomark {
+  font-size: 32px;
+  vertical-align: middle;
+  margin: 0 5px;
+  top: -2px;
+}
+
+.site-section {
+  @extend .caps;
+  font-family: $font-serif-sc;
+  font-size: 20px;
+}

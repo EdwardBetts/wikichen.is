@@ -2,4 +2,15 @@
 
   Partial: Layout
 
+  Specific stylings for sections go here.
+
 //---------------------------------------------------------------------------*/
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+
+  @media (max-width: $breakpoint-medium) {
+    max-width: 90%;
+  }
+}
