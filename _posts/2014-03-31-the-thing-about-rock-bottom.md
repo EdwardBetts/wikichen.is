@@ -8,7 +8,7 @@ category: posting
 
 <figure>
   <img src="{{ site.cdn_url }}/posts/2014/03/rescuetime-summary.png" alt="My Week's RescueTime Summary">
-  <figcaption>What rock bottom looks like quantified. My week’s summary from  <a href="https://www.rescuetime.com/">RescueTime</a>.</figcaption>
+  <figcaption>What rock bottom looks like quantified. My week’s summary from <a href="https://www.rescuetime.com/">RescueTime</a>.</figcaption>
 </figure>
 
 The thing about rock bottom is that it’s easy to get there.
