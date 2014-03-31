@@ -88,7 +88,7 @@ task :new do
   slug = title.gsub(' ','-').downcase
 
   if type == "writing"
-    layout = "blog"
+    layout = "post"
   end
 
   filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
@@ -97,15 +97,10 @@ task :new do
   post = <<-HTML
 ---
 title: "TITLE"
-subtitle: ""
-description: ""
+date: "DATE"
 
 layout: LAYOUT
 category: CATEGORY
-date: "DATE"
-
-image_url: ""
-image_alt: ""
 ---
 
 HTML
@@ -118,5 +113,5 @@ HTML
     file.puts post
   end
   puts "New #{type} post generated in #{path}"
-  system "subl #{path}"
+  system "atom #{path}"
 end

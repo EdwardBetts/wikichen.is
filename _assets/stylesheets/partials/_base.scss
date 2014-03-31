@@ -1,0 +1,32 @@
+/*---------------------------------------------------------------------------//
+
+  Partials: Base
+
+  Base partial keeps variables and loads all modules.
+
+//---------------------------------------------------------------------------*/
+
+// get some universal stylings here, man
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+}
+
+html {
+  color: $gray;
+  font: #{$base-font-size}/#{$baseline-size} $font-sans;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+
+  @media (max-width: $breakpoint-small) {
+    font-size: 93.75%
+  }
+}
+
+img {
+  max-width: 100%;
+}

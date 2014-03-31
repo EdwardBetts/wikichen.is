@@ -1,0 +1,41 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Variables
+
+  Store all the global variables here, por favor.
+
+//---------------------------------------------------------------------------*/
+
+
+// unit sizes
+$base: 16;
+$base-font-size: ($base/16)*100%;
+$baseline-size: 28 / (16 * ($base-font-size/100%));
+$baseline: $baseline-size * 1rem;
+
+// fonts
+$font-serif: 'Mercury SSm A', 'Mercury SSm B', Georgia, 'Times New Roman', serif;
+$font-serif-sc: "Mercury SSm SC A", "Mercury SSm SC B", $font-serif;
+
+$font-sans: 'Whitney SSm A', 'Whitney SSm B', Verdana, Helvetica, sans-serif;
+$font-sans-sc: "Whitney SSm SC A", "Whitney SSm SC B", $font-sans;
+
+$font-monospace: 'Source Code Pro', Monaco, Courier, monospace;
+$font-fleurons: 'Hoefler Text Fleur A', 'Hoefler Text Fleur B', serif;
+
+// colors
+$green: #5C6666;
+$light-green: #8A9999;
+$lighter-green: #B8CCCC;
+
+$black: #2E3333;
+$gray: #463F40;
+$light-gray: #AAAAAA;
+$lighter-gray: #D4D4D4;
+
+$ggb-orange: #c0362c;
+
+// breakpoints
+$breakpoint-small: 30em;
+$breakpoint-medium: 48em;
+$breakpoint-large: 75em;

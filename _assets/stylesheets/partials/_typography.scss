@@ -1,0 +1,87 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Typography
+
+//---------------------------------------------------------------------------*/
+
+h1 {
+  color: $gray;
+  font-family: $font-sans;
+  font-size: $baseline * 1.5;
+  line-height: 1;
+  margin-bottom: $baseline * 1.5;
+
+  @media (max-width: $breakpoint-small) {
+    font-size: $baseline;
+  }
+}
+
+h2 {
+  font-family: $font-sans;
+  font-weight: 600;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline solid $gray;
+  transition: .3s;
+  cursor: pointer;
+  &:hover { color: $ggb-orange; }
+}
+
+.caps {
+  font-family: $font-sans-sc;
+  text-transform: uppercase;
+}
+
+em, .em {
+  font-style: italic;
+}
+
+strong, .strong {
+  font-weight: bold;
+}
+
+blockquote {
+  overflow: hidden;
+  border-left: 2px solid $light-green;
+  padding-left: $baseline;
+  color: $gray;
+  margin-bottom: $baseline;
+
+  @media (max-width: $breakpoint-small) {
+    margin-left: 0;
+  }
+  > :first-child {
+    margin-top: 0;
+  }
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+p {
+  margin-bottom: $baseline;
+}
+
+.amp {
+  font-family: Baskerville, Palatino, "Book Antiqua", serif;
+  font-style: italic;
+}
+
+hr {
+  margin-top: $baseline*2;
+  margin-bottom: $baseline*2;
+  border: 1px solid $lighter-gray;
+  width: 60px;
+}
+
+.fleuron:before {
+  content: "❦";
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  color: $lighter-gray;
+  font-size: 28px;
+  margin-top: $baseline;
+}

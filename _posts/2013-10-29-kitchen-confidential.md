@@ -5,7 +5,7 @@ book_title: "Kitchen Confidential"
 book_author: "Anthony Bourdain"
 
 category: reading
-layout: blog
+layout: post
 comments: false
 
 image_url: /books/kitchen-confidential.jpg

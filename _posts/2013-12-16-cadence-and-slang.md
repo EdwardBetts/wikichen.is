@@ -1,11 +1,11 @@
 ---
-title: "Cadence & Slang"
+title: "A Quintessential Primer to Interaction Design"
 subtitle: "The Quintessential Primer to Interaction Design"
 book_title: "Cadence & Slang"
 book_author: "Nick Disabato"
 
 category: reading
-layout: blog
+layout: post
 comments: false
 
 image_url: /books/cadence-and-slang.jpg
@@ -21,7 +21,3 @@ The handbook’s refreshingly humble attempt at defining interaction design and 
 *Cadence & Slang* takes its name from Disabato’s characterization of interaction design—the process with which we translate technology’s internal slang into the rhythmic cadence with which we conduct our work, or put simply, it’s the art and craft of making things easier to use. The layout of the book is as functional as it is elegant in its simplicity: the two-column grid makes room for a sidebar that reveals illustrations as well as footnotes that provide external sources which explore the respective topics in depth, most of which you’ll want to reference as you build upon the design guidelines Disabato outlines in the book.
 
 Few introductory texts have managed to capture the essence of its field so engrossingly, with such rigorous succinctness and clarity that engage and stimulate the minds of designers and non-designers alike. *Cadence & Slang* is a phenomenal starting point if you’ve ever wondered, at a systemic level, how designing better products can help make us better humans, and a required reading if you have any part in creating products that people use to improve their lives.
-
-<a class="button buy" href="{{ page.affiliate_link }}">
-  Get the book
-</a>

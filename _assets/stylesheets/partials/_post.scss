@@ -1,0 +1,37 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Post
+
+  Post stylings.
+
+//---------------------------------------------------------------------------*/
+
+.posts, .post {
+  margin-top: $baseline;
+  margin-bottom: $baseline;
+}
+
+.post-header {
+  margin-bottom: $baseline;
+}
+
+.post-title {
+  font-family: $font-sans;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 1.2;
+  margin-top: $baseline;
+  margin-bottom: $baseline * 0.2;
+
+  a {
+    text-decoration: none;
+    &:hover {
+      color: inherit;
+    }
+  }
+}
+
+.post-date {
+  color: $light-gray;
+  font-size: 14px;
+}

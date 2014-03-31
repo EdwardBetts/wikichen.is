@@ -3,7 +3,7 @@ title: "Beyond Bricks & Mordor"
 subtitle: "The Power of Completionism"
 
 category: writing
-layout: blog
+layout: post
 comments: true
 
 image_url: /posts/2013/08/legolotr.jpg

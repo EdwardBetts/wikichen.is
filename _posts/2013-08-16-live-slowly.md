@@ -5,7 +5,7 @@ subtitle: "Zen and the Lost Art of Living"
 featured: true
 category: writing
 tags: living
-layout: blog
+layout: post
 comments: true
 
 image_url: /posts/2013/08/breakfast.jpg

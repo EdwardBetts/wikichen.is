@@ -5,7 +5,7 @@ book_title: "The 4-Hour Chef"
 book_author: "Timothy Ferriss"
 
 category: reading
-layout: blog
+layout: post
 comments: false
 
 image_url: /books/the-4-hour-chef.jpg

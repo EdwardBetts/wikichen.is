@@ -5,7 +5,7 @@ book_title: "Without Their Permission"
 book_author: "Alexis Ohanian"
 
 category: reading
-layout: blog
+layout: post
 comments: false
 
 image_url: /books/without-their-permission.jpg

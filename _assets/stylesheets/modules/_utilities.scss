@@ -1,0 +1,27 @@
+/*---------------------------------------------------------------------------//
+
+  Module: Utilities
+
+  Some helpful helper methods and classes to use in the project.
+
+//---------------------------------------------------------------------------*/
+
+// clearfix
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+@mixin caps($font-family) {
+  font-family: $font-family;
+  text-transform: uppercase;
+}

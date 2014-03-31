@@ -1,0 +1,24 @@
+/*---------------------------------------------------------------------------//
+
+  Partial: Footer
+
+  Site footer stylings and such.
+
+//---------------------------------------------------------------------------*/
+
+.site-footer {
+  $font-size: 14px;
+  background-color: $black;
+  color: $lighter-gray;
+  font-family: $font-serif;
+  font-size: 14px;
+  line-height: (20 / 14);
+  padding-top: $baseline;
+  padding-bottom: $baseline;
+
+  h3 {
+    @include caps($font-serif-sc);
+    font-size: 16px;
+    margin-bottom: $baseline * 0.5;
+  }
+}

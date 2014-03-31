@@ -5,7 +5,7 @@ subtitle: "Some Hard Lessons Learned in 2013"
 featured: true
 category: writing
 tags: living
-layout: blog
+layout: post
 comments: true
 ---
 
