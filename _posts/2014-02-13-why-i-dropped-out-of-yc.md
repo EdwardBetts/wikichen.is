@@ -11,6 +11,11 @@ image_url: "/posts/2014/02/moleskin.jpg"
 image_alt: "Moleskin Squared Notebook"
 ---
 
+<figure>
+  <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="{{ page.image_alt }}">
+  <figcaption>My second Moleskine notebook. &copy; 2014 Jonathan E. Chen</figcaption>
+</figure>
+
 I bought my first Moleskine by sheer coincidence while shopping for craft supplies that a design course had required; I had avoided buying a notebook for the first two years at university by resourcefully (for which some might argue was born out of necessity from the lazy frugality of your average college kid) removing stacks of printer paper from the student center under a well-rehearsed, convincing ruse that I was somehow heroically fixing a "paper jam".
 
 By my third year I was making enough money from being a resident advisor and scraping by with a delightful hodgepodge of research jobs that I could finally renounce my thieving ways and afford some decent stationeries, one of which was a proper notebook on which I could keep notes. *I'm going to be taking actual notes in an actual notebook like a Shakespearean boss*, I thought as I browsed the notebook section in the art supplies store. I picked the most conventional looking one from the pile: a large Moleskine Classic Notebook with a hard cover and plain, white pages. I knew not what a Moleskine was then or of its more hipster connotations (I swear) or why it cost an arm and leg for one, but I was pleased to have something I could, at long last, take notes on that's not single sheet and A4-sized.
