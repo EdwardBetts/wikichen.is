@@ -1,13 +1,16 @@
 ---
 title: "The Thing About Rock Bottom"
 date: "2014-03-31 10:14:31 -0700"
+description: "On falling to and climbing out of rock bottom."
 
 layout: post
 category: posting
+
+image_url: /posts/2014/03/rescuetime-summary.png
 ---
 
 <figure>
-  <img src="{{ site.cdn_url }}/posts/2014/03/rescuetime-summary.png" alt="My Week's RescueTime Summary">
+  <img src="{{ site.cdn_url }}{{ page.image_url }}" alt="My Week's RescueTime Summary">
   <figcaption>What rock bottom looks like quantified. My week’s summary from <a href="https://www.rescuetime.com/">RescueTime</a>.</figcaption>
 </figure>
 
@@ -17,7 +20,7 @@ It creeps on you, like a silent disease without symptoms; it’s hard to diagnos
 
 The thing about rock bottom is that there are innumerable ways to get there.
 
-It happened this time because I haven’t fully recovered from my breakup with Y Combinator and the startup. Coming to terms with it was hampered by a Facebook feed filled with the frenzy of Demo Day from former batchmates. Even knowing that it was ultimately the right decision to leave, it was hard not to feel dejected about the experience as a consequence. Failure, or at least feelings of failure, is a time-tested, well-traversed shortcut to rock bottom. (Not to say there aren’t others, because there are too many to count.)
+It happened this time because I haven’t fully recovered from [my breakup with Y Combinator](/writing/why-i-dropped-out-of-yc/) and the startup. Coming to terms with it was hampered by a Facebook feed filled with the frenzy of Demo Day from former batchmates. Even knowing that it was ultimately the right decision to leave, it was hard not to feel dejected about the experience as a consequence. Failure, or at least feelings of failure, is a time-tested, well-traversed shortcut to rock bottom. (Not to say there aren’t others, because there are too many to count.)
 
 The thing about rock bottom is that it sucks. A lot.
 

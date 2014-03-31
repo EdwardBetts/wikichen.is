@@ -1,6 +1,8 @@
+{% if page.category == "writing" or page.category == "posting" %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@wikichen">
 <meta name="twitter:creator" content="@wikichen">
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.description }}">
 <meta name="twitter:image:src" content="{{ site.cdn_url }}{{ page.image_url }}">
+{% endif %}
