@@ -21,8 +21,8 @@
   font-size: 24px;
   line-height: 1.2;
   margin-top: $baseline;
-  margin-bottom: $baseline * 0.2;
-
+  margin-bottom: 0;
+  
   a {
     text-decoration: none;
     &:hover {
@@ -34,4 +34,5 @@
 .post-date {
   color: $light-gray;
   font-size: 14px;
+  font-family: $font-sans;
 }
