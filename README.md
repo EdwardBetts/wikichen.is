@@ -1,16 +1,29 @@
 # What's Under the Hood
 
-This documentation is a work-in-progress. A lot of people have asked me how I run my site, and this is an attempt to keep it DRY. I still welcome questions, though!
+This documentation is a work-in-progress. A lot of people have asked me how I run my site, and this is an attempt to keep it DRY. I still welcome any questions, though!
 
+## Overview
 
+[TODO]
 
+## Workflow
 
-## Hosting
+* SASS (project setup, etc.)
+* assets pipeline (pending Grunt transition)
+* plugins (awaiting refactoring...)
+* deployment with `s3_website` gem
 
-### Domain: [IWantMyName](https://iwantmyname.com/)
+[TODO]
 
-I *fucking love* these guys. It's been a few years since I bought my first domain name from them and we have an outstanding relationship.
+## Services
 
-### Storage: Amazon S3
+A list of services that power the static site.
 
-### Distribution: CloudFront
+* Domain: [IWantMyName](https://iwantmyname.com/)
+* DNS: [Amazon Route 53](http://aws.amazon.com/route53/)
+* Storage: [Amazon S3](http://aws.amazon.com/s3/)
+* Distribution: [Amazon CloudFront](http://aws.amazon.com/cloudfront/)
+
+## Miscellanies
+
+[TODO]
