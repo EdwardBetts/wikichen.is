@@ -6,7 +6,7 @@ layout: post
 category: posting
 ---
 
-Keeping in touch with the people who matter in my life, as well as cultivating the relationships that can potentially become just as important, has been a problem that's been a particular paint point for me over the past several years as I ventured out into the real world.
+Keeping in touch with the people who matter in my life, as well as cultivating the relationships that can potentially become just as important, has been a particular pain point for me over the past several years as I ventured out into the real world.
 
 So I decided to finally make something to solve it in my own way.
 
@@ -36,6 +36,6 @@ I've written enough words today, so I'll let the page do all the talking. I've a
 >
 >P.S. Thanks to Jeremy, Kevin, Ashley, and Owen for reading drafts of this post.
 
-Why letters? Probably because I'm an introvert at heart. I can't stand talking on the phone lest there's nothing to say, but I can write one hell of a mean letter. Well, a personal one, but you know that's just an expression. I've also started reaching out to mentors and teachers, people who aren't exactly active online but are just as significant in my life, so fingers crossed that the reception will be good. 
+Why letters? Probably because I'm an introvert at heart. I can't stand talking on the phone lest there's nothing to say, but I can write one hell of a mean letter. Well, a personal one, but you know that's just an expression. I've also started reaching out to mentors and teachers, people who aren't exactly active online but are just as significant in my life, so fingers crossed that the reception will be good.
 
 The first letter should be out at end of the month, which I hope would set the precedent for the newsletter's direction to be more of a monthly retrospective. But anything goes. For now, it'll be nice to finally have a more sizable audience to write to and connect with.
