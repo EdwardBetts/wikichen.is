@@ -1,0 +1,177 @@
+/*---------------------------------------------------------------------------//
+
+  Personal.scss
+
+  Stylesheet for personal section (Letters from Jonathan)
+
+//---------------------------------------------------------------------------*/
+
+@import "modules/all";
+
+// unit sizes
+$base: 18;
+$base-font-size: ($base/16)*100%;
+$baseline-size: 28 / (16 * ($base-font-size/100%));
+$baseline: $baseline-size * 1rem;
+
+// fonts
+$font-serif: 'Hoefler Text A', 'Hoefler Text B', Georgia, 'Times New Roman', serif;
+$font-serif-sc: 'Hoefler Text SC A', 'Hoefler Text SC B', $font-serif;
+$font-serif-swashes: 'Hoefler Text Swashes A', 'Hoefler Text Swashes B', $font-serif;
+$font-fleurons: 'Hoefler Text Fleur A', 'Hoefler Text Fleur B', sans-serif;
+
+// colors
+$orange: #F5A623;
+
+@import "partials/reset";
+@import "partials/base";
+@import "partials/typography";
+
+html {
+  font-feature-settings: "liga", "dlig", "salt";
+  -webkit-font-feature-settings: "liga", "dlig";
+}
+
+body {
+  background-color: #F6F6F6;
+}
+
+.page-header {
+  text-align: center;
+  margin: $baseline*4 0;
+}
+
+h1 {
+  font-family: $font-serif;
+  font-size: 2.66667rem;
+  font-style: italic;
+  line-height: 1;
+  color: $gray;
+  margin-bottom: $baseline*0.5;
+  a {
+    text-decoration: none;
+  }
+  @media (max-width: $breakpoint-small) {
+
+  }
+}
+
+.page-desc {
+  font-style: italic;
+  color: $light-gray;
+  font-size: 1rem;
+}
+
+.bracket {
+  font-style: normal;
+  font-feature-settings: "salt" 1;
+}
+
+h2 {
+  @include caps($font-serif-sc);
+  margin-bottom: 0.4em;
+}
+
+a:hover {
+  color: $orange;
+}
+
+strong {
+  font-weight: 700;
+}
+
+.wrap {
+  max-width: 580px;
+  margin: 0 auto;
+
+  @media (max-width: $breakpoint-small) {
+    width: 90%;
+  }
+}
+
+.letter-intro, .letter-response {
+  background: #FFFFFF;
+  max-width: 700px;
+  margin: 0 auto;
+  border: 1px solid #F0F0F0;
+  border-radius: 1px;
+}
+
+.letter-intro {
+  padding-top: $baseline*2;
+  margin-bottom: $baseline*2;
+}
+
+.letter-response {
+  padding: $baseline*2 0;
+}
+
+.letter-header {
+  text-align: center;
+  margin-bottom: $baseline*2;
+}
+
+.letter-fleuron {
+  font-family: $font-fleurons;
+  font-size: 2rem;
+  color: $light-gray;
+  line-height: 1;
+}
+
+.letter-date {
+  @include caps($font-serif-sc);
+  color: $light-gray;
+}
+
+.letter-title {
+  font-size: $baseline;
+  font-style: italic;
+}
+
+.dc {
+  float: left;
+  padding-right: 0.25em;
+  padding-top: 0.1em;
+  line-height: 1;
+
+  color: $orange;
+  font-size: $baseline*2.5;
+  font-family: $font-serif-swashes;
+  font-style: italic;
+}
+
+.swa {
+  font-family: $font-serif-swashes;
+}
+
+.subs-link {
+  @include caps($font-serif-sc);
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.break-fleuron:before {
+  font-family: $font-fleurons;
+  font-size: 2rem;
+  margin: $baseline 0;
+  display: block;
+  color: $lighter-gray;
+  content: "9";
+  text-align: center;
+}
+
+.aside {
+  font-size: 0.88889rem;
+  color: $light-gray;
+  margin: 1em 0;
+}
+
+.fl {
+  font-family: $font-fleurons;
+}
+
+.cramped {
+  @media (max-width: $breakpoint-small) {
+    display: none;
+  }
+}
