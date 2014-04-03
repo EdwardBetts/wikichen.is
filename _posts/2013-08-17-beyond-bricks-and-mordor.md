@@ -10,10 +10,6 @@ image_url: /posts/2013/08/legolotr.jpg
 image_alt: "LEGO Lord of the Rings"
 ---
 
-*This post was originally published on Medium, which never saw many views. I hope it finds a new audience here, as it explores two of my favorite things: video games and user-centered design.*
-
-- - -
-
 It didn’t seem long ago that my brother and I were excitedly fantasizing about a potential Lego game by Traveller’s Tales set in J. R. R. Tolkien’s epic Middle Earth as we smashed and built our way through their [original brickified Star Wars games][starwars].
 
 [starwars]: http://en.wikipedia.org/wiki/Lego_Star_Wars:_The_Video_Game
