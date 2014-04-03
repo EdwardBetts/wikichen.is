@@ -5,7 +5,8 @@ category: home
 ---
 
 <body id="home">
-  <div class="container">
+<div class="container">
+  <div class="content-wrapper">
     <section id="posts" class="posts">
       {% for post in site.posts limit:5 %}
       <article class="post">
@@ -20,5 +21,7 @@ category: home
       {% endfor %}
     </section>
   </div>
+</div>
   {% include footer.html %}
+
 </body>
