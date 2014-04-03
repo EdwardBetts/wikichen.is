@@ -22,7 +22,7 @@
   line-height: 1.2;
   margin-top: $baseline;
   margin-bottom: 0;
-  
+
   a {
     text-decoration: none;
     &:hover {
@@ -35,4 +35,8 @@
   color: $light-gray;
   font-size: 14px;
   font-family: $font-sans;
+}
+
+.post-excerpt p {
+  margin-bottom: 0;
 }
