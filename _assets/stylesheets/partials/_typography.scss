@@ -42,6 +42,10 @@ strong, .strong {
   font-weight: bold;
 }
 
+del, .del {
+  text-decoration: line-through;
+}
+
 blockquote {
   overflow: hidden;
   border-left: 2px solid $light-green;
