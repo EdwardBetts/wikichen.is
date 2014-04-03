@@ -93,7 +93,7 @@ buaXwIxjL9iu5pMfbt+lEA==
 -----END CERTIFICATE REQUEST-----
 ~~~~~
 
-Upon submission you'll be forwarded to the Certificate Request Received page. Keep going and add your domain on the next page. When asked to add one subdomain to the certificate, put in `wwww`. The root domain is included by default, and you'll want the option for CloudFront to serve your site through HTTPS on your `www` subdomain as well.
+Upon submission you'll be forwarded to the Certificate Request Received page. Keep going and add your domain on the next page. When asked to add one subdomain to the certificate, put in `www`. The root domain is included by default, and you'll want the option for CloudFront to serve your site through HTTPS on your `www` subdomain as well.
 
 Continue through the "Ready Processing Certificate" page and if all goes well you should get an email confirming that your SSL certificate has been issued. Go back to the "Tool Box" tab on StartSSL and select "Retrieve Certificate" from the left menu. Select your certificate from the dropdown list and you'll be able to copy down your certificate. Save it in a file called `ssl.crt`.
 
