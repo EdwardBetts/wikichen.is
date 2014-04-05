@@ -5,6 +5,7 @@ book_title: "Kitchen Confidential"
 book_author: "Anthony Bourdain"
 
 category: reading
+tags: reading
 layout: post
 comments: false
 

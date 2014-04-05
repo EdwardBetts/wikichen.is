@@ -6,6 +6,7 @@ book_author: "Robert Pirsig"
 description: "Takeaways from the book that's not about motorcycles."
 
 category: reading
+tags: reading
 layout: post
 comments: false
 

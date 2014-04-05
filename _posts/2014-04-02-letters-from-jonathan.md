@@ -4,6 +4,7 @@ date: "2014-04-02 22:28:39 -0700"
 
 layout: post
 category: posting
+tags: making
 ---
 
 Keeping in touch with the people who matter in my life, as well as cultivating the relationships that can potentially become just as important, has been a particular pain point for me over the past several years as I ventured out into the real world.

@@ -2,10 +2,11 @@
 title: "Use As Designed"
 subtitle: "The Perverse Rise of Accessory Culture"
 description: "On the perverse rise of accessory culture."
+date: "2014-03-19 12:39:42 -0700"
 
 layout: blog
 category: writing
-date: "2014-03-19 12:39:42 -0700"
+tags: design
 
 image_url: /posts/2014/03/steve-jobs-iphone4.jpg
 image_alt: "Steve Jobs holding an iPhone 4"

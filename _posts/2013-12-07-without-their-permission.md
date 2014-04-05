@@ -5,6 +5,7 @@ book_title: "Without Their Permission"
 book_author: "Alexis Ohanian"
 
 category: reading
+tags: reading
 layout: post
 comments: false
 

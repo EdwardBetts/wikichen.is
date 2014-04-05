@@ -2,10 +2,11 @@
 title: "Waiting in Lines"
 subtitle: "Draw On All The Things"
 description: "Why we should draw lines at BART stations."
+date: "2014-03-20 11:29:23 -0700"
 
 layout: blog
 category: writing
-date: "2014-03-20 11:29:23 -0700"
+tags: design
 ---
 
 The Taipei Metro, colloquially known as the MRT, is the subway system serving metropolitan Taipei in Taiwan. When I was in Taipei a few weeks ago, what stood out to me was how modernized the public transport system was, and the delightful attention to detail sorely lacking in the design and maintenance of its Western counterpart in the Bay Area.

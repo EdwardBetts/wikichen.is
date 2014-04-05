@@ -4,6 +4,7 @@ title: "Forever Alone"
 subtitle: "Why Loneliness Matters in the Social Age"
 description: "On the perils and prevalence of loneliness as a problem in our society."
 category: writing
+tags: writing
 comments: true
 image_url: /posts/2013/08/snow.jpg
 ---

@@ -6,6 +6,7 @@ date: "2014-03-17 12:58:01 -0700"
 
 layout: blog
 category: writing
+tags: writing
 ---
 
 A few days ago I received an email from a reader (who might be sole constituent of my readership) whose kindness and candidness moved me beyond any correspondence I've ever had the pleasure of receiving.

@@ -5,6 +5,7 @@ book_title: "Cadence & Slang"
 book_author: "Nick Disabato"
 
 category: reading
+tags: reading
 layout: post
 comments: false
 

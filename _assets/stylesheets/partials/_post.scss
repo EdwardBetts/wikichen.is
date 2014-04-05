@@ -40,3 +40,35 @@
 .post-excerpt p {
   margin-bottom: 0;
 }
+
+.post-tags {
+  text-transform: lowercase;
+  font-family: $font-sans;
+  font-size: 0.7rem;
+  padding: 0.1em 0.4em 0.2em;
+}
+
+// individual tags
+$orange: #ff6600;
+$blue: #2d72d9;
+$green: #5C6666;
+$purple: #251957;
+
+@mixin tag($color: inherit) {
+  border-radius: 5px;
+  border: 1px solid $color;
+  color: $color;
+}
+
+.tag-writing {
+  @include tag($green);
+}
+.tag-design {
+  @include tag($blue);
+}
+.tag-making {
+  @include tag($orange);
+}
+.tag-reading {
+  @include tag($purple);
+}

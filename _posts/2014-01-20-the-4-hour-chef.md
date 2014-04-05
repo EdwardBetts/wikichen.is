@@ -5,6 +5,7 @@ book_title: "The 4-Hour Chef"
 book_author: "Timothy Ferriss"
 
 category: reading
+tags: reading
 layout: post
 comments: false
 

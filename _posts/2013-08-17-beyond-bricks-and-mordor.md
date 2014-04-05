@@ -3,6 +3,7 @@ title: "Beyond Bricks & Mordor"
 subtitle: "The Power of Completionism"
 
 category: writing
+tags: design
 layout: post
 comments: true
 

@@ -4,6 +4,7 @@ subtitle: "A Guidebook to Happiness"
 book_author: "Benjamin Hoff"
 
 category: reading
+tags: reading
 layout: post
 comments: true
 
