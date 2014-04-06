@@ -6,7 +6,7 @@ description: "And read... read all the time... read as a matter of principle, as
 date: "2014-03-18 22:15:41 -0700"
 
 layout: blog
-category: reading
+category: writing
 tags: reading
 ---
 
