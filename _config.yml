@@ -6,18 +6,15 @@ author:
   email: hello@wikichen.is
 
 markdown: kramdown
+
 pygments: true
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
 permalink: /:categories/:title/
 
-enable_disqus: false
 cdn_baseurl: http://cloud.wikichen.is
 cdn_url: http://cloud.wikichen.is/serving
 
-assets:
-  js_compressor: uglifier
-  css_compressor: sass
-  sources:
-    - _assets/stylesheets
-    - _assets/javascripts
-    - _assets/images
+enable_disqus: false
+
+exclude: ['node_modules', 'gemfile', 'gulpfile.js', 'Rakefile',
+          's3_website.yml', 'README.md', 'LICENSE']

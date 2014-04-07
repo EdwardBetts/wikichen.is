@@ -1,6 +1,11 @@
+# Ignore Jekyll poo
 _site/
 _drafts/
+
+# Ignore SASS crap
 *.sass-cache
+
+# Ignore OS X junk
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -8,3 +13,6 @@ Icon
 ._*
 .Spotlight-V100
 .Trashes
+
+# Ignore node dependencies
+node_modules/

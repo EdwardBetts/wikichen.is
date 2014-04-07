@@ -14,7 +14,7 @@ var comments = document.getElementById('disqus_thread');
 
 $(document).ready(function() {
   $('.showComments').on('click', function() {
-    var disqus_shortname = 'wikichen'
+    var disqus_shortname = 'wikichen';
 
     // ajax request to load the disqus javascript
 		$.ajax({
